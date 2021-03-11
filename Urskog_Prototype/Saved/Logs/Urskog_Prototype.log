@@ -888,3 +888,733 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.11-16.50.39:415][289]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_01C039E4B745061D1F0E5EFFB8263F2EDC.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_Graphics_01.umap'
 [2021.03.11-16.50.39:427][289]AssetCheck: New page: Asset Save: Level_Graphics_01
 [2021.03.11-16.50.39:427][289]LogContentValidation: Display: Validating World /Game/Levels/Level_Graphics_01.Level_Graphics_01
+[2021.03.11-16.53.25:455][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.11-16.53.28:045][ 99]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-16.53.29:335][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.11-16.53.30:254][243]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-16.53.30:327][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.11-16.53.30:334][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.11-16.53.30:339][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.11-16.53.30:344][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.11-16.53.30:357][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.03.11-16.53.30:362][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.11-16.53.32:245][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.03.11-16.53.32:994][460]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-16.53.33:057][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.11-16.53.33:069][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.03.11-16.53.33:074][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.11-16.53.35:885][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.03.11-17.00.08:750][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.11-17.00.13:159][275]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-17.00.28:897][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.11-17.00.29:837][ 74]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-17.00.29:845][ 74]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Meshes/Foilage/SM_Geometry_Grass.SM_Geometry_Grass
+[2021.03.11-17.00.30:219][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.03.11-17.00.30:225][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.03.11-17.00.30:230][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.11-17.00.39:894][198]LogStaticMesh: Building static mesh SM_Tree...
+[2021.03.11-17.00.39:921][198]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Tree/SM_Tree.SM_Tree
+[2021.03.11-17.00.39:957][198]LogMetaData: Removing '/Game/Models/Tree/SM_Tree_01_00.SM_Tree_01_00' ref from Metadata '/Game/Models/Tree/SM_Tree.PackageMetaData'
+[2021.03.11-17.00.39:987][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/SM_Tree_01_00" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Tree_01_00.uasset" SILENT=true
+[2021.03.11-17.00.40:004][198]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Tree_01_00E8D3134C4F930DFBF06AE395FCFBA0A1.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Tree_01_00.uasset'
+[2021.03.11-17.00.40:054][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.11-17.00.40:074][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.11-17.00.40:082][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.03.11-17.00.40:122][198]AssetCheck: New page: Asset Save: SM_Tree_01_00
+[2021.03.11-17.00.40:122][198]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/SM_Tree_01_00.SM_Tree_01_00
+[2021.03.11-17.00.50:295][368]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\burst\Desktop\Urskog2.0\Models\SM_Tree02.fbx)
+[2021.03.11-17.00.50:329][368]LogFbx: Loading FBX Scene from C:\Users\burst\Desktop\Urskog2.0\Models\SM_Tree02.fbx
+[2021.03.11-17.00.50:341][368]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.11-17.00.52:363][368]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.11-17.00.52:447][368]LogMaterial: Display: Missing cached shader map for material SM_Trunk1, compiling. 
+[2021.03.11-17.00.52:495][368]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.03.11-17.00.52:495][368]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.11-17.00.52:495][368]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.03.11-17.00.52:495][368]LogFbx: Display: Triangulating static mesh SM_Trunk2
+[2021.03.11-17.00.52:552][368]LogStaticMesh: Building static mesh SM_Tree02...
+[2021.03.11-17.00.52:565][368]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/SM_Tree02.SM_Tree02
+[2021.03.11-17.01.15:539][368]LogMeshUtilities: Finished distance field build in 35.6s - 128x128x128 distance field, 742 triangles, Range [-0.1, 1.0], SM_Tree
+[2021.03.11-17.01.19:101][368]LogMeshUtilities: Finished distance field build in 3.6s - 58x60x64 distance field, 726 triangles, Range [-0.1, 1.0], SM_Tree02
+[2021.03.11-17.01.19:101][368]LogStaticMesh: Display: Main thread blocked for 26.521s for async distance field build of SM_Tree02 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.11-17.01.19:168][369]LogStaticMesh: Allocated 304x128x128 distance field atlas = 9.5Mb, with 31 objects containing 6.7Mb backing data
+[2021.03.11-17.01.19:209][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.03.11-17.01.19:212][369]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Graphics' took 0.007
+[2021.03.11-17.01.19:213][369]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/SM_Tree02] ([1] browsable assets)...
+[2021.03.11-17.01.19:228][369]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Tree/SM_Tree02.SM_Tree02]
+[2021.03.11-17.01.19:228][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/SM_Tree02]
+[2021.03.11-17.01.19:241][369]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Tree02_Auto1A22446584A2E231D5EB4148FB1BEAD6D.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/SM_Tree02_Auto1.uasset'
+[2021.03.11-17.01.19:241][369]LogFileHelpers: Auto-saving content packages took 0.030
+[2021.03.11-17.01.26:420][472]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Tree/SM_Tree02.SM_Tree02
+[2021.03.11-17.01.32:711][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.03.11-17.01.33:493][903]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-17.01.33:541][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.11-17.01.34:416][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/SM_Tree02" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Tree02.uasset" SILENT=true
+[2021.03.11-17.01.34:430][980]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Tree02F3F90FE94F33F6AC858A4AA55B60498F.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Tree02.uasset'
+[2021.03.11-17.01.34:440][980]AssetCheck: New page: Asset Save: SM_Tree02
+[2021.03.11-17.01.34:441][980]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/SM_Tree02.SM_Tree02
+[2021.03.11-17.01.35:500][ 81]LogSlate: Window 'SM_Tree02' being destroyed
+[2021.03.11-17.01.35:505][ 81]LogSlate: Window 'SM_Tree02' being destroyed
+[2021.03.11-17.01.35:515][ 81]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-17.01.35:515][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-17.01.36:841][201]LogActorFactory: Actor Factory created SM_Tree02
+[2021.03.11-17.01.37:365][254]LogActorFactory: Actor Factory created SM_Tree02
+[2021.03.11-17.01.37:593][274]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.11-17.03.27:785][592]LogEditorFactories: Performing atomic reimport of [C:/Users/burst/Desktop/Urskog2.0/Models/SM_Tree02.fbx]
+[2021.03.11-17.03.27:810][592]LogFbx: Loading FBX Scene from C:/Users/burst/Desktop/Urskog2.0/Models/SM_Tree02.fbx
+[2021.03.11-17.03.27:815][592]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.11-17.03.27:837][592]LogFbx: Display: Triangulating static mesh SM_Trunk2
+[2021.03.11-17.03.27:886][592]LogStaticMesh: Building static mesh SM_Tree02...
+[2021.03.11-17.03.27:896][592]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/SM_Tree02.SM_Tree02
+[2021.03.11-17.03.27:911][592]LogEditorFactories: -- imported successfully
+[2021.03.11-17.03.31:872][592]LogMeshUtilities: Finished distance field build in 4.0s - 62x63x64 distance field, 726 triangles, Range [-0.1, 1.0], SM_Tree02
+[2021.03.11-17.03.31:872][592]LogStaticMesh: Display: Main thread blocked for 3.958s for async distance field build of SM_Tree02 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.11-17.03.32:925][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree02)
+[2021.03.11-17.11.19:722][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.03.11-17.11.19:818][ 76]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_01_Auto255A9B9B342BEAFD1A520698CEE1B6D52.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Levels/Level_Graphics_01_Auto2.umap'
+[2021.03.11-17.11.19:822][ 76]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Graphics' took 0.110
+[2021.03.11-17.11.19:822][ 76]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.110
+[2021.03.11-17.11.19:822][ 76]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/SM_Tree02] ([1] browsable assets)...
+[2021.03.11-17.11.19:835][ 76]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Tree/SM_Tree02.SM_Tree02]
+[2021.03.11-17.11.19:835][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/SM_Tree02]
+[2021.03.11-17.11.19:852][ 76]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Tree02_Auto2B81C411E443828F16BE2BE8058C2F4FC.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/SM_Tree02_Auto2.uasset'
+[2021.03.11-17.11.19:853][ 76]LogFileHelpers: Auto-saving content packages took 0.031
+[2021.03.11-17.16.21:605][674]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\burst\Desktop\Urskog2.0\Models\SM_Root_01_00.fbx)
+[2021.03.11-17.16.21:612][674]LogFbx: Loading FBX Scene from C:\Users\burst\Desktop\Urskog2.0\Models\SM_Root_01_00.fbx
+[2021.03.11-17.16.21:620][674]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.11-17.16.23:507][674]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.11-17.16.23:532][674]LogFbxMaterialImport: Display: Unable to find Texture file C:/Users/burst/Desktop/UrskogGraphics//Textures/Tree/SM_TreeToTexture_SM_Trunk1_BaseColor.png
+[2021.03.11-17.16.23:533][674]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.03.11-17.16.23:542][674]LogFbx: Display: Triangulating static mesh pCube3
+[2021.03.11-17.16.23:559][674]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.03.11-17.16.23:559][674]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.11-17.16.23:559][674]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.03.11-17.16.23:561][674]LogStaticMesh: Building static mesh SM_Root_01_00...
+[2021.03.11-17.16.23:566][674]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Roots/SM_Root_01_00.SM_Root_01_00
+[2021.03.11-17.16.24:696][674]LogMeshUtilities: Finished distance field build in 1.1s - 31x64x24 distance field, 376 triangles, Range [-0.1, 0.7], SM_Root_01_00
+[2021.03.11-17.16.24:696][674]LogStaticMesh: Display: Main thread blocked for 1.121s for async distance field build of SM_Root_01_00 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.11-17.16.50:177][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.11-17.16.50:986][ 77]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-17.16.50:996][ 77]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Roots/lambert1.lambert1
+[2021.03.11-17.16.51:138][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.03.11-17.16.51:780][143]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Roots/SM_Root_01_00.SM_Root_01_00
+[2021.03.11-17.17.01:128][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Roots/SM_Root_01_00" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Roots/SM_Root_01_00.uasset" SILENT=true
+[2021.03.11-17.17.01:142][  2]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Root_01_00001A72C147EB589B1FB671ACCC75AD91.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Roots/SM_Root_01_00.uasset'
+[2021.03.11-17.17.01:153][  2]AssetCheck: New page: Asset Save: SM_Root_01_00
+[2021.03.11-17.17.01:153][  2]LogContentValidation: Display: Validating StaticMesh /Game/Models/Roots/SM_Root_01_00.SM_Root_01_00
+[2021.03.11-17.17.01:934][ 70]LogSlate: Window 'SM_Root_01_00' being destroyed
+[2021.03.11-17.17.01:938][ 70]LogSlate: Window 'SM_Root_01_00' being destroyed
+[2021.03.11-17.17.01:946][ 70]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-17.17.01:946][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-17.17.03:170][204]LogActorFactory: Actor Factory created SM_Root_01_00
+[2021.03.11-17.17.03:905][271]LogActorFactory: Actor Factory created SM_Root_01_00
+[2021.03.11-17.17.05:266][425]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.11-17.17.58:137][732]LogEditorFactories: Performing atomic reimport of [C:/Users/burst/Desktop/Urskog2.0/Models/SM_Root_01_00.fbx]
+[2021.03.11-17.17.58:159][732]LogFbx: Loading FBX Scene from C:/Users/burst/Desktop/Urskog2.0/Models/SM_Root_01_00.fbx
+[2021.03.11-17.17.58:164][732]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.11-17.17.58:177][732]LogFbx: Display: Triangulating static mesh pCube3
+[2021.03.11-17.17.58:216][732]LogStaticMesh: Building static mesh SM_Root_01_00...
+[2021.03.11-17.17.58:219][732]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Roots/SM_Root_01_00.SM_Root_01_00
+[2021.03.11-17.17.58:229][732]LogEditorFactories: -- imported successfully
+[2021.03.11-17.17.59:043][732]LogMeshUtilities: Finished distance field build in 0.8s - 31x64x24 distance field, 376 triangles, Range [-0.1, 0.7], SM_Root_01_00
+[2021.03.11-17.17.59:043][732]LogStaticMesh: Display: Main thread blocked for 0.812s for async distance field build of SM_Root_01_00 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.11-17.18.02:440][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_00)
+[2021.03.11-17.18.03:611][266]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Level_Graphics_01.Level_Graphics_01:PersistentLevel.SM_Root_01_00_5.StaticMeshComponent0)
+[2021.03.11-17.18.03:763][284]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/Level_Graphics_01.Level_Graphics_01:PersistentLevel.SM_Root_01_00_5.StaticMeshComponent0)
+[2021.03.11-17.18.12:047][254]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.11-17.18.12:354][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_00)
+[2021.03.11-17.18.17:181][805]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.11-17.18.20:075][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_00)
+[2021.03.11-17.18.21:890][327]Cmd: MODE GRID=0
+[2021.03.11-17.18.22:307][374]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.11-17.18.22:717][417]Cmd: MODE ROTGRID=0
+[2021.03.11-17.18.23:196][472]Cmd: MODE SCALEGRID=0
+[2021.03.11-17.18.23:912][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_00)
+[2021.03.11-17.18.30:145][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_1)
+[2021.03.11-17.18.42:615][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_1)
+[2021.03.11-17.18.46:433][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_00)
+[2021.03.11-17.18.53:891][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_00)
+[2021.03.11-17.19.00:110][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_1)
+[2021.03.11-17.19.08:036][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_1)
+[2021.03.11-17.19.16:133][410]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.11-17.19.17:147][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_00)
+[2021.03.11-17.21.20:182][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.03.11-17.21.20:273][384]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_01_Auto3A243C0FC4AF7495749AA31A1F79DE637.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Levels/Level_Graphics_01_Auto3.umap'
+[2021.03.11-17.21.20:275][384]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Graphics' took 0.101
+[2021.03.11-17.21.20:275][384]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.101
+[2021.03.11-17.21.20:275][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Roots/SM_Root_01_00] ([1] browsable assets)...
+[2021.03.11-17.21.20:288][384]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Roots/SM_Root_01_00.SM_Root_01_00]
+[2021.03.11-17.21.20:288][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Roots/SM_Root_01_00]
+[2021.03.11-17.21.20:302][384]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Root_01_00_Auto3453779EC49B5FCFCDC83BD8445008DA0.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Roots/SM_Root_01_00_Auto3.uasset'
+[2021.03.11-17.21.20:303][384]LogFileHelpers: Auto-saving content packages took 0.028
+[2021.03.11-17.24.42:249][165]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\burst\Desktop\Urskog2.0\Models\SM_Root_02_00.fbx)
+[2021.03.11-17.24.42:256][165]LogFbx: Loading FBX Scene from C:\Users\burst\Desktop\Urskog2.0\Models\SM_Root_02_00.fbx
+[2021.03.11-17.24.42:260][165]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.11-17.24.44:241][165]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.11-17.24.44:260][165]LogFbxMaterialImport: Display: Unable to find Texture file C:/Users/burst/Desktop/UrskogGraphics//Textures/Tree/SM_TreeToTexture_SM_Trunk1_BaseColor.png
+[2021.03.11-17.24.44:261][165]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.03.11-17.24.44:268][165]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.03.11-17.24.44:268][165]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.11-17.24.44:268][165]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.03.11-17.24.44:268][165]LogFbx: Display: Triangulating static mesh pCube4
+[2021.03.11-17.24.44:294][165]LogStaticMesh: Building static mesh SM_Root_02_00...
+[2021.03.11-17.24.44:298][165]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Roots/SM_Root_02_00.SM_Root_02_00
+[2021.03.11-17.24.45:415][165]LogMeshUtilities: Finished distance field build in 1.1s - 35x64x23 distance field, 296 triangles, Range [-0.1, 0.8], SM_Root_02_00
+[2021.03.11-17.24.45:415][165]LogStaticMesh: Display: Main thread blocked for 1.106s for async distance field build of SM_Root_02_00 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.11-17.24.47:270][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.03.11-17.24.47:966][237]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-17.24.47:981][237]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Roots/lambert1.lambert1
+[2021.03.11-17.24.48:150][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.11-17.24.48:756][284]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Roots/SM_Root_02_00.SM_Root_02_00
+[2021.03.11-17.24.52:269][573]LogSlate: Window 'SM_Root_02_00' being destroyed
+[2021.03.11-17.24.52:275][573]LogSlate: Window 'SM_Root_02_00' being destroyed
+[2021.03.11-17.24.52:276][573]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-17.24.52:276][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-17.24.53:156][656]LogActorFactory: Actor Factory created SM_Root_02_00
+[2021.03.11-17.24.53:873][725]LogActorFactory: Actor Factory created SM_Root_02_00
+[2021.03.11-17.24.58:447][259]Cmd: TRANSACTION UNDO
+[2021.03.11-17.24.58:447][259]LogEditorTransaction: Undo Scale Actors
+[2021.03.11-17.24.59:601][359]Cmd: TRANSACTION UNDO
+[2021.03.11-17.24.59:601][359]LogEditorTransaction: Undo Scale Actors
+[2021.03.11-17.25.00:614][477]Cmd: TRANSACTION UNDO
+[2021.03.11-17.25.00:614][477]LogEditorTransaction: Undo Scale Actors
+[2021.03.11-17.26.27:672][901]LogEditorFactories: Performing atomic reimport of [C:/Users/burst/Desktop/Urskog2.0/Models/SM_Root_01_00.fbx]
+[2021.03.11-17.26.27:692][901]LogFbx: Loading FBX Scene from C:/Users/burst/Desktop/Urskog2.0/Models/SM_Root_01_00.fbx
+[2021.03.11-17.26.27:698][901]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.11-17.26.27:717][901]LogFbx: Display: Triangulating static mesh pCube3
+[2021.03.11-17.26.27:752][901]LogStaticMesh: Building static mesh SM_Root_01_00...
+[2021.03.11-17.26.27:757][901]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Roots/SM_Root_01_00.SM_Root_01_00
+[2021.03.11-17.26.27:768][901]LogEditorFactories: -- imported successfully
+[2021.03.11-17.26.28:571][901]LogMeshUtilities: Finished distance field build in 0.8s - 31x64x24 distance field, 376 triangles, Range [-0.1, 0.7], SM_Root_01_00
+[2021.03.11-17.26.28:571][901]LogStaticMesh: Display: Main thread blocked for 0.800s for async distance field build of SM_Root_01_00 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.11-17.26.31:819][231]LogEditorFactories: Performing atomic reimport of [C:/Users/burst/Desktop/Urskog2.0/Models/SM_Root_02_00.fbx]
+[2021.03.11-17.26.31:846][231]LogFbx: Loading FBX Scene from C:/Users/burst/Desktop/Urskog2.0/Models/SM_Root_02_00.fbx
+[2021.03.11-17.26.31:851][231]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.11-17.26.31:869][231]LogFbx: Display: Triangulating static mesh pCube4
+[2021.03.11-17.26.31:896][231]LogStaticMesh: Building static mesh SM_Root_02_00...
+[2021.03.11-17.26.31:901][231]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Roots/SM_Root_02_00.SM_Root_02_00
+[2021.03.11-17.26.31:913][231]LogEditorFactories: -- imported successfully
+[2021.03.11-17.26.32:825][231]LogMeshUtilities: Finished distance field build in 0.9s - 35x64x23 distance field, 296 triangles, Range [-0.1, 0.8], SM_Root_02_00
+[2021.03.11-17.26.32:825][231]LogStaticMesh: Display: Main thread blocked for 0.909s for async distance field build of SM_Root_02_00 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.11-17.31.20:889][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.11-17.31.20:959][780]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_01_Auto4B0429DB549D037CF8F0739ABAC693AB9.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Levels/Level_Graphics_01_Auto4.umap'
+[2021.03.11-17.31.20:960][780]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Graphics' took 0.078
+[2021.03.11-17.31.20:960][780]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2021.03.11-17.31.20:961][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Roots/SM_Root_01_00] ([1] browsable assets)...
+[2021.03.11-17.31.20:972][780]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Roots/SM_Root_01_00.SM_Root_01_00]
+[2021.03.11-17.31.20:972][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Roots/SM_Root_01_00]
+[2021.03.11-17.31.20:984][780]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Root_01_00_Auto4EE5F53EB4A80531C18C332B3A5E7A6DB.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Roots/SM_Root_01_00_Auto4.uasset'
+[2021.03.11-17.31.20:985][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Roots/SM_Root_02_00] ([1] browsable assets)...
+[2021.03.11-17.31.20:995][780]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Roots/SM_Root_02_00.SM_Root_02_00]
+[2021.03.11-17.31.20:995][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Roots/SM_Root_02_00]
+[2021.03.11-17.31.21:008][780]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Root_02_00_Auto42DF40879426D3B60C66FDFA372965D29.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Roots/SM_Root_02_00_Auto4.uasset'
+[2021.03.11-17.31.21:009][780]LogFileHelpers: Auto-saving content packages took 0.048
+[2021.03.11-17.31.34:412][928]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\burst\Desktop\Urskog2.0\Models\SM_Root_03_00.fbx)
+[2021.03.11-17.31.34:419][928]LogFbx: Loading FBX Scene from C:\Users\burst\Desktop\Urskog2.0\Models\SM_Root_03_00.fbx
+[2021.03.11-17.31.34:424][928]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.11-17.31.36:010][928]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.11-17.31.36:026][928]LogFbxMaterialImport: Display: Unable to find Texture file C:/Users/burst/Desktop/UrskogGraphics//Textures/Tree/SM_TreeToTexture_SM_Trunk1_BaseColor.png
+[2021.03.11-17.31.36:026][928]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.03.11-17.31.36:034][928]LogFbx: Display: Triangulating static mesh pCube3
+[2021.03.11-17.31.36:043][928]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.03.11-17.31.36:043][928]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.11-17.31.36:043][928]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.03.11-17.31.36:051][928]LogStaticMesh: Building static mesh SM_Root_03_00...
+[2021.03.11-17.31.36:053][928]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Roots/SM_Root_03_00.SM_Root_03_00
+[2021.03.11-17.31.36:348][928]LogMeshUtilities: Finished distance field build in 0.3s - 11x33x36 distance field, 216 triangles, Range [-0.1, 1.0], SM_Root_03_00
+[2021.03.11-17.31.36:348][928]LogStaticMesh: Display: Main thread blocked for 0.285s for async distance field build of SM_Root_03_00 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.11-17.31.37:852][997]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Roots/SM_Root_03_00.SM_Root_03_00
+[2021.03.11-17.31.41:827][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Roots/SM_Root_03_00" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Roots/SM_Root_03_00.uasset" SILENT=true
+[2021.03.11-17.31.41:841][257]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Root_03_00CD3CF6134D49606D4965D982D3AD5E91.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Roots/SM_Root_03_00.uasset'
+[2021.03.11-17.31.41:855][257]AssetCheck: New page: Asset Save: SM_Root_03_00
+[2021.03.11-17.31.41:855][257]LogContentValidation: Display: Validating StaticMesh /Game/Models/Roots/SM_Root_03_00.SM_Root_03_00
+[2021.03.11-17.31.42:564][321]LogSlate: Window 'SM_Root_03_00' being destroyed
+[2021.03.11-17.31.42:568][321]LogSlate: Window 'SM_Root_03_00' being destroyed
+[2021.03.11-17.31.42:577][321]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-17.31.42:577][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-17.31.43:429][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.11-17.31.44:155][404]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-17.31.44:201][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.11-17.31.44:812][455]LogActorFactory: Actor Factory created SM_Root_03_00
+[2021.03.11-17.31.45:457][518]LogActorFactory: Actor Factory created SM_Root_03_00
+[2021.03.11-17.31.50:621][123]Cmd: TRANSACTION UNDO
+[2021.03.11-17.31.50:621][123]LogEditorTransaction: Undo Scale Actors
+[2021.03.11-17.31.57:304][808]LogActorFactory: Actor Factory created SM_Root_03_00
+[2021.03.11-17.31.57:746][850]LogActorFactory: Actor Factory created SM_Root_03_00
+[2021.03.11-17.32.04:466][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_03_1)
+[2021.03.11-17.32.18:641][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_03_1)
+[2021.03.11-17.32.35:049][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_1)
+[2021.03.11-17.32.38:503][489]LogActorFactory: Actor Factory created SM_Root_01_00
+[2021.03.11-17.32.39:076][542]LogActorFactory: Actor Factory created SM_Root_01_00
+[2021.03.11-17.32.44:930][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_3)
+[2021.03.11-17.33.21:549][ 51]Cmd: TRANSACTION UNDO
+[2021.03.11-17.33.21:549][ 51]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.03.11-17.33.21:556][ 51]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2021.03.11-17.33.21:565][ 51]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 32X32)
+[2021.03.11-17.34.02:578][597]Cmd: TRANSACTION UNDO
+[2021.03.11-17.34.02:578][597]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.03.11-17.34.02:589][597]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2021.03.11-17.34.25:063][ 65]LogActorFactory: Actor Factory created SM_Tree_01_00
+[2021.03.11-17.34.26:892][260]LogActorFactory: Actor Factory created SM_Tree_01_00
+[2021.03.11-17.34.32:727][762]LogMetaData: Removing '/Game/Models/Tree/SM_Tree_02_00.SM_Tree_02_00' ref from Metadata '/Game/Models/Tree/SM_Tree02.PackageMetaData'
+[2021.03.11-17.34.32:757][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/SM_Tree_02_00" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Tree_02_00.uasset" SILENT=true
+[2021.03.11-17.34.32:769][762]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Tree_02_00FF4F4EB44DDF5B0DD7B44F95C5C83639.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Tree_02_00.uasset'
+[2021.03.11-17.34.32:825][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.11-17.34.32:844][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.03.11-17.34.32:849][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.11-17.34.32:877][762]AssetCheck: New page: Asset Save: SM_Tree_02_00
+[2021.03.11-17.34.32:877][762]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/SM_Tree_02_00.SM_Tree_02_00
+[2021.03.11-17.34.35:786][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree02)
+[2021.03.11-17.34.36:510][131]Cmd: DELETE
+[2021.03.11-17.34.36:510][131]Cmd: ACTOR DELETE
+[2021.03.11-17.34.36:516][131]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.11-17.34.36:521][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.03.11-17.34.36:522][131]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.11-17.34.37:083][185]LogActorFactory: Actor Factory created SM_Tree_01_00
+[2021.03.11-17.34.37:926][281]LogActorFactory: Actor Factory created SM_Tree_01_00
+[2021.03.11-17.34.38:232][310]Cmd: DELETE
+[2021.03.11-17.34.38:232][310]Cmd: ACTOR DELETE
+[2021.03.11-17.34.38:236][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.11-17.34.38:245][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.03.11-17.34.38:246][310]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.03.11-17.34.38:689][354]LogActorFactory: Actor Factory created SM_Tree_02_00
+[2021.03.11-17.34.39:963][501]LogActorFactory: Actor Factory created SM_Tree_02_00
+[2021.03.11-17.34.43:120][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_02_00)
+[2021.03.11-17.34.58:272][580]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.11-17.35.07:065][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_01_00)
+[2021.03.11-17.35.12:299][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_01_00)
+[2021.03.11-17.35.13:811][206]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Models/Tree/Materials/MI_Tree.MI_Tree
+[2021.03.11-17.35.13:815][206]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0004 seconds. Added 3 classes and 0 folders.
+[2021.03.11-17.35.15:452][319]LogMaterial: Display: Missing cached shader map for material M_Mesh_Master, compiling. 
+[2021.03.11-17.35.15:550][320]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 132
+[2021.03.11-17.35.15:550][320]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2021.03.11-17.35.15:550][320]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 112
+[2021.03.11-17.35.15:550][320]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2021.03.11-17.35.16:096][347]LogMaterial: Display: Missing cached shader map for material M_Mesh_Master, compiling. 
+[2021.03.11-17.35.20:727][489]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 224
+[2021.03.11-17.35.21:044][502]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 214
+[2021.03.11-17.35.21:288][513]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 204
+[2021.03.11-17.35.21:452][520]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 194
+[2021.03.11-17.35.25:623][707]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 184
+[2021.03.11-17.35.26:581][752]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 174
+[2021.03.11-17.35.27:591][797]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 164
+[2021.03.11-17.35.27:680][801]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 154
+[2021.03.11-17.35.32:263][973]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 144
+[2021.03.11-17.35.33:111][  5]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 134
+[2021.03.11-17.35.35:494][108]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 124
+[2021.03.11-17.35.35:812][122]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 114
+[2021.03.11-17.35.39:291][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 104
+[2021.03.11-17.35.40:654][348]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 94
+[2021.03.11-17.35.42:570][428]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 84
+[2021.03.11-17.35.43:206][451]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 74
+[2021.03.11-17.35.45:764][526]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2021.03.11-17.35.47:439][569]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 54
+[2021.03.11-17.35.47:663][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2021.03.11-17.35.50:102][594]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2021.03.11-17.35.51:985][633]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.03.11-17.35.52:702][652]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.03.11-17.35.54:892][698]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.03.11-17.35.56:694][764]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.03.11-17.35.57:042][774]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MasterMaterials/m_Mesh_Master.M_Mesh_Master
+[2021.03.11-17.35.57:048][774]LogMaterial: Display: Missing cached shader map for material M_Mesh_Master, compiling. 
+[2021.03.11-17.35.57:208][774]LogMaterial: Display: Missing cached shader map for material M_Mesh_Master, compiling. 
+[2021.03.11-17.35.57:228][774]LogMaterial: Display: Missing cached shader map for material M_Mesh_Master, compiling. 
+[2021.03.11-17.35.57:257][774]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.03.11-17.35.57:265][774]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.03.11-17.35.57:269][774]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.03.11-17.35.57:273][774]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2021.03.11-17.35.57:330][774]LogMaterial: Display: Missing cached shader map for material M_Mesh_Master, compiling. 
+[2021.03.11-17.35.57:422][774]LogSlate: Took 0.001110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.11-17.35.58:264][793]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 184
+[2021.03.11-17.35.58:342][795]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 183
+[2021.03.11-17.35.58:709][808]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 182
+[2021.03.11-17.35.58:737][809]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 181
+[2021.03.11-17.35.59:044][819]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 180
+[2021.03.11-17.35.59:132][823]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 179
+[2021.03.11-17.35.59:583][838]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 178
+[2021.03.11-17.35.59:620][839]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 177
+[2021.03.11-17.35.59:686][842]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 176
+[2021.03.11-17.36.00:111][856]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 175
+[2021.03.11-17.36.00:159][858]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 174
+[2021.03.11-17.36.00:235][861]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 173
+[2021.03.11-17.36.00:409][867]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 172
+[2021.03.11-17.36.00:561][873]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 171
+[2021.03.11-17.36.00:720][879]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 170
+[2021.03.11-17.36.00:750][880]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 169
+[2021.03.11-17.36.00:855][884]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 168
+[2021.03.11-17.36.01:344][897]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 167
+[2021.03.11-17.36.01:454][901]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 166
+[2021.03.11-17.36.01:606][906]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 165
+[2021.03.11-17.36.01:874][915]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 164
+[2021.03.11-17.36.01:957][918]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 163
+[2021.03.11-17.36.02:280][929]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 162
+[2021.03.11-17.36.02:286][929]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 161
+[2021.03.11-17.36.02:706][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 160
+[2021.03.11-17.36.02:916][949]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 159
+[2021.03.11-17.36.03:039][953]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 158
+[2021.03.11-17.36.03:212][959]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 157
+[2021.03.11-17.36.03:394][965]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 156
+[2021.03.11-17.36.03:567][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 155
+[2021.03.11-17.36.03:690][977]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 154
+[2021.03.11-17.36.03:794][983]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 153
+[2021.03.11-17.36.03:981][991]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 152
+[2021.03.11-17.36.04:247][  1]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 151
+[2021.03.11-17.36.04:504][ 11]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 150
+[2021.03.11-17.36.04:577][ 13]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 149
+[2021.03.11-17.36.04:581][ 13]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.03.11-17.36.04:581][ 13]MaterialEditorStats: Base pass shader with Surface Lightmap: 140 instructions
+[2021.03.11-17.36.04:581][ 13]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
+[2021.03.11-17.36.04:581][ 13]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.03.11-17.36.04:581][ 13]MaterialEditorStats: Texture samplers: 4/16
+[2021.03.11-17.36.04:581][ 13]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.03.11-17.36.04:581][ 13]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.11-17.36.04:607][ 13]LogSlate: Took 0.000981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.11-17.36.04:816][ 21]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 148
+[2021.03.11-17.36.04:983][ 26]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 147
+[2021.03.11-17.36.05:175][ 33]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 146
+[2021.03.11-17.36.05:309][ 39]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 145
+[2021.03.11-17.36.05:554][ 49]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 144
+[2021.03.11-17.36.05:554][ 49]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 143
+[2021.03.11-17.36.05:712][ 56]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 142
+[2021.03.11-17.36.06:055][ 67]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 141
+[2021.03.11-17.36.06:262][ 74]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 140
+[2021.03.11-17.36.06:409][ 80]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 139
+[2021.03.11-17.36.06:431][ 80]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.03.11-17.36.06:461][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 138
+[2021.03.11-17.36.07:070][ 98]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 162
+[2021.03.11-17.36.07:177][103]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 152
+[2021.03.11-17.36.07:188][103]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/MasterMaterials/Material_Functions/MF_Moss.MF_Moss
+[2021.03.11-17.36.07:296][103]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 142
+[2021.03.11-17.36.07:297][103]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2021.03.11-17.36.07:302][103]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.03.11-17.36.07:323][103]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2021.03.11-17.36.07:330][103]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.03.11-17.36.07:347][103]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2021.03.11-17.36.07:366][103]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2021.03.11-17.36.07:373][103]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.03.11-17.36.07:380][103]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.03.11-17.36.11:144][239]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 173
+[2021.03.11-17.36.12:225][281]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 172
+[2021.03.11-17.36.12:469][291]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 171
+[2021.03.11-17.36.12:558][295]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 170
+[2021.03.11-17.36.12:672][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 169
+[2021.03.11-17.36.12:788][305]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 168
+[2021.03.11-17.36.12:917][309]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 167
+[2021.03.11-17.36.12:917][309]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 166
+[2021.03.11-17.36.12:999][312]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 165
+[2021.03.11-17.36.13:119][316]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 164
+[2021.03.11-17.36.13:167][318]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 163
+[2021.03.11-17.36.13:767][339]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 162
+[2021.03.11-17.36.13:888][343]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 161
+[2021.03.11-17.36.14:248][357]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 160
+[2021.03.11-17.36.14:416][364]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 159
+[2021.03.11-17.36.14:471][366]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 158
+[2021.03.11-17.36.14:575][370]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 157
+[2021.03.11-17.36.14:638][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 156
+[2021.03.11-17.36.14:866][380]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 155
+[2021.03.11-17.36.14:982][384]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 154
+[2021.03.11-17.36.15:113][389]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 153
+[2021.03.11-17.36.15:379][398]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 152
+[2021.03.11-17.36.15:708][407]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 151
+[2021.03.11-17.36.15:708][407]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 150
+[2021.03.11-17.36.15:850][412]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 149
+[2021.03.11-17.36.15:957][416]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 148
+[2021.03.11-17.36.16:253][427]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 147
+[2021.03.11-17.36.16:469][435]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 146
+[2021.03.11-17.36.16:783][445]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 145
+[2021.03.11-17.36.16:934][450]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 144
+[2021.03.11-17.36.17:014][453]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 143
+[2021.03.11-17.36.17:060][455]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 142
+[2021.03.11-17.36.17:622][476]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 141
+[2021.03.11-17.36.17:704][479]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 140
+[2021.03.11-17.36.17:731][480]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 139
+[2021.03.11-17.36.17:773][482]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 138
+[2021.03.11-17.36.18:195][496]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2021.03.11-17.36.18:492][503]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 139
+[2021.03.11-17.36.18:552][505]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 138
+[2021.03.11-17.36.18:592][506]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 137
+[2021.03.11-17.36.18:666][509]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 136
+[2021.03.11-17.36.18:949][518]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/MasterMaterials/Material_Functions/MF_RVT.MF_RVT
+[2021.03.11-17.36.19:063][518]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2021.03.11-17.36.19:068][518]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2021.03.11-17.36.19:074][518]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2021.03.11-17.36.19:080][518]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2021.03.11-17.36.19:085][518]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2021.03.11-17.36.19:100][518]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2021.03.11-17.36.19:396][519]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 134
+[2021.03.11-17.36.19:396][519]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 133
+[2021.03.11-17.36.19:396][519]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 132
+[2021.03.11-17.36.19:923][538]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 131
+[2021.03.11-17.36.19:999][541]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 130
+[2021.03.11-17.36.20:370][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 129
+[2021.03.11-17.36.21:017][575]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 128
+[2021.03.11-17.36.21:084][577]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 118
+[2021.03.11-17.36.21:130][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 108
+[2021.03.11-17.36.23:732][671]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 98
+[2021.03.11-17.36.25:004][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 88
+[2021.03.11-17.36.25:077][724]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 78
+[2021.03.11-17.36.25:604][741]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2021.03.11-17.36.28:712][840]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 58
+[2021.03.11-17.36.29:074][854]LogSlate: Window 'MF_RVT' being destroyed
+[2021.03.11-17.36.29:082][854]LogSlate: Window 'MF_RVT' being destroyed
+[2021.03.11-17.36.29:091][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.03.11-17.36.29:135][854]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.11-17.36.30:257][854]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2021.03.11-17.36.30:817][854]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2021.03.11-17.36.31:039][854]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 48
+[2021.03.11-17.36.31:042][854]TextureStreamingBuild: Display: Compiling optional shaders took 1.917 seconds.
+[2021.03.11-17.36.31:053][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.11-17.36.31:094][854]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2021.03.11-17.36.31:094][854]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-17.36.31:094][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-17.36.31:146][854]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-17.36.31:146][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-17.36.31:217][854]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-17.36.31:217][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-17.36.31:284][854]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-17.36.31:285][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-17.36.32:320][898]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2021.03.11-17.36.33:955][980]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.03.11-17.36.36:603][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.03.11-17.36.36:856][128]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.03.11-17.36.37:832][183]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.03.11-17.36.38:101][199]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.03.11-17.36.40:248][199]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.03.11-17.36.40:249][199]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.03.11-17.36.40:249][199]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.03.11-17.36.40:293][200]LogAssetEditorSubsystem: Opening Asset editor for RuntimeVirtualTexture /Game/MasterMaterials/RVT_Textures/RVT_Height.RVT_Height
+[2021.03.11-17.36.41:841][358]LogSlate: Window 'RVT_Height' being destroyed
+[2021.03.11-17.36.41:846][358]LogSlate: Window 'RVT_Height' being destroyed
+[2021.03.11-17.36.42:472][420]LogAssetEditorSubsystem: Opening Asset editor for RuntimeVirtualTexture /Game/MasterMaterials/RVT_Textures/RVT_Height.RVT_Height
+[2021.03.11-17.36.44:691][659]LogSlate: Window 'RVT_Height' being destroyed
+[2021.03.11-17.36.44:696][659]LogSlate: Window 'RVT_Height' being destroyed
+[2021.03.11-17.36.48:299][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_02_00)
+[2021.03.11-17.36.49:208][ 85]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Models/Tree/Materials/MI_Tree.MI_Tree
+[2021.03.11-17.37.28:669][480]LogSlate: Window 'MI_Tree' being destroyed
+[2021.03.11-17.37.28:674][480]LogSlate: Window 'MI_Tree' being destroyed
+[2021.03.11-17.37.28:684][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.11-17.37.28:713][480]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.11-17.37.29:211][480]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.11-17.37.29:211][480]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.11-17.37.29:211][480]TextureStreamingBuild: Display: Compiling optional shaders took 0.498 seconds.
+[2021.03.11-17.37.29:219][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.03.11-17.37.29:242][480]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-17.37.29:242][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-17.37.31:121][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_2)
+[2021.03.11-17.38.05:197][645]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.11-17.38.54:561][434]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.11-17.40.11:851][381]LogStaticMesh: Building static mesh SM_Branch_03_00...
+[2021.03.11-17.40.11:868][381]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Tree/SM_Branch_03_00.SM_Branch_03_00
+[2021.03.11-17.40.11:980][384]LogActorFactory: Actor Factory created SM_Branch_03_00
+[2021.03.11-17.40.12:302][396]LogActorFactory: Actor Factory created SM_Branch_03_00
+[2021.03.11-17.40.12:474][407]LogMeshUtilities: Finished distance field build in 0.6s - 48x21x31 distance field, 110 triangles, Range [-0.1, 1.0], SM_Branch_03_00
+[2021.03.11-17.40.14:388][618]Cmd: DELETE
+[2021.03.11-17.40.14:388][618]Cmd: ACTOR DELETE
+[2021.03.11-17.40.14:395][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.11-17.40.14:403][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.03.11-17.40.14:410][618]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.03.11-17.40.16:381][848]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.11-17.40.24:851][761]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.11-17.40.26:187][918]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.11-17.41.05:499][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_02_00)
+[2021.03.11-17.41.07:334][405]LogStaticMesh: Building static mesh SM_Branch_04_00...
+[2021.03.11-17.41.07:362][405]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Tree/SM_Branch_04_00.SM_Branch_04_00
+[2021.03.11-17.41.07:417][406]LogActorFactory: Actor Factory created SM_Branch_04_00
+[2021.03.11-17.41.08:390][481]LogActorFactory: Actor Factory created SM_Branch_04_00
+[2021.03.11-17.41.11:329][763]LogMeshUtilities: Finished distance field build in 4.0s - 64x55x64 distance field, 425 triangles, Range [-0.0, 1.0], SM_Branch_04_00
+[2021.03.11-17.41.11:357][765]LogStaticMesh: Allocated 336x128x128 distance field atlas = 10.5Mb, with 38 objects containing 7.7Mb backing data
+[2021.03.11-17.41.43:565][518]LogActorFactory: Actor Factory created SM_Branch_03_00
+[2021.03.11-17.41.44:461][615]LogActorFactory: Actor Factory created SM_Branch_03_00
+[2021.03.11-17.41.55:592][891]LogStaticMesh: Building static mesh SM_Branch_01_00...
+[2021.03.11-17.41.55:616][891]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Tree/SM_Branch_01_00.SM_Branch_01_00
+[2021.03.11-17.41.55:702][893]LogActorFactory: Actor Factory created SM_Branch_01_00
+[2021.03.11-17.41.57:422][ 58]LogActorFactory: Actor Factory created SM_Branch_01_00
+[2021.03.11-17.41.57:822][ 93]LogMeshUtilities: Finished distance field build in 2.2s - 64x31x64 distance field, 285 triangles, Range [-0.0, 1.0], SM_Branch_01_00
+[2021.03.11-17.41.57:873][ 95]LogStaticMesh: Allocated 339x128x128 distance field atlas = 10.6Mb, with 39 objects containing 7.9Mb backing data
+[2021.03.11-17.41.57:968][101]Cmd: DELETE
+[2021.03.11-17.41.57:968][101]Cmd: ACTOR DELETE
+[2021.03.11-17.41.57:977][101]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.11-17.41.57:988][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.11-17.41.57:993][101]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.03.11-17.41.58:254][127]LogStaticMesh: Building static mesh SM_Branch_02_00...
+[2021.03.11-17.41.58:271][127]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Tree/SM_Branch_02_00.SM_Branch_02_00
+[2021.03.11-17.41.58:376][135]LogActorFactory: Actor Factory created SM_Branch_02_00
+[2021.03.11-17.41.59:062][208]LogActorFactory: Actor Factory created SM_Branch_02_00
+[2021.03.11-17.41.59:428][246]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.11-17.42.00:821][377]LogMeshUtilities: Finished distance field build in 2.5s - 64x44x49 distance field, 180 triangles, Range [-0.0, 1.0], SM_Branch_02_00
+[2021.03.11-17.42.00:851][378]LogStaticMesh: Allocated 320x128x128 distance field atlas = 10.0Mb, with 40 objects containing 8.2Mb backing data
+[2021.03.11-17.42.13:089][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_02_00)
+[2021.03.11-17.42.24:960][149]LogStaticMesh: Building static mesh SM_BranchLeaf_02_00...
+[2021.03.11-17.42.24:987][149]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Tree/SM_BranchLeaf_02_00.SM_BranchLeaf_02_00
+[2021.03.11-17.42.25:037][149]LogActorFactory: Actor Factory created SM_BranchLeaf_02_00
+[2021.03.11-17.42.25:970][217]LogActorFactory: Actor Factory created SM_BranchLeaf_02_00
+[2021.03.11-17.42.28:938][510]LogMeshUtilities: Finished distance field build in 3.9s - 64x51x60 distance field, 410 triangles, Range [-0.2, 1.0], SM_BranchLeaf_02_00
+[2021.03.11-17.42.28:961][512]LogStaticMesh: Allocated 368x128x128 distance field atlas = 11.5Mb, with 41 objects containing 8.5Mb backing data
+[2021.03.11-17.42.43:381][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_04_00)
+[2021.03.11-17.42.46:216][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_03_00)
+[2021.03.11-17.42.54:171][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_02_00)
+[2021.03.11-17.42.54:896][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_03_00)
+[2021.03.11-17.43.02:915][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_02_00)
+[2021.03.11-17.43.04:308][570]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.11-17.43.04:475][583]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.11-17.43.13:908][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_04_00)
+[2021.03.11-17.43.19:941][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_02_00)
+[2021.03.11-17.43.23:367][704]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.11-17.43.29:004][324]LogStaticMesh: Building static mesh SM_BranchLeaf_04_00...
+[2021.03.11-17.43.29:039][324]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Tree/SM_BranchLeaf_04_00.SM_BranchLeaf_04_00
+[2021.03.11-17.43.29:093][325]LogActorFactory: Actor Factory created SM_BranchLeaf_04_00
+[2021.03.11-17.43.30:015][394]LogActorFactory: Actor Factory created SM_BranchLeaf_04_00
+[2021.03.11-17.43.34:518][854]LogMeshUtilities: Finished distance field build in 5.5s - 64x64x64 distance field, 943 triangles, Range [-0.1, 1.0], SM_BranchLeaf_04_00
+[2021.03.11-17.43.45:561][129]LogActorFactory: Actor Factory created SM_BranchLeaf_02_00
+[2021.03.11-17.43.46:742][261]LogActorFactory: Actor Factory created SM_BranchLeaf_02_00
+[2021.03.11-17.43.48:859][472]Cmd: DELETE
+[2021.03.11-17.43.48:859][472]Cmd: ACTOR DELETE
+[2021.03.11-17.43.48:864][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.11-17.43.48:875][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.11-17.43.48:881][472]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.03.11-17.43.49:169][498]LogStaticMesh: Building static mesh SM_BranchLeaf_03_00...
+[2021.03.11-17.43.49:201][498]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Tree/SM_BranchLeaf_03_00.SM_BranchLeaf_03_00
+[2021.03.11-17.43.49:274][500]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.11-17.43.49:972][547]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.11-17.43.52:877][846]LogMeshUtilities: Finished distance field build in 3.7s - 64x41x64 distance field, 583 triangles, Range [-0.1, 1.0], SM_BranchLeaf_03_00
+[2021.03.11-17.44.19:032][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_1)
+[2021.03.11-17.44.28:411][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_03_00)
+[2021.03.11-17.44.32:818][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_02_00)
+[2021.03.11-17.44.45:682][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_3)
+[2021.03.11-17.44.52:448][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_3)
+[2021.03.11-17.45.11:135][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_02_00)
+[2021.03.11-17.45.14:081][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_03_1)
+[2021.03.11-17.45.21:480][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_03_00)
+[2021.03.11-17.45.27:894][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Root_01_3)
+[2021.03.11-17.45.31:049][ 67]Cmd: TRANSACTION UNDO
+[2021.03.11-17.45.31:049][ 67]LogEditorTransaction: Undo Move Actors
+[2021.03.11-17.46.00:037][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_03_00)
+[2021.03.11-17.46.00:492][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_04_00)
+[2021.03.11-17.46.00:997][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_03_00)
+[2021.03.11-17.46.15:162][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_03_00)
+[2021.03.11-17.46.15:515][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_04_00)
+[2021.03.11-17.46.16:621][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_03_00)
+[2021.03.11-17.46.17:141][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_04_00)
+[2021.03.11-17.46.21:583][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_04_00)
+[2021.03.11-17.46.56:105][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.03.11-17.46.56:126][475]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_Auto59CCF3CF249FB9086C6B7CEAA31FB77BD.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Levels/Level_Graphics_Auto5.umap'
+[2021.03.11-17.46.56:143][475]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 32X32)
+[2021.03.11-17.46.56:144][475]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 32X32)
+[2021.03.11-17.46.56:144][475]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 32X32)
+[2021.03.11-17.46.56:145][475]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2021.03.11-17.46.56:146][475]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 32X32)
+[2021.03.11-17.46.56:225][475]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_01_Auto57B402F434691CA8E0878438E02FB90D9.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Levels/Level_Graphics_01_Auto5.umap'
+[2021.03.11-17.46.56:245][475]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 32X32)
+[2021.03.11-17.46.56:334][475]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_02_Auto5EC5D18A745894716FCA7D5BF74B4D36B.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Levels/Level_Graphics_02_Auto5.umap'
+[2021.03.11-17.46.56:336][475]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Graphics' took 0.243
+[2021.03.11-17.46.56:337][475]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.243
+[2021.03.11-17.46.56:337][475]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/Materials/MI_Tree] ([1] browsable assets)...
+[2021.03.11-17.46.56:346][475]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Models/Tree/Materials/MI_Tree.MI_Tree]
+[2021.03.11-17.46.56:346][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/Materials/MI_Tree]
+[2021.03.11-17.46.56:360][475]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Tree_Auto5A27B73F04EC151A7A38CF68204BA3C90.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/Materials/MI_Tree_Auto5.uasset'
+[2021.03.11-17.46.56:361][475]LogFileHelpers: Auto-saving content packages took 0.024
+[2021.03.11-17.47.46:444][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_02_00)
+[2021.03.11-17.48.23:170][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_03_00)
+[2021.03.11-17.48.23:742][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_04_00)
+[2021.03.11-17.48.42:682][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_02_00)
+[2021.03.11-17.49.29:118][911]Cmd: TRANSACTION UNDO
+[2021.03.11-17.49.29:118][911]LogEditorTransaction: Undo Edit Distance Field Self Shadow Bias
+[2021.03.11-17.50.01:408][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_02_00)
+[2021.03.11-17.51.39:362][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_02_00)
+[2021.03.11-17.52.52:553][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_03_00)
+[2021.03.11-17.52.59:728][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_02_00)
+[2021.03.11-17.53.04:314][564]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Tree/SM_BranchLeaf_02_00.SM_BranchLeaf_02_00
+[2021.03.11-17.53.28:964][758]LogStaticMesh: Building static mesh SM_BranchLeaf_02_00...
+[2021.03.11-17.53.28:975][758]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Tree/SM_BranchLeaf_02_00.SM_BranchLeaf_02_00
+[2021.03.11-17.53.43:720][943]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.03.11-17.53.55:560][743]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.11-17.53.55:566][743]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.11-17.54.01:774][267]LogMeshUtilities: Finished distance field build in 32.8s - 128x103x120 distance field, 410 triangles, Range [-0.2, 1.0], SM_BranchLeaf_02_00
+[2021.03.11-17.54.01:810][269]LogStaticMesh: Allocated 479x128x128 distance field atlas = 15.0Mb, with 43 objects containing 12.0Mb backing data
+[2021.03.11-17.55.24:278][789]Cmd: TRANSACTION UNDO
+[2021.03.11-17.55.24:278][789]LogEditorTransaction: Undo Edit DistanceField Trace Distance
+[2021.03.11-17.55.28:848][166]Cmd: TRANSACTION UNDO
+[2021.03.11-17.55.28:848][166]LogEditorTransaction: Undo Edit Ray Start Offset Depth Scale
+[2021.03.11-17.55.34:220][614]Cmd: TRANSACTION UNDO
+[2021.03.11-17.55.34:220][614]LogEditorTransaction: Undo Edit Shadow Source Angle Factor
+[2021.03.11-17.57.01:280][649]LogSlate: Window 'SM_BranchLeaf_02_00' being destroyed
+[2021.03.11-17.57.01:282][649]LogSlate: Window 'SM_BranchLeaf_02_00' being destroyed
+[2021.03.11-17.57.01:292][649]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-17.57.01:292][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-17.57.02:243][721]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Tree/SM_Branch_04_00.SM_Branch_04_00
+[2021.03.11-17.57.12:252][547]LogSlate: Window 'SM_Branch_04_00' being destroyed
+[2021.03.11-17.57.12:256][547]LogSlate: Window 'SM_Branch_04_00' being destroyed
+[2021.03.11-17.57.12:288][547]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-17.57.12:288][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-17.58.31:092][723]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.11-17.58.35:481][217]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.11-17.59.02:790][347]Cmd: TRANSACTION UNDO
+[2021.03.11-17.59.02:790][347]LogEditorTransaction: Undo Edit Volumetric Scattering Intensity
+[2021.03.11-17.59.08:288][928]Cmd: TRANSACTION UNDO
+[2021.03.11-17.59.08:288][928]LogEditorTransaction: Undo Edit Atmosphere Height
+[2021.03.11-17.59.10:735][171]Cmd: TRANSACTION UNDO
+[2021.03.11-17.59.10:735][171]LogEditorTransaction: Undo Edit MultiScattering
+[2021.03.11-17.59.18:496][ 63]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.11-17.59.22:860][564]Cmd: TRANSACTION UNDO
+[2021.03.11-17.59.22:860][564]LogEditorTransaction: Undo Edit Mie Scattering Scale
+[2021.03.11-17.59.46:259][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_02_00)
+[2021.03.11-18.00.31:778][433]Cmd: TRANSACTION UNDO
+[2021.03.11-18.00.31:778][433]LogEditorTransaction: Undo Edit Distance Fadeout Fraction
+[2021.03.11-18.00.36:113][890]Cmd: TRANSACTION UNDO
+[2021.03.11-18.00.36:113][890]LogEditorTransaction: Undo Edit Distribution Exponent
+[2021.03.11-18.00.38:744][150]Cmd: TRANSACTION UNDO
+[2021.03.11-18.00.38:744][150]LogEditorTransaction: Undo Edit Num Dynamic Shadow Cascades
+[2021.03.11-18.01.32:819][440]Cmd: TRANSACTION UNDO
+[2021.03.11-18.01.32:819][440]LogEditorTransaction: Undo Edit Distance Fadeout Fraction
+[2021.03.11-18.01.34:180][560]Cmd: TRANSACTION UNDO
+[2021.03.11-18.01.34:180][560]LogEditorTransaction: Undo Edit Transition Fraction
+[2021.03.11-18.02.14:097][205]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.03.11-18.02.15:353][319]Cmd: TRANSACTION UNDO
+[2021.03.11-18.02.15:354][319]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2021.03.11-18.02.21:329][976]Cmd: TRANSACTION UNDO
+[2021.03.11-18.02.21:329][976]LogEditorTransaction: Undo Edit DistanceField Trace Distance
+[2021.03.11-18.03.28:773][809]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.11-18.05.36:931][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_02_00)
+[2021.03.11-18.05.41:713][748]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Models/Tree/Materials/MI_Leafs.MI_Leafs
+[2021.03.11-18.05.52:114][744]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.11-18.05.57:746][301]LogSlate: Window 'MI_Leafs' being destroyed
+[2021.03.11-18.05.57:750][301]LogSlate: Window 'MI_Leafs' being destroyed
+[2021.03.11-18.05.57:769][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.03.11-18.05.57:791][301]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.11-18.05.58:257][301]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.11-18.05.58:257][301]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.11-18.05.58:259][301]TextureStreamingBuild: Display: Compiling optional shaders took 0.467 seconds.
+[2021.03.11-18.05.58:279][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.03.11-18.05.58:296][301]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-18.05.58:296][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-18.06.02:234][710]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.03.11-18.06.09:443][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.11-18.06.09:473][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.11-18.06.09:481][503]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_GraphicsC18596494BDA0067E4FB0593A571E2A9.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_Graphics.umap'
+[2021.03.11-18.06.09:516][503]LogFileHelpers: Saving map 'Level_Graphics' took 0.052
+[2021.03.11-18.06.09:526][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.11-18.06.09:535][503]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.03.11-18.06.09:600][503]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_01B038A25541834FC6B47E24B8E7817387.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_Graphics_01.umap'
+[2021.03.11-18.06.09:602][503]LogFileHelpers: Saving map 'Level_Graphics_01' took 0.086
+[2021.03.11-18.06.09:607][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.11-18.06.09:700][503]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_022F2C0B3341D08E62BB99F09CDE30F35F.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_Graphics_02.umap'
+[2021.03.11-18.06.09:703][503]LogFileHelpers: Saving map 'Level_Graphics_02' took 0.100
+[2021.03.11-18.06.09:703][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/Materials/MI_Tree" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/Materials/MI_Tree.uasset" SILENT=true
+[2021.03.11-18.06.09:708][503]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Tree7097A7504B26C675953682A5268EB31B.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/Materials/MI_Tree.uasset'
+[2021.03.11-18.06.09:710][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Roots/SM_Root_01_00" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Roots/SM_Root_01_00.uasset" SILENT=true
+[2021.03.11-18.06.09:719][503]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Root_01_00F704CD6D41CC7B1271414F9DB0ABB9B8.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Roots/SM_Root_01_00.uasset'
+[2021.03.11-18.06.09:720][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Roots/SM_Root_02_00" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Roots/SM_Root_02_00.uasset" SILENT=true
+[2021.03.11-18.06.09:727][503]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Root_02_006437D77A44F2DAFCDBFB17B29692221B.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Roots/SM_Root_02_00.uasset'
+[2021.03.11-18.06.09:755][503]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_BranchLeaf_02_00D52429E84FA9379BCF769CB8991CF212.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_BranchLeaf_02_00.uasset'
+[2021.03.11-18.06.09:777][503]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_LeafsCC9758DE4CFC866AD21853BA0994766C.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/Materials/MI_Leafs.uasset'
+[2021.03.11-18.06.09:790][503]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.11-18.06.09:790][503]LogContentValidation: Display: Validating World /Game/Levels/Level_Graphics_01.Level_Graphics_01
+[2021.03.11-18.06.09:790][503]LogContentValidation: Display: Validating World /Game/Levels/Level_Graphics.Level_Graphics
+[2021.03.11-18.06.09:790][503]LogContentValidation: Display: Validating World /Game/Levels/Level_Graphics_02.Level_Graphics_02
+[2021.03.11-18.06.09:790][503]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/SM_BranchLeaf_02_00.SM_BranchLeaf_02_00
+[2021.03.11-18.06.09:790][503]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Models/Tree/Materials/MI_Leafs.MI_Leafs
+[2021.03.11-18.06.09:790][503]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Models/Tree/Materials/MI_Tree.MI_Tree
+[2021.03.11-18.06.09:790][503]LogContentValidation: Display: Validating StaticMesh /Game/Models/Roots/SM_Root_01_00.SM_Root_01_00
+[2021.03.11-18.06.09:790][503]LogContentValidation: Display: Validating StaticMesh /Game/Models/Roots/SM_Root_02_00.SM_Root_02_00

@@ -1,0 +1,1275 @@
+﻿Log file open, 03/11/21 10:36:12
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Urskog_Prototype
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.205285
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/burst/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.11-09.36.12:912][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.11-09.36.12:912][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.11-09.36.12:912][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.11-09.36.12:944][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.11-09.36.12:944][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.11-09.36.12:945][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.11-09.36.12:945][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.11-09.36.12:945][  0]LogHAL: Display: Platform has ~ 16 GB [17114312704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.11-09.36.12:945][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.11-09.36.12:945][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.11-09.36.12:945][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.11-09.36.12:946][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.11-09.36.12:947][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.11-09.36.12:947][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.11-09.36.12:947][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.11-09.36.12:947][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.11-09.36.12:947][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.11-09.36.12:947][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.11-09.36.12:947][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.11-09.36.12:947][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.11-09.36.12:947][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.11-09.36.12:947][  0]LogInit: Computer: DESKTOP-66APALA
+[2021.03.11-09.36.12:947][  0]LogInit: User: burst
+[2021.03.11-09.36.12:947][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.11-09.36.12:947][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.11-09.36.12:947][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.11-09.36.12:947][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.11-09.36.12:947][  0]LogMemory: Process Physical Memory: 134.71 MB used, 134.71 MB peak
+[2021.03.11-09.36.12:947][  0]LogMemory: Process Virtual Memory: 118.66 MB used, 118.66 MB peak
+[2021.03.11-09.36.12:947][  0]LogMemory: Physical Memory: 6864.50 MB used,  9456.98 MB free, 16321.48 MB total
+[2021.03.11-09.36.12:947][  0]LogMemory: Virtual Memory: 134196744.00 MB used,  20986.93 MB free, 134217728.00 MB total
+[2021.03.11-09.36.12:951][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.11-09.36.12:987][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.11-09.36.12:988][  0]LogInit: Using OS detected language (en-US).
+[2021.03.11-09.36.12:988][  0]LogInit: Using OS detected locale (en-SE).
+[2021.03.11-09.36.12:991][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.11-09.36.13:166][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.11-09.36.13:175][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.11-09.36.13:242][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.11-09.36.13:242][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.11-09.36.13:391][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.11-09.36.13:391][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.11-09.36.13:391][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.11-09.36.13:391][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.11-09.36.13:457][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.03.11-09.36.13:457][  0]LogD3D11RHI:       8088/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.11-09.36.13:458][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.11-09.36.13:458][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.11-09.36.13:459][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.11-09.36.13:464][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.11-09.36.13:464][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.11-09.36.13:464][  0]LogWindows: EnumDisplayDevices:
+[2021.03.11-09.36.13:464][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.03.11-09.36.13:464][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2021.03.11-09.36.13:464][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.11-09.36.13:465][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.11-09.36.13:465][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.11-09.36.13:465][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.03.11-09.36.13:465][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.03.11-09.36.13:465][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.03.11-09.36.13:465][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.03.11-09.36.13:511][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.11-09.36.13:511][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.11-09.36.13:511][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.11-09.36.13:538][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.11-09.36.13:539][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.11-09.36.13:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.11-09.36.13:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.11-09.36.13:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.11-09.36.13:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.11-09.36.13:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.11-09.36.13:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.11-09.36.13:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.11-09.36.13:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.11-09.36.13:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.11-09.36.13:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.11-09.36.13:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.11-09.36.13:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.11-09.36.13:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.11-09.36.13:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.11-09.36.13:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.11-09.36.13:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.11-09.36.13:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.11-09.36.13:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.11-09.36.13:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.11-09.36.13:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.11-09.36.13:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.11-09.36.13:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.11-09.36.13:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.11-09.36.13:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.11-09.36.13:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.11-09.36.13:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.11-09.36.13:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.11-09.36.13:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.11-09.36.13:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.11-09.36.13:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.11-09.36.13:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.11-09.36.13:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.11-09.36.13:994][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.11-09.36.14:001][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.11-09.36.14:056][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.11-09.36.14:056][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Intermediate/Shaders/WorkingDirectory/12500/).
+[2021.03.11-09.36.14:056][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/burst/AppData/Local/Temp/UnrealShaderWorkingDir/C6A8554B48867016E678E1A78628BB89/'.
+[2021.03.11-09.36.14:056][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.11-09.36.14:056][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.11-09.36.14:730][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.11-09.36.14:790][  0]LogDerivedDataCache: Loaded boot cache 0.06s 98MB C:/Users/burst/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.11-09.36.14:790][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/burst/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.11-09.36.14:791][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.11-09.36.14:791][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.11-09.36.14:791][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.11-09.36.14:791][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.11-09.36.14:801][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.11-09.36.14:801][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.11-09.36.14:801][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.11-09.36.14:814][  0]LogDerivedDataCache: Speed tests for C:/Users/burst/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.03.11-09.36.14:814][  0]LogDerivedDataCache: Display: Performance to C:/Users/burst/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=253.42MBs, RandomWriteSpeed=113.83MBs. Assigned SpeedClass 'Local'
+[2021.03.11-09.36.14:814][  0]LogDerivedDataCache: Using Local data cache path C:/Users/burst/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.11-09.36.14:814][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.11-09.36.14:814][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.11-09.36.14:855][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.11-09.36.14:856][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.11-09.36.14:878][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2021.03.11-09.36.15:077][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.11-09.36.15:077][  0]LogInit: Active device profile: [000001AE07C37A00][000001AE077FF300 49] Windows
+[2021.03.11-09.36.15:077][  0]LogInit: Profiles: [000001AE07C37A00][000001AE077FF300 49] Windows, [000001AE08FE5B00][000001AE07807480 49] WindowsNoEditor, [000001AE07C34B00][000001AE078035C0 49] WindowsServer, [000001AE08FE5200][000001AE0780B700 49] WindowsClient, [000001AE07C36B00][000001AE0780F840 49] IOS, [000001AE08FE7100][000001AE07813980 49] iPadAir, [000001AE07C35000][000001AE0781BB00 49] iPadAir2, [000001AE09C36A00][000001AE08ABE100 49] IPadPro, [000001AE09C36B00][000001AE08ABA140 49] iPadAir3, [000001AE07C34D00][000001AE08AC22C0 49] iPadAir4, [000001AE09C37F00][000001AE08AD6440 49] iPadMini2, [000001AE07C34900][000001AE08AF25C0 49] iPadMini3, [000001AE09C35C00][000001AE08AF6740 49] iPadMini4, [000001AE07C37000][000001AE08AFA8C0 49] iPadMini5, [000001AE08F2E300][000001AE08B06B80 49] iPhone6, [000001AE08F2E400][000001AE08AFEBC0 49] iPodTouch6, [000001AE08FE4600][000001AE08BC4E80 49] iPhone7, [000001AE08FE4500][000001AE08BC0EC0 49] iPodTouch7, [000001AE08F2FC00][000001AE08BCD040 49] iPhone5S, [000001AE08FE6600][000001AE08BD51C0 49] iPhone6Plus, [000001AE08F2D400][000001AE08BD9340 49] iPhone6S, [000001AE08FE7D00][000001AE08BDD4C0 49] iPhone6SPlus, [000001AE08F2C300][000001AE08BED640 49] iPhone7Plus, [000001AE08FE5800][000001AE07817780 49] iPhoneSE, [000001AE08F2EF00][000001AE08BF18C0 49] iPhone8, [000001AE08FE6100][000001AE08BF5A00 49] iPhone8Plus, [000001AE08F2D900][000001AE08BFDB80 49] iPhoneX, [000001AE08FE7800][000001AE08C01D00 49] iPhoneXS, [000001AE08F2FF00][000001AE08C041C0 49] iPhoneXSMax, [000001AE08FE5900][000001AE08C20340 49] iPhoneXR, [000001AE08F2DB00][000001AE08C244C0 49] iPhone11, [000001AE08FE5300][000001AE08C28640 49] iPhone11Pro, [000001AE08F2F000][000001AE08C2C7C0 49] iPhone11ProMax, [000001AE08FE6800][000001AE09C40940 49] iPhoneSE2, [000001AE08F2C500][000001AE09C64AC0 49] iPhone12Mini, [000001AE08FE6B00][000001AE09C68C40 49] iPhone12, [000001AE08F2E800][000001AE09C6CDC0 49] iPhone12Pro, [000001AE08F2C700][000001AE09C70F40 49] iPhone12ProMax, [000001AE07C34F00][000001AE09C750C0 49] iPadPro105, [000001AE08F2E700][000001AE09C79240 49] iPadPro129, [000001AE07C34A00][000001AE09C7D3C0 49] iPadPro97, [000001AE08F2F600][000001AE09C81540 49] iPadPro2_129, [000001AE07C34400][000001AE09C856C0 49] iPad5, [000001AE08FE7300][000001AE08BF9800 49] iPad6, [000001AE07C36300][000001AE09C89940 49] iPad7, [000001AE08FE6900][000001AE09C8DA80 49] iPad8, [000001AE07C36500][000001AE09C95C00 49] iPadPro11, [000001AE08FE4100][000001AE09C980C0 49] iPadPro2_11, [000001AE07C36400][000001AE09C9C240 49] iPadPro3_129, [000001AE08FE7F00][000001AE09CA03C0 49] iPadPro4_129, [000001AE07C36F00][000001AE09CA4540 49] AppleTV, [000001AE08FE4C00][000001AE09CA86C0 49] AppleTV4K, [000001AE07C34100][000001AE09CAC840 49] TVOS, [000001AE08FE5600][000001AE09CB09C0 49] Mac, [000001AE07C35F00][000001AE09CB4B40 49] MacClient, [000001AE08FE6000][000001AE09CB8CC0 49] MacNoEditor, [000001AE07C35B00][000001AE09CBCE40 49] MacServer, [000001AE08FE7000][000001AE09CC0FC0 49] Linux, [000001AE07C34300][000001AE09CC5140 49] LinuxNoEditor, [000001AE08FE5400][000001AE09CC92C0 49] LinuxAArch64NoEditor, [000001AE07C34800][000001AE09CCD440 49] LinuxClient, [000001AE08FE6500][000001AE09CD15C0 49] LinuxAArch64Client, [000001AE07C36700][000001AE09CD5740 49] LinuxServer, [000001AE08FE5700][000001AE09C91880 49] LinuxAArch64Server, [000001AE07C34E00][000001AE09CD99C0 49] Android, [000001AE08FE4700][000001AE09CDDB00 49] Android_Low, [000001AE07C35500][000001AE09CE1C40 49] Android_Mid, [000001AE08FE4800][000001AE09CE8100 49] Android_High, [000001AE07C34500][000001AE09CEC280 49] Android_Default, [000001AE08FE4200][000001AE09CF0400 49] Android_Adreno4xx, [000001AE07C35400][000001AE09CF4580 49] Android_Adreno5xx_Low, [000001AE08FE4E00][000001AE09CF8700 49] Android_Adreno5xx, [000001AE07C34700][000001AE09CFC880 49] Android_Adreno6xx, [000001AE08FE7400][000001AE09D00A00 49] Android_Adreno6xx_Vulkan, [000001AE07C36100][000001AE09D04B80 49] Android_Mali_T6xx, [000001AE08FE4900][000001AE09D08D00 49] Android_Mali_T7xx, [000001AE07C37600][000001AE09D0CE80 49] Android_Mali_T8xx, [000001AE08FE5000][000001AE09D11000 49] Android_Mali_G71, [000001AE07C36800][000001AE09D15180 49] Android_Mali_G72, [000001AE08FE6700][000001AE09D19300 49] Android_Mali_G72_Vulkan, [000001AE07C35800][000001AE09D1D480 49] Android_Mali_G76, [000001AE08FE6D00][000001AE09D21600 49] Android_Mali_G76_Vulkan, [000001AE07C37700][000001AE09D25780 49] Android_Mali_G77, [000001AE08FE4F00][000001AE09CE58C0 49] Android_Mali_G77_Vulkan, [000001AE07C35300][000001AE09D29A00 49] Android_Vulkan_SM5, [000001AE08F2DE00][000001AE09D2DB40 49] Android_PowerVR_G6xxx, [000001AE09C34D00][000001AE09D31C80 49] Android_PowerVR_GT7xxx, [000001AE08F2EE00][000001AE09D38140 49] Android_PowerVR_GE8xxx, [000001AE09C36400][000001AE09D3C2C0 49] Android_PowerVR_GM9xxx, [000001AE08F2DC00][000001AE09D40440 49] Android_PowerVR_GM9xxx_Vulkan, [000001AE09C36200][000001AE09D445C0 49] Android_TegraK1, [000001AE08F2CD00][000001AE09D48740 49] Android_Unknown_Vulkan, [000001AE09C34700][000001AE09D4C8C0 49] Lumin, [000001AE08F2EA00][000001AE09D50A40 49] Lumin_Desktop, [000001AE09C35000][000001AE09D54BC0 49] HoloLens, 
+[2021.03.11-09.36.15:111][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.11-09.36.15:111][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.11-09.36.15:111][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.11-09.36.15:111][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.11-09.36.15:111][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.11-09.36.15:217][  0]LogNetVersion: Urskog_Prototype 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2797969702)
+[2021.03.11-09.36.15:612][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.11-09.36.15:666][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.053314 seconds
+[2021.03.11-09.36.15:671][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.03.11-09.36.15:671][  0]LogUObjectAllocator: 4209680 out of 0 bytes used by permanent object pool.
+[2021.03.11-09.36.15:671][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.11-09.36.15:972][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.11-09.36.15:981][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.11-09.36.16:044][  0]SourceControl: Source control is disabled
+[2021.03.11-09.36.16:044][  0]SourceControl: Source control is disabled
+[2021.03.11-09.36.16:047][  0]SourceControl: Source control is disabled
+[2021.03.11-09.36.16:049][  0]SourceControl: Source control is disabled
+[2021.03.11-09.36.16:053][  0]SourceControl: Source control is disabled
+[2021.03.11-09.36.16:060][  0]LogUProjectInfo: Found projects:
+[2021.03.11-09.36.16:159][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.11-09.36.16:174][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.11-09.36.16:174][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.11-09.36.16:303][  0]LogCollectionManager: Loaded 0 collections in 0.001564 seconds
+[2021.03.11-09.36.16:320][  0]LogFileCache: Scanning file cache for directory 'C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Collections/' took 0.00s
+[2021.03.11-09.36.16:320][  0]LogFileCache: Scanning file cache for directory 'C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Developers/burst/Collections/' took 0.00s
+[2021.03.11-09.36.16:320][  0]LogFileCache: Scanning file cache for directory 'C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Collections/' took 0.00s
+[2021.03.11-09.36.16:320][  0]LogOcInput: OculusInput pre-init called
+[2021.03.11-09.36.16:329][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.11-09.36.16:329][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.11-09.36.16:367][  0]LogEngine: Initializing Engine...
+[2021.03.11-09.36.16:368][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.11-09.36.16:368][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.11-09.36.16:369][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.11-09.36.16:476][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.11-09.36.16:484][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.11-09.36.16:501][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.11-09.36.16:504][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.11-09.36.16:504][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.11-09.36.16:504][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.11-09.36.16:504][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.11-09.36.16:504][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.11-09.36.16:504][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.11-09.36.16:504][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.11-09.36.16:504][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.11-09.36.16:504][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.11-09.36.16:504][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.11-09.36.16:505][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.11-09.36.16:505][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.11-09.36.16:518][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.11-09.36.16:518][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.11-09.36.16:542][  0]LogAudioMixer: Display: Using Audio Device Headphones (HyperX Cloud Flight Wireless Headset)
+[2021.03.11-09.36.16:545][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.11-09.36.16:546][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.11-09.36.16:547][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.11-09.36.16:547][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.11-09.36.16:547][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.11-09.36.16:547][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.11-09.36.16:548][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.11-09.36.16:548][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.11-09.36.16:548][  0]LogInit: FAudioDevice initialized.
+[2021.03.11-09.36.16:549][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.11-09.36.16:549][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.11-09.36.16:632][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/burst/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.11-09.36.16:639][  0]LogInit: Texture streaming: Enabled
+[2021.03.11-09.36.16:648][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.03.11-09.36.16:651][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.11-09.36.16:651][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.11-09.36.16:653][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.11-09.36.16:694][  0]LogInit: Transaction tracking system initialized
+[2021.03.11-09.36.16:711][  0]BlueprintLog: New page: Editor Load
+[2021.03.11-09.36.16:762][  0]LocalizationService: Localization service is disabled
+[2021.03.11-09.36.16:780][  0]TimingProfiler: Initialize
+[2021.03.11-09.36.16:780][  0]TimingProfiler: OnSessionChanged
+[2021.03.11-09.36.16:780][  0]LoadingProfiler: Initialize
+[2021.03.11-09.36.16:781][  0]LoadingProfiler: OnSessionChanged
+[2021.03.11-09.36.16:781][  0]NetworkingProfiler: Initialize
+[2021.03.11-09.36.16:781][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.11-09.36.16:781][  0]MemoryProfiler: Initialize
+[2021.03.11-09.36.16:781][  0]MemoryProfiler: OnSessionChanged
+[2021.03.11-09.36.16:895][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.11-09.36.16:895][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.11-09.36.17:014][  0]LogFileCache: Scanning file cache for directory 'C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/' took 0.00s
+[2021.03.11-09.36.17:186][  0]SourceControl: Source control is disabled
+[2021.03.11-09.36.17:186][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.187
+[2021.03.11-09.36.17:186][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.11-09.36.17:186][  0]LightingResults: New page: Lighting Build
+[2021.03.11-09.36.17:187][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-09.36.17:187][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-09.36.17:187][  0]MapCheck: New page: Map Check
+[2021.03.11-09.36.17:187][  0]LightingResults: New page: Lighting Build
+[2021.03.11-09.36.17:193][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.11-09.36.17:254][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.03.11-09.36.17:255][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.03.11-09.36.17:260][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.11-09.36.17:267][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.03.11-09.36.17:267][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.11-09.36.17:267][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,149ms to complete.
+[2021.03.11-09.36.17:268][  0]LogFileHelpers: Loading map 'Template_Default' took 0.083
+[2021.03.11-09.36.17:269][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.271
+[2021.03.11-09.36.17:427][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-09.36.17:432][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-09.36.17:437][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-09.36.17:443][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.11-09.36.17:454][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0081 seconds. Added 3603 classes and 862 folders.
+[2021.03.11-09.36.17:456][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.11-09.36.17:457][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.11-09.36.17:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.11-09.36.17:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.03.11-09.36.17:458][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.11-09.36.17:458][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:458][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.11-09.36.17:458][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.03.11-09.36.17:458][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.11-09.36.17:458][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:458][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.11-09.36.17:458][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.03.11-09.36.17:459][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.11-09.36.17:459][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:459][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.11-09.36.17:459][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.03.11-09.36.17:459][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.11-09.36.17:459][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:459][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.11-09.36.17:459][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.03.11-09.36.17:460][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.11-09.36.17:460][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:460][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.11-09.36.17:460][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.03.11-09.36.17:460][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.11-09.36.17:460][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:460][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.11-09.36.17:460][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.03.11-09.36.17:460][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.11-09.36.17:461][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.11-09.36.17:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.03.11-09.36.17:461][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.11-09.36.17:461][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.11-09.36.17:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.03.11-09.36.17:461][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.11-09.36.17:461][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.11-09.36.17:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.03.11-09.36.17:462][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.11-09.36.17:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.11-09.36.17:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.11-09.36.17:462][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.11-09.36.17:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.11-09.36.17:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.03.11-09.36.17:463][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.11-09.36.17:463][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.11-09.36.17:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.03.11-09.36.17:463][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.11-09.36.17:463][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.11-09.36.17:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.03.11-09.36.17:464][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.11-09.36.17:464][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:464][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.11-09.36.17:464][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.03.11-09.36.17:464][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.11-09.36.17:464][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:464][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.11-09.36.17:464][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.03.11-09.36.17:464][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.11-09.36.17:464][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:464][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.11-09.36.17:464][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.03.11-09.36.17:465][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.11-09.36.17:465][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:465][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.11-09.36.17:465][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.03.11-09.36.17:465][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.11-09.36.17:465][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:465][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.11-09.36.17:465][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.03.11-09.36.17:466][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.11-09.36.17:466][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:466][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.11-09.36.17:466][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.03.11-09.36.17:466][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.11-09.36.17:466][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:466][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.11-09.36.17:466][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.03.11-09.36.17:467][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.11-09.36.17:467][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:467][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.11-09.36.17:467][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.03.11-09.36.17:467][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.11-09.36.17:467][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:467][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.11-09.36.17:467][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.03.11-09.36.17:468][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.11-09.36.17:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.11-09.36.17:468][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.03.11-09.36.17:468][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.11-09.36.17:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.11-09.36.17:468][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.03.11-09.36.17:469][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.11-09.36.17:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.11-09.36.17:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.11-09.36.17:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.03.11-09.36.17:500][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.11-09.36.17:501][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.03.11-09.36.17:564][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.11-09.36.17:566][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.11-09.36.17:570][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.11-09.36.17:738][  0]LogRenderer: Reallocating scene render targets to support 992x516 Format 10 NumSamples 1 (Frame:1).
+[2021.03.11-09.36.17:837][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.11-09.36.17:837][  0]LogLoad: (Engine Initialization) Total time: 5.84 seconds
+[2021.03.11-09.36.17:837][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.11-09.36.17:837][  0]LogInit: First time updating LLM stats...
+[2021.03.11-09.36.17:867][  0]LogAssetRegistry: Asset discovery search completed in 2.9891 seconds
+[2021.03.11-09.36.17:868][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.03.11-09.36.17:891][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.11-09.36.17:959][  6]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.11-09.36.25:087][846]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.11-09.36.25:185][846]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/RVT_ST_ColorD6B344B043253072CD99F7BF73985A82.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/RVT_Textures/RVT_ST_Color.uasset'
+[2021.03.11-09.36.25:191][846]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/RVT_ST_Height2C60521E4F4EBC0C9069E481B6E05DDC.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/RVT_Textures/RVT_ST_Height.uasset'
+[2021.03.11-09.36.25:242][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.11-09.36.25:247][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.11-09.36.25:256][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.11-09.36.25:261][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.03.11-09.36.25:302][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock02" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock02.uasset" SILENT=true
+[2021.03.11-09.36.25:312][846]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock028F09812443D342E5946DEE95991B9A17.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock02.uasset'
+[2021.03.11-09.36.25:323][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Tree/MI_Tree" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Tree/MI_Tree.uasset" SILENT=true
+[2021.03.11-09.36.25:337][846]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Tree3DCA8C0B46812419B67E49A5F6F45887.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Tree/MI_Tree.uasset'
+[2021.03.11-09.36.25:347][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock06" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock06.uasset" SILENT=true
+[2021.03.11-09.36.25:357][846]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock06A3B453DC4A19ACBC55EF5F9549856D66.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock06.uasset'
+[2021.03.11-09.36.25:370][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock05" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock05.uasset" SILENT=true
+[2021.03.11-09.36.25:380][846]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock0569DD145E49240EB6331434BB123AB93D.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock05.uasset'
+[2021.03.11-09.36.25:390][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock04" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock04.uasset" SILENT=true
+[2021.03.11-09.36.25:399][846]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock04EB12F3EA4FD84620393AEC8D479F15E4.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock04.uasset'
+[2021.03.11-09.36.25:408][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock03" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock03.uasset" SILENT=true
+[2021.03.11-09.36.25:419][846]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock03E3FC57C94C58CDB37E2A228B0FA8363F.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock03.uasset'
+[2021.03.11-09.36.25:430][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock01" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock01.uasset" SILENT=true
+[2021.03.11-09.36.25:441][846]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock0174F28DE642A42226B24885B841173C61.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock01.uasset'
+[2021.03.11-09.36.25:460][846]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_DirtCliffF0E8ED4149B0576BA1ED84BA53ACEE27.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/CliffSides/MI_DirtCliff.uasset'
+[2021.03.11-09.36.25:482][846]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_RockCliffBCE9A1654B4473817791B3BC16E134FE.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/CliffSides/MI_RockCliff.uasset'
+[2021.03.11-09.36.25:515][846]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.11-09.36.25:515][846]LogContentValidation: Display: Validating RuntimeVirtualTexture /Game/MasterMaterials/RVT_Textures/RVT_ST_Height.RVT_ST_Height
+[2021.03.11-09.36.25:515][846]LogContentValidation: Display: Validating RuntimeVirtualTexture /Game/MasterMaterials/RVT_Textures/RVT_ST_Color.RVT_ST_Color
+[2021.03.11-09.36.25:515][846]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock02.MI_Rock02
+[2021.03.11-09.36.25:515][846]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Tree/MI_Tree.MI_Tree
+[2021.03.11-09.36.25:515][846]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock06.MI_Rock06
+[2021.03.11-09.36.25:515][846]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock05.MI_Rock05
+[2021.03.11-09.36.25:515][846]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock04.MI_Rock04
+[2021.03.11-09.36.25:515][846]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock03.MI_Rock03
+[2021.03.11-09.36.25:515][846]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock01.MI_Rock01
+[2021.03.11-09.36.25:516][846]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/CliffSides/MI_DirtCliff.MI_DirtCliff
+[2021.03.11-09.36.25:516][846]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/CliffSides/MI_RockCliff.MI_RockCliff
+[2021.03.11-09.36.30:886][475]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.03.11-09.36.30:903][476]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.11-09.36.30:903][476]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.11-09.36.30:920][476]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2021.03.11-09.36.30:931][477]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.03.11-09.36.30:931][477]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.03.11-09.36.30:960][477]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2021.03.11-09.36.31:991][532]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2021.03.11-09.36.32:068][537]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.03.11-09.36.32:122][541]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.03.11-09.36.32:445][564]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.03.11-09.36.34:826][713]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.03.11-09.36.35:181][741]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.03.11-09.36.36:306][811]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/MasterMaterials/Material_Functions/MF_Moss.MF_Moss
+[2021.03.11-09.36.36:307][811]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0006 seconds. Added 3 classes and 0 folders.
+[2021.03.11-09.36.36:690][811]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.03.11-09.36.36:713][811]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2021.03.11-09.36.36:720][811]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.03.11-09.36.36:739][811]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2021.03.11-09.36.36:754][811]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2021.03.11-09.36.36:761][811]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.03.11-09.36.36:766][811]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.03.11-09.36.36:814][811]LogSlate: Took 0.008965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.11-09.36.37:112][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2021.03.11-09.36.37:112][812]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2021.03.11-09.36.37:112][812]LogStaticMesh: Allocated 462x64x64 distance field atlas = 3.6Mb, with 30 objects containing 2.5Mb backing data
+[2021.03.11-09.36.37:120][812]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.11-09.36.37:874][848]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2021.03.11-09.36.38:381][873]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2021.03.11-09.36.38:542][882]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2021.03.11-09.36.38:929][901]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2021.03.11-09.36.38:954][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2021.03.11-09.36.39:027][906]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2021.03.11-09.36.39:091][910]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2021.03.11-09.36.39:352][922]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2021.03.11-09.36.39:561][931]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2021.03.11-09.36.39:862][945]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2021.03.11-09.36.40:083][955]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2021.03.11-09.36.40:576][977]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2021.03.11-09.36.40:637][980]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2021.03.11-09.36.40:880][992]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2021.03.11-09.36.40:948][996]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2021.03.11-09.36.40:986][998]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.03.11-09.36.41:181][ 10]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2021.03.11-09.36.41:214][ 11]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.03.11-09.36.41:474][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.03.11-09.36.41:697][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.03.11-09.36.41:977][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.03.11-09.36.42:128][ 53]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.03.11-09.36.42:270][ 61]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.03.11-09.36.42:322][ 64]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.03.11-09.36.42:341][ 65]LogSlate: Window 'MF_Moss' being destroyed
+[2021.03.11-09.36.42:349][ 65]LogSlate: Window 'MF_Moss' being destroyed
+[2021.03.11-09.36.42:399][ 65]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.11-09.36.42:399][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.11-09.36.42:711][ 93]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.03.11-09.36.42:979][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.03.11-09.36.43:285][130]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.03.11-09.36.43:390][137]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.11-09.36.43:459][142]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.03.11-09.37.09:214][118]LogMaterial: Display: Missing cached shader map for material M_leaf_Ivy, compiling. 
+[2021.03.11-09.37.09:280][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2021.03.11-09.37.09:280][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2021.03.11-09.37.09:280][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2021.03.11-09.37.09:280][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2021.03.11-09.37.09:280][118]LogMaterial: Display: Missing cached shader map for material M_Stem, compiling. 
+[2021.03.11-09.37.09:341][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Manual.BP_Ivy_Manual_C' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Manual.PackageMetaData'
+[2021.03.11-09.37.09:341][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Manual.BP_Ivy_Manual:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Manual.PackageMetaData'
+[2021.03.11-09.37.09:341][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Manual.BP_Ivy_Manual:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Manual.PackageMetaData'
+[2021.03.11-09.37.09:341][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Manual.BP_Ivy_Manual:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Manual.PackageMetaData'
+[2021.03.11-09.37.09:341][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Manual.BP_Ivy_Manual:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Manual.PackageMetaData'
+[2021.03.11-09.37.09:341][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Manual.SKEL_BP_Ivy_Manual_C:ReceiveBeginPlay' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Manual.PackageMetaData'
+[2021.03.11-09.37.09:341][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Manual.SKEL_BP_Ivy_Manual_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Manual.PackageMetaData'
+[2021.03.11-09.37.09:341][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Manual.SKEL_BP_Ivy_Manual_C:ReceiveTick' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Manual.PackageMetaData'
+[2021.03.11-09.37.09:341][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Manual.SKEL_BP_Ivy_Manual_C:UserConstructionScript' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Manual.PackageMetaData'
+[2021.03.11-09.37.09:341][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Manual.SKEL_BP_Ivy_Manual_C' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Manual.PackageMetaData'
+[2021.03.11-09.37.09:341][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Manual.BP_Ivy_Manual_C:UserConstructionScript' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Manual.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.BP_Ivy_Proced_C' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.BP_Ivy_Proced:Generate Spline.K2Node_FunctionEntry_0' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.BP_Ivy_Proced:Select Leaf From Array(SM).K2Node_Tunnel_1' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.BP_Ivy_Proced:Select Leaf From Array(SM).K2Node_Tunnel_0' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.BP_Ivy_Proced:Multiple Custom Attractors.K2Node_Tunnel_1' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.BP_Ivy_Proced:Multiple Custom Attractors.K2Node_Tunnel_0' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.BP_Ivy_Proced:Wrld 2 Local Rot & Loc.K2Node_Tunnel_1' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.BP_Ivy_Proced:Wrld 2 Local Rot & Loc.K2Node_Tunnel_0' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.SKEL_BP_Ivy_Proced_C:ReceiveBeginPlay' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.SKEL_BP_Ivy_Proced_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.SKEL_BP_Ivy_Proced_C:ReceiveTick' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.SKEL_BP_Ivy_Proced_C:ClearLinetraceDebug' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.SKEL_BP_Ivy_Proced_C:UserConstructionScript' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.SKEL_BP_Ivy_Proced_C:Generate Spline' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.SKEL_BP_Ivy_Proced_C' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.BP_Ivy_Proced_C:ClearLinetraceDebug' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.BP_Ivy_Proced_C:UserConstructionScript' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:343][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.BP_Ivy_Proced_C:Generate Spline' ref from Metadata '/Game/Ivy/Blueprints/BP_Ivy_Proced.PackageMetaData'
+[2021.03.11-09.37.09:347][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Meshes/SM_LeafMesh1.SM_LeafMesh1' ref from Metadata '/Game/Ivy/Meshes/SM_LeafMesh1.PackageMetaData'
+[2021.03.11-09.37.09:348][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Meshes/SM_LeafMesh2.SM_LeafMesh2' ref from Metadata '/Game/Ivy/Meshes/SM_LeafMesh2.PackageMetaData'
+[2021.03.11-09.37.09:348][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Meshes/SM_LeafMesh3.SM_LeafMesh3' ref from Metadata '/Game/Ivy/Meshes/SM_LeafMesh3.PackageMetaData'
+[2021.03.11-09.37.09:349][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Meshes/SM_LeafMesh4.SM_LeafMesh4' ref from Metadata '/Game/Ivy/Meshes/SM_LeafMesh4.PackageMetaData'
+[2021.03.11-09.37.09:349][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Meshes/SM_LeafMesh5.SM_LeafMesh5' ref from Metadata '/Game/Ivy/Meshes/SM_LeafMesh5.PackageMetaData'
+[2021.03.11-09.37.09:350][118]LogMetaData: Removing '/Game/Blueprints/Ivy/Meshes/SM_Stem.SM_Stem' ref from Metadata '/Game/Ivy/Meshes/SM_Stem.PackageMetaData'
+[2021.03.11-09.37.09:426][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/BP_Ivy_ManualA6DDF2924DBC629827803CB7673C457D.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Blueprints/BP_Ivy_Manual.uasset'
+[2021.03.11-09.37.10:130][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/BP_Ivy_Proced7762DBCE441A87EE41CED5866A56CAFD.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.uasset'
+[2021.03.11-09.37.10:144][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/CRV_LeafScaleDistC986A47141F099DD99039FAB1FA634E6.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Blueprints/CRV_LeafScaleDist.uasset'
+[2021.03.11-09.37.10:172][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/CRV_StemScale93855CDF4117CB81BEC600889A63E28B.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Blueprints/CRV_StemScale.uasset'
+[2021.03.11-09.37.10:213][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Leaf_Ivy_Instance2C349E8548F8B4423672B1A889C0FA42.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Materials/MI_Leaf_Ivy_Instance.uasset'
+[2021.03.11-09.37.13:008][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 115
+[2021.03.11-09.37.13:567][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 105
+[2021.03.11-09.37.13:567][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 95
+[2021.03.11-09.37.13:567][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 85
+[2021.03.11-09.37.19:152][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2021.03.11-09.37.19:152][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 65
+[2021.03.11-09.37.19:152][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 55
+[2021.03.11-09.37.20:267][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2021.03.11-09.37.23:062][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2021.03.11-09.37.23:619][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.03.11-09.37.24:178][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.03.11-09.37.25:746][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.03.11-09.37.25:813][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/M_leaf_IvyB67B75CB451ECF76281BF4A27A128406.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Materials/M_leaf_Ivy.uasset'
+[2021.03.11-09.37.26:931][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.03.11-09.37.26:931][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.03.11-09.37.26:931][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.03.11-09.37.27:490][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.03.11-09.37.28:050][118]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.11-09.37.28:050][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.11-09.37.28:274][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/M_StemA44781094E01D33E65E92685A7866108.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Materials/M_Stem.uasset'
+[2021.03.11-09.37.28:289][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/T_Leaf_BC1AF985024F090A2ED4D5B2AB50352141.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Materials/T_Leaf_BC.uasset'
+[2021.03.11-09.37.28:305][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/T_Leaf_normalF4F1ADB14A5C02F2A2716F91CF570320.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Materials/T_Leaf_normal.uasset'
+[2021.03.11-09.37.28:321][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/T_Leaf_sss495AC97A43D23170E12240ACB76E0DBD.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Materials/T_Leaf_sss.uasset'
+[2021.03.11-09.37.28:334][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/T_leaf_WindRoughAlphaC26C32404242809DFC8679B48EC21E6A.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Materials/T_leaf_WindRoughAlpha.uasset'
+[2021.03.11-09.37.28:359][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_LeafMesh10DBAB3364CB3CCC99C6318AACF08C090.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Meshes/SM_LeafMesh1.uasset'
+[2021.03.11-09.37.28:378][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_LeafMesh252743D9D4E63BA22E0ABB4A5AAF32733.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Meshes/SM_LeafMesh2.uasset'
+[2021.03.11-09.37.28:397][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_LeafMesh3141F44964D8C549282190DA475FBC1D9.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Meshes/SM_LeafMesh3.uasset'
+[2021.03.11-09.37.28:416][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_LeafMesh466B033B8482B15431E71B9A93BBD020D.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Meshes/SM_LeafMesh4.uasset'
+[2021.03.11-09.37.28:434][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_LeafMesh5868C70AF410E2AAB387BD8B284FE4CD2.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Meshes/SM_LeafMesh5.uasset'
+[2021.03.11-09.37.28:443][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ivy/Meshes/SM_Stem" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Meshes/SM_Stem.uasset" SILENT=true
+[2021.03.11-09.37.28:455][118]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_StemA2238B7643D1E063D717E2A9AC9FDC1E.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Blueprints/Ivy/Meshes/SM_Stem.uasset'
+[2021.03.11-09.37.28:563][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.03.11-09.37.28:569][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.03.11-09.37.28:573][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.11-09.37.28:578][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.11-09.37.28:581][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.11-09.37.28:585][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.11-09.37.28:589][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.11-09.37.28:593][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.11-09.37.28:597][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.11-09.37.28:601][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.11-09.37.28:605][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.11-09.37.28:609][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.11-09.37.28:613][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.11-09.37.28:618][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.11-09.37.28:622][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.11-09.37.28:626][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.11-09.37.28:629][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.11-09.37.28:638][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.11-09.37.28:642][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.11-09.37.28:671][118]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Ivy/Blueprints/BP_Ivy_Manual.BP_Ivy_Manual
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating CurveFloat /Game/Blueprints/Ivy/Blueprints/CRV_LeafScaleDist.CRV_LeafScaleDist
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating CurveFloat /Game/Blueprints/Ivy/Blueprints/CRV_StemScale.CRV_StemScale
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating Texture2D /Game/Blueprints/Ivy/Materials/T_Leaf_BC.T_Leaf_BC
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating Texture2D /Game/Blueprints/Ivy/Materials/T_Leaf_normal.T_Leaf_normal
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating Texture2D /Game/Blueprints/Ivy/Materials/T_Leaf_sss.T_Leaf_sss
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating Texture2D /Game/Blueprints/Ivy/Materials/T_leaf_WindRoughAlpha.T_leaf_WindRoughAlpha
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating Material /Game/Blueprints/Ivy/Materials/M_leaf_Ivy.M_leaf_Ivy
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Blueprints/Ivy/Materials/MI_Leaf_Ivy_Instance.MI_Leaf_Ivy_Instance
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Ivy/Meshes/SM_LeafMesh1.SM_LeafMesh1
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Ivy/Meshes/SM_LeafMesh2.SM_LeafMesh2
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Ivy/Meshes/SM_LeafMesh3.SM_LeafMesh3
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Ivy/Meshes/SM_LeafMesh4.SM_LeafMesh4
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Ivy/Meshes/SM_LeafMesh5.SM_LeafMesh5
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating Material /Game/Blueprints/Ivy/Materials/M_Stem.M_Stem
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Ivy/Meshes/SM_Stem.SM_Stem
+[2021.03.11-09.37.28:671][118]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Ivy/Blueprints/BP_Ivy_Proced.BP_Ivy_Proced
+[2021.03.11-09.37.43:151][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.11-09.38.19:745][841]LogSlate: Window 'Replace References?' being destroyed
+[2021.03.11-09.38.19:749][841]Message dialog closed, result: Cancel, title: Replace References?, text: This will replace any reference to the pending deleted assets with RVT_ST_Height; and then delete them.
+
+Are you sure?
+[2021.03.11-09.38.20:697][841]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-09.38.27:518][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.03.11-09.38.28:324][653]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-09.38.28:378][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.11-09.38.28:390][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.11-09.38.28:394][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.11-09.38.29:256][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.11-09.38.30:171][756]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-09.38.30:221][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.11-09.38.30:232][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.03.11-09.38.30:238][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.03.11-09.38.35:677][393]LogMaterial: Display: Missing cached shader map for material M_Foilage_Master, compiling. 
+[2021.03.11-09.38.35:719][393]LogMaterial: Display: Missing cached shader map for material M_Foilage_Master, compiling. 
+[2021.03.11-09.38.35:755][393]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2021.03.11-09.38.35:755][393]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2021.03.11-09.38.35:755][393]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2021.03.11-09.38.35:755][393]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2021.03.11-09.38.35:807][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/RVT_ST_Height7EE5CBFE4773535DCA0C9783B48BF4EA.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/StressTestLevel/RVT_ST_Height.uasset'
+[2021.03.11-09.38.35:815][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/RVT_ST_Color4613D13F4E2C71A88A49CBABB5DB691C.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/StressTestLevel/RVT_ST_Color.uasset'
+[2021.03.11-09.38.35:868][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.03.11-09.38.35:873][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.11-09.38.35:885][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.03.11-09.38.35:890][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.11-09.38.35:911][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock02" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock02.uasset" SILENT=true
+[2021.03.11-09.38.35:919][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock025A55D01D4CDAB9433BC0B9A369D74670.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock02.uasset'
+[2021.03.11-09.38.35:945][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MF_RVT14F347EA4CE56613F7F8219BFE307A2D.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/Material_Functions/MF_RVT.uasset'
+[2021.03.11-09.38.35:957][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterMaterials/m_Mesh_Master" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/m_Mesh_Master.uasset" SILENT=true
+[2021.03.11-09.38.35:977][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/m_Mesh_Master4ECB27F548CD65C4AFF2E3812441F73D.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/m_Mesh_Master.uasset'
+[2021.03.11-09.38.35:979][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Tree/MI_Tree" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Tree/MI_Tree.uasset" SILENT=true
+[2021.03.11-09.38.35:989][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Tree3E52D0434A1499A01D17A39F8C76CAFD.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Tree/MI_Tree.uasset'
+[2021.03.11-09.38.35:991][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock06" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock06.uasset" SILENT=true
+[2021.03.11-09.38.35:999][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock0664FC9FCA459F4DA9B895C0B713474D44.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock06.uasset'
+[2021.03.11-09.38.36:001][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock05" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock05.uasset" SILENT=true
+[2021.03.11-09.38.36:010][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock0560C49346407615100F5883AD39916792.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock05.uasset'
+[2021.03.11-09.38.36:011][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock04" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock04.uasset" SILENT=true
+[2021.03.11-09.38.36:025][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock04981758A34AD14B30463C2DBEB79B27E7.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock04.uasset'
+[2021.03.11-09.38.36:027][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock03" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock03.uasset" SILENT=true
+[2021.03.11-09.38.36:042][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock031F88AE734E1E33B42E46F5A63B689F92.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock03.uasset'
+[2021.03.11-09.38.36:044][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock01" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock01.uasset" SILENT=true
+[2021.03.11-09.38.36:056][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock01E696043C48505CB189829C81C83BBCEC.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock01.uasset'
+[2021.03.11-09.38.36:069][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_DirtCliffD0B0874A40F81547856E659530E46453.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/CliffSides/MI_DirtCliff.uasset'
+[2021.03.11-09.38.36:085][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_RockCliff5867A41B4785BECB2FE19B9CA453A9ED.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/CliffSides/MI_RockCliff.uasset'
+[2021.03.11-09.38.38:881][393]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 144
+[2021.03.11-09.38.38:881][393]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 134
+[2021.03.11-09.38.38:881][393]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 124
+[2021.03.11-09.38.38:881][393]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 114
+[2021.03.11-09.38.42:233][393]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 104
+[2021.03.11-09.38.42:792][393]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 94
+[2021.03.11-09.38.42:792][393]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 84
+[2021.03.11-09.38.43:351][393]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2021.03.11-09.38.46:146][393]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2021.03.11-09.38.46:766][393]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2021.03.11-09.38.46:810][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/M_Foilage_Master6263CFE04EE6CE116B42CCAD1D998404.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/M_Foilage_Master.uasset'
+[2021.03.11-09.38.46:841][393]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Foilage_Master_Inst0C6D1CD149F9005C3330AEB5DC9F018B.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/Material_Instances/MI_Foilage_Master_Inst.uasset'
+[2021.03.11-09.38.46:906][393]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2021.03.11-09.38.46:919][393]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2021.03.11-09.38.46:919][393]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.11-09.38.46:919][393]LogContentValidation: Display: Validating RuntimeVirtualTexture /Game/MasterMaterials/StressTestLevel/RVT_ST_Height.RVT_ST_Height
+[2021.03.11-09.38.46:919][393]LogContentValidation: Display: Validating MaterialFunction /Game/MasterMaterials/Material_Functions/MF_RVT.MF_RVT
+[2021.03.11-09.38.46:919][393]LogContentValidation: Display: Validating RuntimeVirtualTexture /Game/MasterMaterials/StressTestLevel/RVT_ST_Color.RVT_ST_Color
+[2021.03.11-09.38.46:919][393]LogContentValidation: Display: Validating Material /Game/MasterMaterials/m_Mesh_Master.M_Mesh_Master
+[2021.03.11-09.38.46:919][393]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock02.MI_Rock02
+[2021.03.11-09.38.46:919][393]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Tree/MI_Tree.MI_Tree
+[2021.03.11-09.38.46:919][393]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock06.MI_Rock06
+[2021.03.11-09.38.46:919][393]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock05.MI_Rock05
+[2021.03.11-09.38.46:919][393]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock04.MI_Rock04
+[2021.03.11-09.38.46:919][393]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock03.MI_Rock03
+[2021.03.11-09.38.46:919][393]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock01.MI_Rock01
+[2021.03.11-09.38.46:920][393]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/CliffSides/MI_DirtCliff.MI_DirtCliff
+[2021.03.11-09.38.46:920][393]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/CliffSides/MI_RockCliff.MI_RockCliff
+[2021.03.11-09.38.46:920][393]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MasterMaterials/Material_Instances/MI_Foilage_Master_Inst.MI_Foilage_Master_Inst
+[2021.03.11-09.38.46:920][393]LogContentValidation: Display: Validating Material /Game/MasterMaterials/M_Foilage_Master.M_Foilage_Master
+[2021.03.11-09.38.52:625][741]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.03.11-09.38.54:692][851]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.03.11-09.38.55:254][880]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.03.11-09.38.55:451][890]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.03.11-09.38.57:792][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/RVT_ST_Height964655974BF1E30629CF4D81C3D13412.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/RVT_Textures/RVT_ST_Height.uasset'
+[2021.03.11-09.38.57:804][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/RVT_ST_Color1E14039440A9348C5362298D73AEE82F.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/RVT_Textures/RVT_ST_Color.uasset'
+[2021.03.11-09.38.57:871][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.03.11-09.38.57:883][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.03.11-09.38.57:900][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.03.11-09.38.57:906][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.11-09.38.57:930][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock02" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock02.uasset" SILENT=true
+[2021.03.11-09.38.57:942][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock023BEBDDB4460CC594FD1333AF27F3995A.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock02.uasset'
+[2021.03.11-09.38.57:958][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MF_RVT0AF76D8E42E3F670C1E0768BF9B7861E.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/Material_Functions/MF_RVT.uasset'
+[2021.03.11-09.38.57:959][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterMaterials/m_Mesh_Master" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/m_Mesh_Master.uasset" SILENT=true
+[2021.03.11-09.38.57:978][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/m_Mesh_Master71C8ADF542538678B3E5BF990B3203D7.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/m_Mesh_Master.uasset'
+[2021.03.11-09.38.57:979][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Tree/MI_Tree" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Tree/MI_Tree.uasset" SILENT=true
+[2021.03.11-09.38.57:990][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Tree3615780146648F2DB395C7B86BEF8C70.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Tree/MI_Tree.uasset'
+[2021.03.11-09.38.57:992][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock06" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock06.uasset" SILENT=true
+[2021.03.11-09.38.58:003][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock067C9990314A854A84F37C8FA407E8D095.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock06.uasset'
+[2021.03.11-09.38.58:005][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock05" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock05.uasset" SILENT=true
+[2021.03.11-09.38.58:015][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock054AE4ECEC426211ACCD75D398F3364CC9.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock05.uasset'
+[2021.03.11-09.38.58:016][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock04" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock04.uasset" SILENT=true
+[2021.03.11-09.38.58:025][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock04CBC52DEF45D61DB59121B48F51A0C6DD.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock04.uasset'
+[2021.03.11-09.38.58:027][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock03" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock03.uasset" SILENT=true
+[2021.03.11-09.38.58:038][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock03523F71D94072A6CA7F5F40AED8597FB0.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock03.uasset'
+[2021.03.11-09.38.58:039][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Rock/MI_Rock01" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock01.uasset" SILENT=true
+[2021.03.11-09.38.58:049][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Rock01120653394FB71CD5C3D267B69EA9F097.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/Rock/MI_Rock01.uasset'
+[2021.03.11-09.38.58:059][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_DirtCliff2375B27346EF9BB792CDAB83991B637F.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/CliffSides/MI_DirtCliff.uasset'
+[2021.03.11-09.38.58:070][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_RockCliffB6F2F607484AFBA9817D74AC971DCB22.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Meshes/CliffSides/MI_RockCliff.uasset'
+[2021.03.11-09.38.58:097][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/M_Foilage_Master1C2495214DFBAF4A65F1228623C1CF2A.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/M_Foilage_Master.uasset'
+[2021.03.11-09.38.58:114][  3]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Foilage_Master_Inst6494B07442737470133107BEFAF905F1.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/Material_Instances/MI_Foilage_Master_Inst.uasset'
+[2021.03.11-09.38.58:187][  3]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating RuntimeVirtualTexture /Game/MasterMaterials/RVT_Textures/RVT_ST_Height.RVT_ST_Height
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating MaterialFunction /Game/MasterMaterials/Material_Functions/MF_RVT.MF_RVT
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating RuntimeVirtualTexture /Game/MasterMaterials/RVT_Textures/RVT_ST_Color.RVT_ST_Color
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating Material /Game/MasterMaterials/m_Mesh_Master.M_Mesh_Master
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock02.MI_Rock02
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Tree/MI_Tree.MI_Tree
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock06.MI_Rock06
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock05.MI_Rock05
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock04.MI_Rock04
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock03.MI_Rock03
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/Rock/MI_Rock01.MI_Rock01
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/CliffSides/MI_DirtCliff.MI_DirtCliff
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/CliffSides/MI_RockCliff.MI_RockCliff
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MasterMaterials/Material_Instances/MI_Foilage_Master_Inst.MI_Foilage_Master_Inst
+[2021.03.11-09.38.58:187][  3]LogContentValidation: Display: Validating Material /Game/MasterMaterials/M_Foilage_Master.M_Foilage_Master
+[2021.03.11-09.38.58:488][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.03.11-09.38.58:582][ 19]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.03.11-09.38.59:005][ 38]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.03.11-09.38.59:225][ 49]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.03.11-09.39.08:712][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterMaterial/T_Causticss" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/T_Causticss.uasset" SILENT=true
+[2021.03.11-09.39.08:722][ 92]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/T_Causticss40C5CB2A41DE4963D67713AB7C0D5BEA.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/T_Causticss.uasset'
+[2021.03.11-09.39.08:769][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.11-09.39.08:780][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.11-09.39.08:784][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.11-09.39.08:823][ 92]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Water_Tutorial_Combined_Inst5A99307A49A748CAC88F14B26964F25E.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/Water_Tutorial_Combined_Inst.uasset'
+[2021.03.11-09.39.08:855][ 92]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Water_Tutorial_Combined5783850E46A06A90015C4D8FFBD7464F.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/Water_Tutorial_Combined.uasset'
+[2021.03.11-09.39.08:891][ 92]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.11-09.39.08:891][ 92]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/WaterMaterial/Water_Tutorial_Combined_Inst.Water_Tutorial_Combined_Inst
+[2021.03.11-09.39.08:891][ 92]LogContentValidation: Display: Validating Material /Game/WaterMaterial/Water_Tutorial_Combined.Water_Tutorial_Combined
+[2021.03.11-09.39.08:891][ 92]LogContentValidation: Display: Validating Texture2D /Game/WaterMaterial/T_Causticss.T_Causticss
+[2021.03.11-09.39.19:552][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterMaterial/M_Water" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/M_Water.uasset" SILENT=true
+[2021.03.11-09.39.19:570][357]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/M_WaterE885FF7C44DBD34747AD48A5C7B78CEE.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/M_Water.uasset'
+[2021.03.11-09.39.19:604][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.11-09.39.19:616][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.03.11-09.39.19:621][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.11-09.39.19:640][357]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Water_Tutorial_Combined_Inst6EF4455043CEEB4C33381A9EAEDD073A.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/Water_Tutorial_Combined_Inst.uasset'
+[2021.03.11-09.39.19:663][357]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.11-09.39.19:663][357]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/WaterMaterial/Water_Tutorial_Combined_Inst.Water_Tutorial_Combined_Inst
+[2021.03.11-09.39.19:663][357]LogContentValidation: Display: Validating Material /Game/WaterMaterial/M_Water.M_Water
+[2021.03.11-09.39.24:670][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterMaterial/MI_Water" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/MI_Water.uasset" SILENT=true
+[2021.03.11-09.39.24:682][948]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_WaterE2A401244427D73CFD64B1B166BDED1E.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/MI_Water.uasset'
+[2021.03.11-09.39.24:713][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.11-09.39.24:726][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.11-09.39.24:730][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.11-09.39.24:751][948]AssetCheck: New page: Asset Save: MI_Water
+[2021.03.11-09.39.24:751][948]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/WaterMaterial/MI_Water.MI_Water
+[2021.03.11-09.39.33:728][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterMaterial/T_Waternoise" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/T_Waternoise.uasset" SILENT=true
+[2021.03.11-09.39.33:768][ 11]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/T_Waternoise686F76F1421AC63EDF8CCB8AAB134B3C.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/T_Waternoise.uasset'
+[2021.03.11-09.39.33:812][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.11-09.39.33:826][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.11-09.39.33:831][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.11-09.39.33:842][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterMaterial/MI_Water" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/MI_Water.uasset" SILENT=true
+[2021.03.11-09.39.33:849][ 11]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Water13A12AEE495FBA69742D33BDB948AB8F.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/MI_Water.uasset'
+[2021.03.11-09.39.33:850][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterMaterial/M_Water" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/M_Water.uasset" SILENT=true
+[2021.03.11-09.39.33:866][ 11]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/M_Water26F2A70E45FDE801CC665E9024FD1BC6.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/M_Water.uasset'
+[2021.03.11-09.39.33:894][ 11]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.11-09.39.33:894][ 11]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/WaterMaterial/MI_Water.MI_Water
+[2021.03.11-09.39.33:894][ 11]LogContentValidation: Display: Validating Material /Game/WaterMaterial/M_Water.M_Water
+[2021.03.11-09.39.33:894][ 11]LogContentValidation: Display: Validating Texture2D /Game/WaterMaterial/T_Waternoise.T_Waternoise
+[2021.03.11-09.39.38:550][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.11-09.39.48:052][560]LogSlate: Window 'Replace References?' being destroyed
+[2021.03.11-09.39.48:054][560]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with T_WaveNorm; and then delete them.
+
+Are you sure?
+[2021.03.11-09.39.48:054][560]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-09.39.48:396][560]LogMaterial: Display: Missing cached shader map for material M_Water, compiling. 
+[2021.03.11-09.39.48:450][560]LogMaterial: Display: Missing cached shader map for material M_Water, compiling. 
+[2021.03.11-09.39.48:469][560]LogMaterial: Display: Missing cached shader map for material M_Water, compiling. 
+[2021.03.11-09.39.48:488][560]LogMaterial: Display: Missing cached shader map for material M_Water, compiling. 
+[2021.03.11-09.39.48:507][560]LogMaterial: Display: Missing cached shader map for material M_Water, compiling. 
+[2021.03.11-09.39.48:531][560]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2021.03.11-09.39.48:531][560]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2021.03.11-09.39.48:531][560]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.03.11-09.39.48:531][560]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.03.11-09.39.48:536][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.03.11-09.39.49:912][560]LogSlate: Window 'Save Content' being destroyed
+[2021.03.11-09.40.09:480][560]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.03.11-09.40.10:037][560]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.03.11-09.40.18:621][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterMaterial/M_Water" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/M_Water.uasset" SILENT=true
+[2021.03.11-09.40.18:639][560]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/M_WaterBD7356CA484DF1EE6004E1A4DD1835E3.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/M_Water.uasset'
+[2021.03.11-09.40.18:652][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterMaterial/MI_Water" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/MI_Water.uasset" SILENT=true
+[2021.03.11-09.40.18:667][560]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_WaterA2636A4F40C846D52E65399E6B2A89B0.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/MI_Water.uasset'
+[2021.03.11-09.40.18:668][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterMaterial/WaterNormal" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/WaterNormal.uasset" SILENT=true
+[2021.03.11-09.40.18:673][560]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/WaterNormalD7B75D694DEC5978094797A65D7FBAEB.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/WaterMaterial/WaterNormal.uasset'
+[2021.03.11-09.40.18:696][560]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.11-09.40.18:696][560]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/WaterMaterial/MI_Water.MI_Water
+[2021.03.11-09.40.18:696][560]LogContentValidation: Display: Validating Material /Game/WaterMaterial/M_Water.M_Water
+[2021.03.11-09.40.18:696][560]LogContentValidation: Display: Validating ObjectRedirector /Game/WaterMaterial/WaterNormal.WaterNormal
+[2021.03.11-09.40.34:983][513]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Water0EC1DC1A4F313EFBF5C8EB8C8789894F.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/WaterMaterial/MI_Water.uasset'
+[2021.03.11-09.40.35:012][513]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/M_Water1F1E373E44E100074DFD0399F26A9B20.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/WaterMaterial/M_Water.uasset'
+[2021.03.11-09.40.35:042][513]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/T_WaternoiseF014296E428418FE24F9B8AC0BC57C7A.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/WaterMaterial/T_Waternoise.uasset'
+[2021.03.11-09.40.35:058][513]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/T_Causticss96426D0B4D44BB6ECE76C283C07490FE.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/MasterMaterials/WaterMaterial/T_Causticss.uasset'
+[2021.03.11-09.40.35:111][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.03.11-09.40.35:120][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.11-09.40.35:125][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.11-09.40.35:130][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.11-09.40.35:141][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.11-09.40.35:146][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.11-09.40.35:168][513]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.11-09.40.35:168][513]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MasterMaterials/WaterMaterial/MI_Water.MI_Water
+[2021.03.11-09.40.35:168][513]LogContentValidation: Display: Validating Material /Game/MasterMaterials/WaterMaterial/M_Water.M_Water
+[2021.03.11-09.40.35:168][513]LogContentValidation: Display: Validating Texture2D /Game/MasterMaterials/WaterMaterial/T_Waternoise.T_Waternoise
+[2021.03.11-09.40.35:168][513]LogContentValidation: Display: Validating Texture2D /Game/MasterMaterials/WaterMaterial/T_Causticss.T_Causticss
+[2021.03.11-09.40.39:649][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.11-09.40.43:861][ 46]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.11-09.40.43:868][ 46]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/WaterMaterial/WaterNormal.WaterNormal
+[2021.03.11-09.40.43:949][ 46]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.11-09.40.44:482][ 46]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.533 s
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: 
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: Cannot remove redirection from /Game/WaterMaterial/WaterNormal.WaterNormal, it was not registered
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: Stack: 
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff91af69f8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff916c8b51 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fffdfdd4b80 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8cadd0eb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8cae8659 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8c243e89 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8c51f97e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8c516e57 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8df985fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8dfb077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8ddf46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8de77f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8de60367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8de53642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fffe393bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fffe3929197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fffe393e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fffe3924310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffffcea5c1d USER32.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffffcea5612 USER32.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fffe393f7a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8de82274 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8de1d486 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8c5abe1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8cadc2e8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff82a46dd8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff6fee7099 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff6fee729e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff6fed7a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff832afc93 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff832a9142 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff83327b22 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff832acbb7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8df985fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8dfb077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8ddf46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8de77f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8de60367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fff8de53642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fffe393bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fffe3929197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fffe393e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fffe3924310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffffcea5c1d USER32.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffffcea5612 USER32.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007fffe393f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff6e71e87e7 UE4Editor.exe!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff6e720113c UE4Editor.exe!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff6e720121a UE4Editor.exe!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff6e721527d UE4Editor.exe!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff6e7217faa UE4Editor.exe!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffffe257c24 KERNEL32.DLL!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffffe3ad721 ntdll.dll!UnknownFunction []
+[2021.03.11-09.40.44:482][ 46]LogOutputDevice: Error: 

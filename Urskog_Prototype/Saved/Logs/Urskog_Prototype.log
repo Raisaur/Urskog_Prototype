@@ -822,3 +822,69 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.11-16.45.56:801][661]LogFileHelpers: Saving map 'Level_Graphics_01' took 0.091
 [2021.03.11-16.45.56:810][661]AssetCheck: New page: Asset Save: Level_Graphics_01
 [2021.03.11-16.45.56:810][661]LogContentValidation: Display: Validating World /Game/Levels/Level_Graphics_01.Level_Graphics_01
+[2021.03.11-16.48.03:449][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.03.11-16.48.03:468][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.03.11-16.48.03:473][168]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 32X32)
+[2021.03.11-16.48.03:474][168]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2021.03.11-16.48.03:536][168]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_0127FDC00F47EEE9609CFE9D927A2AD72A.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_Graphics_01.umap'
+[2021.03.11-16.48.03:538][168]LogFileHelpers: Saving map 'Level_Graphics_01' took 0.074
+[2021.03.11-16.48.03:546][168]AssetCheck: New page: Asset Save: Level_Graphics_01
+[2021.03.11-16.48.03:546][168]LogContentValidation: Display: Validating World /Game/Levels/Level_Graphics_01.Level_Graphics_01
+[2021.03.11-16.48.55:493][616]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.11-16.48.56:444][699]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2021.03.11-16.48.58:919][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.11-16.48.59:002][943]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_027F8883724D3721C4E00BF992EB870AEE.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_Graphics_02.umap'
+[2021.03.11-16.48.59:016][943]AssetCheck: New page: Asset Save: Level_Graphics_02
+[2021.03.11-16.48.59:016][943]LogContentValidation: Display: Validating World /Game/Levels/Level_Graphics_02.Level_Graphics_02
+[2021.03.11-16.49.13:198][ 85]Cmd: TRANSACTION UNDO
+[2021.03.11-16.49.13:198][ 85]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.03.11-16.49.13:667][107]Cmd: TRANSACTION UNDO
+[2021.03.11-16.49.13:667][107]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.11-16.49.20:507][883]Cmd: TRANSACTION UNDO
+[2021.03.11-16.49.20:507][883]LogEditorTransaction: Undo Toggle Level Visibility
+[2021.03.11-16.49.20:868][899]Cmd: TRANSACTION UNDO
+[2021.03.11-16.49.20:868][899]LogEditorTransaction: Undo Toggle Level Visibility
+[2021.03.11-16.49.21:064][908]Cmd: TRANSACTION UNDO
+[2021.03.11-16.49.21:064][908]LogEditorTransaction: Undo Toggle Level Visibility
+[2021.03.11-16.49.21:358][939]Cmd: TRANSACTION UNDO
+[2021.03.11-16.49.21:358][939]LogEditorTransaction: Undo Toggle Level Visibility
+[2021.03.11-16.49.21:563][952]Cmd: TRANSACTION UNDO
+[2021.03.11-16.49.21:563][952]LogEditorTransaction: Undo Toggle Level Visibility
+[2021.03.11-16.49.21:765][972]Cmd: TRANSACTION UNDO
+[2021.03.11-16.49.21:765][972]LogEditorTransaction: Undo Toggle Level Visibility
+[2021.03.11-16.49.22:143][  9]Cmd: TRANSACTION UNDO
+[2021.03.11-16.49.22:143][  9]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.03.11-16.49.22:324][ 26]Cmd: TRANSACTION UNDO
+[2021.03.11-16.49.22:324][ 26]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.03.11-16.49.22:332][ 26]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 32X32)
+[2021.03.11-16.49.22:333][ 26]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 32X32)
+[2021.03.11-16.49.22:333][ 26]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 32X32)
+[2021.03.11-16.49.22:342][ 26]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2021.03.11-16.49.25:188][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.11-16.49.25:248][362]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_01662DF1F04FEF6AF8777AC588914B8F8E.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_Graphics_01.umap'
+[2021.03.11-16.49.25:259][362]AssetCheck: New page: Asset Save: Level_Graphics_01
+[2021.03.11-16.49.25:259][362]LogContentValidation: Display: Validating World /Game/Levels/Level_Graphics_01.Level_Graphics_01
+[2021.03.11-16.49.37:210][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.03.11-16.49.37:213][262]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2021.03.11-16.49.43:899][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.11-16.49.43:907][ 16]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 32X32)
+[2021.03.11-16.49.43:908][ 16]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 32X32)
+[2021.03.11-16.49.43:908][ 16]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 32X32)
+[2021.03.11-16.49.43:908][ 16]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2021.03.11-16.49.43:967][ 16]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_01DAD60C1B4E0A9ACDC2C319A06011D45D.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_Graphics_01.umap'
+[2021.03.11-16.49.43:981][ 16]AssetCheck: New page: Asset Save: Level_Graphics_01
+[2021.03.11-16.49.43:981][ 16]LogContentValidation: Display: Validating World /Game/Levels/Level_Graphics_01.Level_Graphics_01
+[2021.03.11-16.50.05:632][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.11-16.50.05:637][376]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 32X32)
+[2021.03.11-16.50.05:639][376]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 32X32)
+[2021.03.11-16.50.05:640][376]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 32X32)
+[2021.03.11-16.50.05:640][376]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2021.03.11-16.50.05:697][376]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_01665CD92341CC2028B8BA86B1431B0A13.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_Graphics_01.umap'
+[2021.03.11-16.50.05:716][376]AssetCheck: New page: Asset Save: Level_Graphics_01
+[2021.03.11-16.50.05:716][376]LogContentValidation: Display: Validating World /Game/Levels/Level_Graphics_01.Level_Graphics_01
+[2021.03.11-16.50.07:461][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.11-16.50.39:348][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.03.11-16.50.39:355][289]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.03.11-16.50.39:415][289]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_Graphics_01C039E4B745061D1F0E5EFFB8263F2EDC.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_Graphics_01.umap'
+[2021.03.11-16.50.39:427][289]AssetCheck: New page: Asset Save: Level_Graphics_01
+[2021.03.11-16.50.39:427][289]LogContentValidation: Display: Validating World /Game/Levels/Level_Graphics_01.Level_Graphics_01

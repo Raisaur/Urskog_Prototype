@@ -1089,3 +1089,51 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.15-16.36.34:546][269]LogContentValidation: Display: Validating World /Game/Levels/Level_01.Level_01
 [2021.03.15-16.36.34:546][269]LogContentValidation: Display: Validating StaticMesh /Game/Models/CliffSides/SM_DirtCliff.SM_DirtCliff
 [2021.03.15-16.36.34:546][269]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Models/CliffSides/Materials/MI_DirtCliff.MI_DirtCliff
+[2021.03.15-16.37.37:734][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DirtCliff8)
+[2021.03.15-16.37.52:369][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DirtCliff22)
+[2021.03.15-16.38.00:301][898]Cmd: POLY SELECT MEMORY XOR
+[2021.03.15-16.38.01:520][ 35]Cmd: EDIT CUT
+[2021.03.15-16.38.01:530][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:530][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:530][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:530][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:530][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:531][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:531][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:531][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:531][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:531][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:531][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:531][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:532][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:532][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:532][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:532][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:532][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:532][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:532][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:533][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.15-16.38.01:539][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.15-16.38.01:541][ 35]LogEditorActor: Deleted 20 Actors (0.019 secs)
+[2021.03.15-16.38.11:934][250]Cmd: DELETE
+[2021.03.15-16.38.11:934][250]Cmd: ACTOR DELETE
+[2021.03.15-16.38.11:938][250]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.03.15-16.38.11:943][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.15-16.38.11:945][250]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.03.15-16.38.18:408][ 11]Cmd: EDIT PASTE
+[2021.03.15-16.39.34:566][999]Cmd: DELETE
+[2021.03.15-16.39.34:566][999]Cmd: ACTOR DELETE
+[2021.03.15-16.39.34:573][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.03.15-16.39.34:576][999]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2021.03.15-16.39.53:633][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.15-16.39.53:655][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.15-16.39.53:754][254]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_022087613549640E529CF4DCAA15E7C6EE.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_02.umap'
+[2021.03.15-16.39.53:756][254]LogFileHelpers: Saving map 'Level_02' took 0.108
+[2021.03.15-16.39.53:763][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.15-16.39.53:882][254]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_01405DB6B8495A48C3FB6CEBA35ABDE59B.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_01.umap'
+[2021.03.15-16.39.53:885][254]LogFileHelpers: Saving map 'Level_01' took 0.129
+[2021.03.15-16.39.53:893][254]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.15-16.39.53:893][254]LogContentValidation: Display: Validating World /Game/Levels/Level_02.Level_02
+[2021.03.15-16.39.53:893][254]LogContentValidation: Display: Validating World /Game/Levels/Level_01.Level_01
+[2021.03.15-16.40.32:921][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.15-16.40.39:321][289]LogAssetEditorSubsystem: Opening Asset editor for LandscapeGrassType /Game/MasterMaterials/LandscapeGrassType_01.LandscapeGrassType_01

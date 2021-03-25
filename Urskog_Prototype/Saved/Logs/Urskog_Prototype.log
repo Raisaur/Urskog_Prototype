@@ -2066,3 +2066,6 @@ Reference List:
 [2021.03.25-20.48.14:456][239]LogDeviceProfile: Device profile begin destroy: [000001B879E5F500] Lumin
 [2021.03.25-20.48.14:456][239]LogDeviceProfile: Device profile begin destroy: [000001B879ECDB00] Lumin_Desktop
 [2021.03.25-20.48.14:456][239]LogDeviceProfile: Device profile begin destroy: [000001B879E5FE00] HoloLens
+[2021.03.25-20.48.35:245][239]LogExit: Editor shut down
+[2021.03.25-20.48.35:971][239]LogExit: Transaction tracking system shut down
+[2021.03.25-20.48.36:721][239]LogDemo: Cleaned up 0 splitscreen connections with owner deletion

@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 ﻿Log file open, 03/25/21 20:22:44
+=======
+﻿Log file open, 03/25/21 20:16:03
+>>>>>>> main
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: Urskog_Prototype
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.375054
+=======
+LogStats: Stats thread started at 0.197258
+>>>>>>> main
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
@@ -14,18 +22,28 @@ LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin CameraShakePreviewer
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin NullSourceCodeAccess
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
+=======
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+>>>>>>> main
 LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
@@ -33,12 +51,37 @@ LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin CurveEditorTools
 LogPluginManager: Mounting plugin CryptoKeys
+=======
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+>>>>>>> main
 LogPluginManager: Mounting plugin DataValidation
 LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GameplayTagsEditor
 LogPluginManager: Mounting plugin GeometryMode
 LogPluginManager: Mounting plugin MacGraphicsSwitching
 LogPluginManager: Mounting plugin MaterialAnalyzer
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin PluginBrowser
@@ -64,10 +107,26 @@ LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeap
+=======
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+>>>>>>> main
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin MLSDK
+=======
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+>>>>>>> main
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
@@ -76,17 +135,33 @@ LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin ActorSequence
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
+=======
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+>>>>>>> main
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
+<<<<<<< HEAD
+=======
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+>>>>>>> main
 LogPluginManager: Mounting plugin ActorLayerUtilities
-LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
+<<<<<<< HEAD
+=======
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+>>>>>>> main
 LogPluginManager: Mounting plugin ApexDestruction
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AndroidPermission
@@ -97,11 +172,20 @@ LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ChunkDownloader
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin EditableMesh
+=======
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+>>>>>>> main
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
@@ -116,12 +200,16 @@ LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
-LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
 LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
@@ -208,6 +296,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2021.03.25-19.22.45:487][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.03.25-19.22.45:487][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.03.25-19.22.45:487][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Games/Plantus/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
@@ -2069,3 +2158,1370 @@ Reference List:
 [2021.03.25-20.48.35:245][239]LogExit: Editor shut down
 [2021.03.25-20.48.35:971][239]LogExit: Transaction tracking system shut down
 [2021.03.25-20.48.36:721][239]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+=======
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.25-19.16.03:875][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.25-19.16.03:875][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.25-19.16.03:876][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.25-19.16.03:876][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.25-19.16.03:876][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.25-19.16.03:876][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.25-19.16.03:876][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.25-19.16.03:876][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.25-19.16.03:876][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.25-19.16.03:876][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.25-19.16.03:876][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.25-19.16.03:876][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.25-19.16.03:876][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.25-19.16.03:876][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.25-19.16.03:876][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.25-19.16.03:876][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.25-19.16.03:908][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:908][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.25-19.16.03:908][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.25-19.16.03:908][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:908][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.25-19.16.03:908][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:908][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.25-19.16.03:908][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.25-19.16.03:908][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.25-19.16.03:908][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.25-19.16.03:908][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.25-19.16.03:909][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.25-19.16.03:910][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.25-19.16.03:910][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.25-19.16.03:910][  0]LogHAL: Display: Platform has ~ 16 GB [17114312704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.25-19.16.03:910][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.25-19.16.03:910][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.25-19.16.03:910][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Scalability.ini]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.25-19.16.03:911][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Config/Windows/Engine.ini]
+[2021.03.25-19.16.03:911][  0]LogInit: Computer: DESKTOP-66APALA
+[2021.03.25-19.16.03:911][  0]LogInit: User: burst
+[2021.03.25-19.16.03:911][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.25-19.16.03:911][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.25-19.16.03:911][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.25-19.16.03:911][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.25-19.16.03:911][  0]LogMemory: Process Physical Memory: 135.82 MB used, 135.82 MB peak
+[2021.03.25-19.16.03:911][  0]LogMemory: Process Virtual Memory: 110.65 MB used, 110.65 MB peak
+[2021.03.25-19.16.03:911][  0]LogMemory: Physical Memory: 7454.75 MB used,  8866.73 MB free, 16321.48 MB total
+[2021.03.25-19.16.03:911][  0]LogMemory: Virtual Memory: 134207040.00 MB used,  10687.79 MB free, 134217728.00 MB total
+[2021.03.25-19.16.03:915][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.25-19.16.03:959][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.25-19.16.03:961][  0]LogInit: Using OS detected language (en-US).
+[2021.03.25-19.16.03:961][  0]LogInit: Using OS detected locale (en-SE).
+[2021.03.25-19.16.03:967][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.25-19.16.04:191][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.25-19.16.04:200][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.25-19.16.04:268][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.25-19.16.04:268][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.25-19.16.04:414][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.25-19.16.04:414][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.25-19.16.04:414][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.25-19.16.04:414][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.25-19.16.04:485][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.03.25-19.16.04:485][  0]LogD3D11RHI:       8088/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.25-19.16.04:487][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.25-19.16.04:487][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.25-19.16.04:487][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.25-19.16.04:493][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.25-19.16.04:494][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.25-19.16.04:494][  0]LogWindows: EnumDisplayDevices:
+[2021.03.25-19.16.04:494][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.03.25-19.16.04:494][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2021.03.25-19.16.04:494][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.25-19.16.04:494][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.25-19.16.04:494][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.25-19.16.04:494][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.03.25-19.16.04:495][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.03.25-19.16.04:495][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.03.25-19.16.04:495][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.03.25-19.16.04:541][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.25-19.16.04:541][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.25-19.16.04:541][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.25-19.16.04:571][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.25-19.16.04:572][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.25-19.16.04:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.25-19.16.04:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.25-19.16.04:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.25-19.16.04:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.25-19.16.04:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.25-19.16.04:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.25-19.16.04:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.25-19.16.04:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.25-19.16.04:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.25-19.16.04:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.25-19.16.04:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.25-19.16.04:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.25-19.16.04:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.25-19.16.04:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.25-19.16.04:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.25-19.16.04:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.25-19.16.04:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.25-19.16.04:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.25-19.16.04:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.25-19.16.04:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.25-19.16.04:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.25-19.16.04:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.25-19.16.04:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.25-19.16.04:974][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.25-19.16.04:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.25-19.16.04:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.25-19.16.05:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.25-19.16.05:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.25-19.16.05:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.25-19.16.05:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.25-19.16.05:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.25-19.16.05:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.25-19.16.05:029][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.25-19.16.05:034][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.25-19.16.05:082][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.25-19.16.05:082][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Intermediate/Shaders/WorkingDirectory/19436/).
+[2021.03.25-19.16.05:082][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/burst/AppData/Local/Temp/UnrealShaderWorkingDir/6C530D064B05C734A84B81AC29EECD85/'.
+[2021.03.25-19.16.05:082][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.25-19.16.05:082][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.25-19.16.05:774][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.25-19.16.05:840][  0]LogDerivedDataCache: Loaded boot cache 0.06s 79MB C:/Users/burst/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.25-19.16.05:840][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/burst/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.25-19.16.05:840][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.25-19.16.05:840][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.25-19.16.05:840][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.25-19.16.05:840][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.25-19.16.05:850][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.25-19.16.05:850][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.25-19.16.05:850][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.25-19.16.05:863][  0]LogDerivedDataCache: Speed tests for C:/Users/burst/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.03.25-19.16.05:863][  0]LogDerivedDataCache: Display: Performance to C:/Users/burst/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=276.61MBs, RandomWriteSpeed=106.04MBs. Assigned SpeedClass 'Local'
+[2021.03.25-19.16.05:864][  0]LogDerivedDataCache: Using Local data cache path C:/Users/burst/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.25-19.16.05:864][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.25-19.16.05:864][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.25-19.16.05:911][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.25-19.16.05:911][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.25-19.16.05:936][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2021.03.25-19.16.06:153][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.25-19.16.06:153][  0]LogInit: Active device profile: [000001F326DC7600][000001F32778BA80 49] Windows
+[2021.03.25-19.16.06:153][  0]LogInit: Profiles: [000001F326DC7600][000001F32778BA80 49] Windows, [000001F326D44B00][000001F327793C00 49] WindowsNoEditor, [000001F326DC4A00][000001F3277960C0 49] WindowsServer, [000001F326D47200][000001F32779A240 49] WindowsClient, [000001F326DC6F00][000001F3277A63C0 49] IOS, [000001F326D45400][000001F3277AA540 49] iPadAir, [000001F326DC5200][000001F3277AE6C0 49] iPadAir2, [000001F326C1CC00][000001F3277B6980 49] IPadPro, [000001F326C1CD00][000001F3277B29C0 49] iPadAir3, [000001F326DC6A00][000001F3277C6B40 49] iPadAir4, [000001F326C1FB00][000001F3277CACC0 49] iPadMini2, [000001F326DC5600][000001F3277CEE40 49] iPadMini3, [000001F326C1E100][000001F3277D2FC0 49] iPadMini4, [000001F326DC7900][000001F3277D7140 49] iPadMini5, [000001F326D47300][000001F3277DF400 49] iPhone6, [000001F326D47400][000001F3277DB440 49] iPodTouch6, [000001F326C1CE00][000001F3277876C0 49] iPhone7, [000001F326C13F00][000001F3277FB700 49] iPodTouch7, [000001F326D47000][000001F3277FF840 49] iPhone5S, [000001F326C11100][000001F327803980 49] iPhone6Plus, [000001F326D45000][000001F327807AC0 49] iPhone6S, [000001F326C12C00][000001F32780FC40 49] iPhone6SPlus, [000001F326D47E00][000001F327832100 49] iPhone7Plus, [000001F326C11800][000001F327836280 49] iPhoneSE, [000001F326D47900][000001F32783A400 49] iPhone8, [000001F326C13D00][000001F32783E580 49] iPhone8Plus, [000001F326D44400][000001F327842700 49] iPhoneX, [000001F326C13100][000001F327846880 49] iPhoneXS, [000001F326D46C00][000001F32784AA00 49] iPhoneXSMax, [000001F326C13300][000001F32784EB80 49] iPhoneXR, [000001F326D44D00][000001F327852D00 49] iPhone11, [000001F326C10E00][000001F327856E80 49] iPhone11Pro, [000001F326D47A00][000001F32785B000 49] iPhone11ProMax, [000001F326C12F00][000001F32785F180 49] iPhoneSE2, [000001F326D45E00][000001F327863300 49] iPhone12Mini, [000001F326C11500][000001F327867480 49] iPhone12, [000001F326D45100][000001F32786B600 49] iPhone12Pro, [000001F326C10C00][000001F32780B740 49] iPhone12ProMax, [000001F326D44C00][000001F32786F880 49] iPadPro105, [000001F326C13C00][000001F3278739C0 49] iPadPro129, [000001F326D44200][000001F327877B00 49] iPadPro97, [000001F326C13B00][000001F32787FC80 49] iPadPro2_129, [000001F326D44700][000001F327882140 49] iPad5, [000001F326C10200][000001F3278862C0 49] iPad6, [000001F326D45C00][000001F32788A440 49] iPad7, [000001F326C10900][000001F32788E5C0 49] iPad8, [000001F326D44F00][000001F327892740 49] iPadPro11, [000001F326C11600][000001F3278968C0 49] iPadPro2_11, [000001F326D44800][000001F32789AA40 49] iPadPro3_129, [000001F326C11D00][000001F32789EBC0 49] iPadPro4_129, [000001F326D47600][000001F3278A2D40 49] AppleTV, [000001F326C12400][000001F3278A6EC0 49] AppleTV4K, [000001F326D46A00][000001F3278AB040 49] TVOS, [000001F326C11000][000001F3278AF1C0 49] Mac, [000001F326D47F00][000001F3278B3340 49] MacClient, [000001F326C13900][000001F3278B74C0 49] MacNoEditor, [000001F326D47500][000001F3278BB640 49] MacServer, [000001F326C12700][000001F3278BF7C0 49] Linux, [000001F326D46F00][000001F32787B900 49] LinuxNoEditor, [000001F326C10D00][000001F3278C3A40 49] LinuxAArch64NoEditor, [000001F326D46100][000001F3278C7B80 49] LinuxClient, [000001F326C13400][000001F3278CFD00 49] LinuxAArch64Client, [000001F326D47D00][000001F3278D21C0 49] LinuxServer, [000001F327164900][000001F3278D6340 49] LinuxAArch64Server, [000001F326C1F300][000001F3278DA4C0 49] Android, [000001F327165400][000001F3278DE640 49] Android_Low, [000001F326C1D600][000001F3278E27C0 49] Android_Mid, [000001F327164500][000001F3278E6940 49] Android_High, [000001F326C1C600][000001F3278EAAC0 49] Android_Default, [000001F327164300][000001F3278EEC40 49] Android_Adreno4xx, [000001F326C1D100][000001F3278F2DC0 49] Android_Adreno5xx_Low, [000001F327164400][000001F3278F6F40 49] Android_Adreno5xx, [000001F326C1C300][000001F3278FB0C0 49] Android_Adreno6xx, [000001F327165900][000001F3278FF240 49] Android_Adreno6xx_Vulkan, [000001F326C1D400][000001F3279033C0 49] Android_Mali_T6xx, [000001F327165600][000001F327907540 49] Android_Mali_T7xx, [000001F326C1E000][000001F32790B6C0 49] Android_Mali_T8xx, [000001F327164F00][000001F32790F840 49] Android_Mali_G71, [000001F326C1D200][000001F3278CB980 49] Android_Mali_G72, [000001F326D47700][000001F327913AC0 49] Android_Mali_G72_Vulkan, [000001F326C10A00][000001F327917C00 49] Android_Mali_G76, [000001F326D46500][000001F32791E0C0 49] Android_Mali_G76_Vulkan, [000001F326C13600][000001F327922240 49] Android_Mali_G77, [000001F326D45800][000001F3279263C0 49] Android_Mali_G77_Vulkan, [000001F326C12A00][000001F32792A540 49] Android_Vulkan_SM5, [000001F326D45A00][000001F32792E6C0 49] Android_PowerVR_G6xxx, [000001F326C13700][000001F327932840 49] Android_PowerVR_GT7xxx, [000001F326D47100][000001F3279369C0 49] Android_PowerVR_GE8xxx, [000001F326C11300][000001F32793AB40 49] Android_PowerVR_GM9xxx, [000001F326D46B00][000001F32793ECC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001F326C13E00][000001F327942E40 49] Android_TegraK1, [000001F326D46200][000001F327946FC0 49] Android_Unknown_Vulkan, [000001F326C11C00][000001F32794B140 49] Lumin, [000001F326D45D00][000001F32794F2C0 49] Lumin_Desktop, [000001F326C10500][000001F327953440 49] HoloLens, 
+[2021.03.25-19.16.06:257][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.25-19.16.06:257][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.25-19.16.06:257][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.25-19.16.06:257][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.25-19.16.06:257][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.25-19.16.06:307][  0]LogNetVersion: Urskog_Prototype 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2797969702)
+[2021.03.25-19.16.06:722][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.25-19.16.06:783][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.059771 seconds
+[2021.03.25-19.16.06:790][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.03.25-19.16.06:790][  0]LogUObjectAllocator: 4209680 out of 0 bytes used by permanent object pool.
+[2021.03.25-19.16.06:790][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.25-19.16.07:120][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.25-19.16.07:124][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.25-19.16.07:212][  0]SourceControl: Source control is disabled
+[2021.03.25-19.16.07:212][  0]SourceControl: Source control is disabled
+[2021.03.25-19.16.07:215][  0]SourceControl: Source control is disabled
+[2021.03.25-19.16.07:218][  0]SourceControl: Source control is disabled
+[2021.03.25-19.16.07:225][  0]SourceControl: Source control is disabled
+[2021.03.25-19.16.07:230][  0]LogUProjectInfo: Found projects:
+[2021.03.25-19.16.07:416][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.25-19.16.07:432][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.25-19.16.07:432][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.25-19.16.07:480][  0]LogCollectionManager: Loaded 0 collections in 0.001721 seconds
+[2021.03.25-19.16.07:500][  0]LogFileCache: Scanning file cache for directory 'C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Collections/' took 0.00s
+[2021.03.25-19.16.07:500][  0]LogFileCache: Scanning file cache for directory 'C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Developers/burst/Collections/' took 0.00s
+[2021.03.25-19.16.07:500][  0]LogFileCache: Scanning file cache for directory 'C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Collections/' took 0.00s
+[2021.03.25-19.16.07:500][  0]LogOcInput: OculusInput pre-init called
+[2021.03.25-19.16.07:510][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.25-19.16.07:510][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.25-19.16.07:549][  0]LogEngine: Initializing Engine...
+[2021.03.25-19.16.07:550][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.25-19.16.07:551][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.25-19.16.07:551][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.25-19.16.07:701][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.25-19.16.07:717][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.25-19.16.07:739][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.25-19.16.07:743][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.25-19.16.07:743][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.25-19.16.07:743][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.25-19.16.07:743][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.25-19.16.07:744][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.25-19.16.07:744][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.25-19.16.07:744][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.25-19.16.07:744][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.25-19.16.07:744][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.25-19.16.07:744][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.25-19.16.07:744][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.25-19.16.07:744][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.25-19.16.07:762][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.25-19.16.07:762][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.25-19.16.07:790][  0]LogAudioMixer: Display: Using Audio Device Headphones (HyperX Cloud Flight Wireless Headset)
+[2021.03.25-19.16.07:797][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.25-19.16.07:799][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.25-19.16.07:799][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.25-19.16.07:800][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.25-19.16.07:800][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.25-19.16.07:800][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.25-19.16.07:801][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.25-19.16.07:801][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.25-19.16.07:801][  0]LogInit: FAudioDevice initialized.
+[2021.03.25-19.16.07:802][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.25-19.16.07:802][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.25-19.16.07:881][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/burst/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.25-19.16.07:888][  0]LogInit: Texture streaming: Enabled
+[2021.03.25-19.16.07:899][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.03.25-19.16.07:903][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.25-19.16.07:903][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.25-19.16.07:906][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.25-19.16.07:963][  0]LogInit: Transaction tracking system initialized
+[2021.03.25-19.16.07:987][  0]BlueprintLog: New page: Editor Load
+[2021.03.25-19.16.08:062][  0]LocalizationService: Localization service is disabled
+[2021.03.25-19.16.08:087][  0]TimingProfiler: Initialize
+[2021.03.25-19.16.08:087][  0]TimingProfiler: OnSessionChanged
+[2021.03.25-19.16.08:087][  0]LoadingProfiler: Initialize
+[2021.03.25-19.16.08:087][  0]LoadingProfiler: OnSessionChanged
+[2021.03.25-19.16.08:087][  0]NetworkingProfiler: Initialize
+[2021.03.25-19.16.08:087][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.25-19.16.08:087][  0]MemoryProfiler: Initialize
+[2021.03.25-19.16.08:087][  0]MemoryProfiler: OnSessionChanged
+[2021.03.25-19.16.08:234][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.25-19.16.08:234][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.25-19.16.08:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/' took 0.00s
+[2021.03.25-19.16.08:577][  0]SourceControl: Source control is disabled
+[2021.03.25-19.16.08:577][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.673
+[2021.03.25-19.16.08:578][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.25-19.16.08:579][  0]LightingResults: New page: Lighting Build
+[2021.03.25-19.16.08:580][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-19.16.08:580][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-19.16.08:580][  0]MapCheck: New page: Map Check
+[2021.03.25-19.16.08:580][  0]LightingResults: New page: Lighting Build
+[2021.03.25-19.16.08:587][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.25-19.16.08:659][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.03.25-19.16.08:660][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.03.25-19.16.08:664][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.25-19.16.08:670][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.03.25-19.16.08:670][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.25-19.16.08:671][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,174ms to complete.
+[2021.03.25-19.16.08:671][  0]LogFileHelpers: Loading map 'Template_Default' took 0.094
+[2021.03.25-19.16.08:672][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.768
+[2021.03.25-19.16.08:826][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-19.16.08:832][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-19.16.08:839][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-19.16.08:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-19.16.08:860][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3612 classes and 867 folders.
+[2021.03.25-19.16.08:863][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.25-19.16.08:865][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.25-19.16.08:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.25-19.16.08:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.03.25-19.16.08:867][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.25-19.16.08:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.25-19.16.08:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.03.25-19.16.08:869][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.25-19.16.08:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.25-19.16.08:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.03.25-19.16.08:871][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.25-19.16.08:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.25-19.16.08:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.03.25-19.16.08:872][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.25-19.16.08:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.25-19.16.08:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.03.25-19.16.08:874][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.25-19.16.08:874][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:874][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.25-19.16.08:874][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.03.25-19.16.08:876][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.25-19.16.08:876][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:876][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.25-19.16.08:876][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.03.25-19.16.08:878][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.25-19.16.08:878][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:878][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.25-19.16.08:878][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.03.25-19.16.08:879][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.25-19.16.08:879][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:879][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.25-19.16.08:879][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.03.25-19.16.08:881][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.25-19.16.08:881][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:881][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.25-19.16.08:881][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.03.25-19.16.08:882][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.25-19.16.08:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:883][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.25-19.16.08:883][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.03.25-19.16.08:884][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.25-19.16.08:884][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:884][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.25-19.16.08:884][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.03.25-19.16.08:886][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.25-19.16.08:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.25-19.16.08:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.03.25-19.16.08:887][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.25-19.16.08:887][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:887][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.25-19.16.08:887][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.03.25-19.16.08:889][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.25-19.16.08:889][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:889][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.25-19.16.08:889][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.03.25-19.16.08:891][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.25-19.16.08:891][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:891][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.25-19.16.08:891][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.03.25-19.16.08:892][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.25-19.16.08:892][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.25-19.16.08:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.03.25-19.16.08:894][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.25-19.16.08:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.25-19.16.08:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.03.25-19.16.08:896][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.25-19.16.08:896][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:896][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.25-19.16.08:896][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.03.25-19.16.08:897][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.25-19.16.08:897][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:897][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.25-19.16.08:897][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.03.25-19.16.08:899][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.25-19.16.08:899][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:899][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.25-19.16.08:899][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.03.25-19.16.08:901][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.25-19.16.08:901][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:901][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.25-19.16.08:901][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.03.25-19.16.08:902][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.25-19.16.08:903][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:903][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.25-19.16.08:903][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.03.25-19.16.08:904][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.25-19.16.08:905][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:905][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.25-19.16.08:905][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2021.03.25-19.16.08:906][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.25-19.16.08:906][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:906][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.25-19.16.08:906][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2021.03.25-19.16.08:908][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.25-19.16.08:908][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.25-19.16.08:908][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.25-19.16.08:908][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2021.03.25-19.16.09:004][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.25-19.16.09:005][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.03.25-19.16.09:073][  0]LogSlate: Took 0.002280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.25-19.16.09:075][  0]LogSlate: Took 0.000845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.25-19.16.09:080][  0]LogSlate: Took 0.000749 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.25-19.16.09:254][  0]LogRenderer: Reallocating scene render targets to support 976x548 Format 10 NumSamples 1 (Frame:1).
+[2021.03.25-19.16.09:372][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.25-19.16.09:372][  0]LogLoad: (Engine Initialization) Total time: 6.47 seconds
+[2021.03.25-19.16.09:372][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.25-19.16.09:372][  0]LogInit: First time updating LLM stats...
+[2021.03.25-19.16.09:406][  0]LogAssetRegistry: Asset discovery search completed in 3.4719 seconds
+[2021.03.25-19.16.09:407][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.03.25-19.16.09:408][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.25-19.16.09:503][  4]LogSlate: Took 0.000918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.25-19.16.20:277][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.03.25-19.16.20:282][278]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.25-19.16.20:346][278]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_Persistent.Level_Persistent
+[2021.03.25-19.16.20:346][278]Cmd: MAP LOAD FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_Persistent.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.25-19.16.20:346][278]LightingResults: New page: Lighting Build
+[2021.03.25-19.16.20:347][278]LoadErrors: New page: Loading map: Level_Persistent.umap
+[2021.03.25-19.16.20:383][278]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-19.16.20:383][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-19.16.20:383][278]MapCheck: New page: Map Check
+[2021.03.25-19.16.20:383][278]LightingResults: New page: Lighting Build
+[2021.03.25-19.16.20:388][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.25-19.16.20:389][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.03.25-19.16.20:390][278]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_Persistent'.
+[2021.03.25-19.16.20:440][278]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.25-19.16.20:440][278]LogAIModule: Creating AISystem for world Level_Persistent
+[2021.03.25-19.16.20:448][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.25-19.16.20:465][278]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.25-19.16.20:466][278]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,134ms to complete.
+[2021.03.25-19.16.20:466][278]LogFileHelpers: Loading map 'Level_Persistent' took 0.120
+[2021.03.25-19.16.20:509][279]LogStaticMesh: Allocated 426x64x64 distance field atlas = 3.3Mb, with 31 objects containing 2.4Mb backing data
+[2021.03.25-19.16.23:749][600]LogStaticMesh: Building static mesh SM_Cliff02_00...
+[2021.03.25-19.16.23:761][600]LogStaticMesh: Built static mesh [0.01s] /Game/Models/CliffSides/SM_Cliff02_00.SM_Cliff02_00
+[2021.03.25-19.16.24:233][603]LogStaticMesh: Allocated 512x231x120 distance field atlas = 27.1Mb, with 62 objects containing 15.4Mb backing data
+[2021.03.25-19.16.35:546][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.03.25-19.16.36:374][558]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.25-19.16.36:381][558]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Tree/SM_Trunk6.SM_Trunk6
+[2021.03.25-19.16.37:130][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.03.25-19.16.37:142][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.03.25-19.16.37:149][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.25-19.16.38:216][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.03.25-19.16.38:927][620]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.25-19.16.38:935][620]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Tree/lambert3.lambert3
+[2021.03.25-19.16.39:145][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.03.25-19.16.39:166][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.03.25-19.16.39:177][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.03.25-19.16.40:448][694]LogLinker: Warning: [AssetLog] C:\Users\burst\Documents\Urskog_Prototype\Urskog_Prototype\Content\Models\Tree\SM_Trunk1.uasset: Failed to load '/Game/Models/Tree/lambert3': Can't find file.
+[2021.03.25-19.16.40:448][694]LogLinker: Warning: [AssetLog] C:\Users\burst\Documents\Urskog_Prototype\Urskog_Prototype\Content\Models\Tree\SM_Trunk1.uasset: Failed to load '/Game/Models/Tree/lambert3': Can't find file.
+[2021.03.25-19.16.40:448][694]LogLinker: Warning: [AssetLog] C:\Users\burst\Documents\Urskog_Prototype\Urskog_Prototype\Content\Models\Tree\SM_Trunk1.uasset: Failed to load '/Game/Models/Tree/lambert3': Can't find file.
+[2021.03.25-19.16.40:449][694]LogLinker: Warning: [AssetLog] C:\Users\burst\Documents\Urskog_Prototype\Urskog_Prototype\Content\Models\Tree\SM_Trunk1.uasset: Failed to load '/Game/Models/Tree/lambert3': Can't find file.
+[2021.03.25-19.16.40:449][694]LoadErrors: Failed to load /Game/Models/Tree/lambert3.lambert3 Referenced by SM_Trunk1
+[2021.03.25-19.16.40:449][694]LogLinker: Warning: [AssetLog] C:\Users\burst\Documents\Urskog_Prototype\Urskog_Prototype\Content\Models\Tree\SM_Trunk1.uasset: Failed to load '/Game/Models/Tree/lambert3': Can't find file.
+[2021.03.25-19.16.40:475][694]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Tree/SM_Trunk1.SM_Trunk1
+[2021.03.25-19.16.41:323][694]LogSlate: Took 0.000968 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.25-19.16.44:774][864]LogLinker: Warning: [AssetLog] C:\Users\burst\Documents\Urskog_Prototype\Urskog_Prototype\Content\Models\Tree\SM_Trunk4.uasset: Failed to load '/Game/Models/Tree/SM_Trunk6': Can't find file.
+[2021.03.25-19.16.44:774][864]LogLinker: Warning: [AssetLog] C:\Users\burst\Documents\Urskog_Prototype\Urskog_Prototype\Content\Models\Tree\SM_Trunk4.uasset: Failed to load '/Game/Models/Tree/SM_Trunk6': Can't find file.
+[2021.03.25-19.16.44:775][864]LogLinker: Warning: [AssetLog] C:\Users\burst\Documents\Urskog_Prototype\Urskog_Prototype\Content\Models\Tree\SM_Trunk4.uasset: Failed to load '/Game/Models/Tree/SM_Trunk6': Can't find file.
+[2021.03.25-19.16.44:775][864]LogLinker: Warning: [AssetLog] C:\Users\burst\Documents\Urskog_Prototype\Urskog_Prototype\Content\Models\Tree\SM_Trunk4.uasset: Failed to load '/Game/Models/Tree/SM_Trunk6': Can't find file.
+[2021.03.25-19.16.44:776][864]LoadErrors: Failed to load /Game/Models/Tree/SM_Trunk6.SM_Trunk6 Referenced by SM_Trunk4
+[2021.03.25-19.16.44:776][864]LogLinker: Warning: [AssetLog] C:\Users\burst\Documents\Urskog_Prototype\Urskog_Prototype\Content\Models\Tree\SM_Trunk4.uasset: Failed to load '/Game/Models/Tree/SM_Trunk6': Can't find file.
+[2021.03.25-19.16.54:892][724]LogStaticMesh: Allocated 512x336x120 distance field atlas = 39.4Mb, with 68 objects containing 17.6Mb backing data
+[2021.03.25-19.16.55:489][752]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Tree/SM_Trunk2.SM_Trunk2
+[2021.03.25-19.16.56:269][766]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Tree/SM_Trunk3.SM_Trunk3
+[2021.03.25-19.16.56:979][777]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Tree/SM_Trunk4.SM_Trunk4
+[2021.03.25-19.16.57:689][782]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Tree/SM_Trunk5.SM_Trunk5
+[2021.03.25-19.17.26:816][289]LogMeshUtilities: Finished distance field build in 63.0s - 128x128x128 distance field, 996 triangles, Range [-0.3, 0.7], SM_Cliff02_00
+[2021.03.25-19.17.27:176][291]LogStaticMesh: Allocated 512x256x128 distance field atlas = 32.0Mb, with 69 objects containing 21.6Mb backing data
+[2021.03.25-19.19.38:382][811]LogSlate: Window 'SM_Trunk5' being destroyed
+[2021.03.25-19.19.38:387][811]LogSlate: Window 'SM_Trunk5' being destroyed
+[2021.03.25-19.19.38:400][811]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-19.19.38:400][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-19.19.38:478][811]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-19.19.38:478][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-19.19.38:540][811]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-19.19.38:540][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-19.19.38:604][811]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-19.19.38:604][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-19.19.38:657][811]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-19.19.38:657][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-19.19.50:435][150]LogActorFactory: Actor Factory created SM_BranchLeaf_04_00
+[2021.03.25-19.19.51:658][284]LogActorFactory: Actor Factory created SM_BranchLeaf_04_00
+[2021.03.25-19.20.05:718][840]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.25-19.20.07:057][978]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.25-19.20.20:916][485]LogActorFactory: Actor Factory created SM_Branch_02_00
+[2021.03.25-19.20.21:654][560]LogActorFactory: Actor Factory created SM_Branch_02_00
+[2021.03.25-19.20.23:439][754]Cmd: TRANSACTION UNDO
+[2021.03.25-19.20.23:440][754]LogEditorTransaction: Undo Scale Actors
+[2021.03.25-19.20.33:023][736]Cmd: DELETE
+[2021.03.25-19.20.33:024][736]Cmd: ACTOR DELETE
+[2021.03.25-19.20.33:037][736]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-19.20.33:049][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.03.25-19.20.33:059][736]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.03.25-19.20.33:830][793]LogActorFactory: Actor Factory created SM_Branch_01_00
+[2021.03.25-19.20.34:746][890]LogActorFactory: Actor Factory created SM_Branch_01_00
+[2021.03.25-19.20.48:384][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_01_2)
+[2021.03.25-19.21.00:109][684]LogActorFactory: Actor Factory created SM_BranchLeaf_02_00
+[2021.03.25-19.21.00:822][752]LogActorFactory: Actor Factory created SM_BranchLeaf_02_00
+[2021.03.25-19.21.04:799][194]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Trunk5)
+[2021.03.25-19.21.05:877][303]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2021.03.25-19.21.07:303][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_02_1)
+[2021.03.25-19.21.14:570][200]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.21.15:737][318]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.22.02:262][464]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.22.03:135][551]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.22.09:632][244]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.25-19.22.10:433][322]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.25-19.22.25:277][897]LogActorFactory: Actor Factory created SM_Trunk4
+[2021.03.25-19.22.26:167][993]LogActorFactory: Actor Factory created SM_Trunk4
+[2021.03.25-19.22.33:704][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Trunk5)
+[2021.03.25-19.22.42:880][818]LogActorFactory: Actor Factory created SM_BranchLeaf_01_00
+[2021.03.25-19.22.43:798][907]LogActorFactory: Actor Factory created SM_BranchLeaf_01_00
+[2021.03.25-19.22.52:402][880]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-19.22.59:114][575]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.23.00:422][716]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.24.12:459][883]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.24.13:838][ 13]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.24.28:031][567]LogActorFactory: Actor Factory created SM_Branch_04_00
+[2021.03.25-19.24.29:145][678]LogActorFactory: Actor Factory created SM_Branch_04_00
+[2021.03.25-19.24.37:774][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tree_Preset_04_15)
+[2021.03.25-19.24.38:540][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_04_00)
+[2021.03.25-19.24.40:449][933]Cmd: TRANSACTION UNDO
+[2021.03.25-19.24.40:449][933]LogEditorTransaction: Undo Scale Actors
+[2021.03.25-19.24.46:849][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_5)
+[2021.03.25-19.24.52:710][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_04_00)
+[2021.03.25-19.25.00:970][153]LogActorFactory: Actor Factory created SM_BranchLeaf_04_00
+[2021.03.25-19.25.02:045][262]LogActorFactory: Actor Factory created SM_BranchLeaf_04_00
+[2021.03.25-19.25.18:808][107]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.25.19:606][186]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.25.37:391][179]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.25-19.25.39:153][366]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.25-19.25.40:425][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_01_1)
+[2021.03.25-19.25.40:750][536]Cmd: DELETE
+[2021.03.25-19.25.40:750][536]Cmd: ACTOR DELETE
+[2021.03.25-19.25.40:760][536]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-19.25.40:772][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.03.25-19.25.40:784][536]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.03.25-19.25.41:592][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_03_4)
+[2021.03.25-19.26.13:554][308]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.26.14:255][372]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.26.19:247][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_7)
+[2021.03.25-19.26.26:475][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_7)
+[2021.03.25-19.26.30:673][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_7)
+[2021.03.25-19.26.40:643][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_02_1)
+[2021.03.25-19.26.40:974][333]Cmd: DELETE
+[2021.03.25-19.26.40:974][333]Cmd: ACTOR DELETE
+[2021.03.25-19.26.40:978][333]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-19.26.40:984][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.03.25-19.26.40:993][333]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.03.25-19.26.43:768][591]LogActorFactory: Actor Factory created SM_Branch_01_00
+[2021.03.25-19.26.44:616][686]LogActorFactory: Actor Factory created SM_Branch_01_00
+[2021.03.25-19.27.11:944][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_7)
+[2021.03.25-19.27.13:753][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_01_3)
+[2021.03.25-19.27.25:357][295]Cmd: TRANSACTION UNDO
+[2021.03.25-19.27.25:357][295]LogEditorTransaction: Undo Move Actors
+[2021.03.25-19.27.38:628][722]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.27.39:835][844]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.27.47:958][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_01_3)
+[2021.03.25-19.28.06:691][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_01_5)
+[2021.03.25-19.28.07:171][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_03_3)
+[2021.03.25-19.28.18:453][112]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.28.19:385][205]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.28.20:287][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_10)
+[2021.03.25-19.28.20:875][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_11)
+[2021.03.25-19.28.29:266][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_5)
+[2021.03.25-19.28.39:587][329]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.28.40:377][396]LogActorFactory: Actor Factory created SM_TreeTop_01_00
+[2021.03.25-19.28.54:602][982]LogActorFactory: Actor Factory created SM_Branch_01_00
+[2021.03.25-19.28.55:535][ 78]LogActorFactory: Actor Factory created SM_Branch_01_00
+[2021.03.25-19.29.09:142][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_7)
+[2021.03.25-19.29.58:047][902]LogActorFactory: Actor Factory created SM_Branch_04_00
+[2021.03.25-19.29.58:917][999]LogActorFactory: Actor Factory created SM_Branch_04_00
+[2021.03.25-19.30.09:369][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_10)
+[2021.03.25-19.30.16:304][950]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.25-19.30.17:108][ 25]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.25-19.30.28:325][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_03_5)
+[2021.03.25-19.30.28:471][307]Cmd: DELETE
+[2021.03.25-19.30.28:471][307]Cmd: ACTOR DELETE
+[2021.03.25-19.30.28:477][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-19.30.28:485][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.25-19.30.28:493][307]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.03.25-19.30.31:045][562]LogActorFactory: Actor Factory created SM_BranchLeaf_02_00
+[2021.03.25-19.30.31:670][632]LogActorFactory: Actor Factory created SM_BranchLeaf_02_00
+[2021.03.25-19.30.40:860][631]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.25-19.30.41:849][732]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.25-19.31.25:263][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.03.25-19.31.25:430][652]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_101_Auto1587B0D9A42AD3C0737D64598F8DF0F83.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Levels/Level_101_Auto1.umap'
+[2021.03.25-19.31.25:512][652]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_102_Auto16977D2C44FF88C04533B9BA12E1FC4C7.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Levels/Level_102_Auto1.umap'
+[2021.03.25-19.31.25:514][652]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Persistent' took 0.258
+[2021.03.25-19.31.25:514][652]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.258
+[2021.03.25-19.31.25:514][652]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/SM_Trunk5] ([1] browsable assets)...
+[2021.03.25-19.31.25:525][652]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Tree/SM_Trunk5.SM_Trunk5]
+[2021.03.25-19.31.25:525][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/SM_Trunk5]
+[2021.03.25-19.31.25:536][652]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Trunk5_Auto19FBD1BD4476C13E99E341EAF2AA1837B.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/SM_Trunk5_Auto1.uasset'
+[2021.03.25-19.31.25:537][652]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/SM_Trunk1] ([1] browsable assets)...
+[2021.03.25-19.31.25:545][652]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Tree/SM_Trunk1.SM_Trunk1]
+[2021.03.25-19.31.25:545][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/SM_Trunk1]
+[2021.03.25-19.31.25:557][652]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Trunk1_Auto10F4185474BCB574130553BAFA524C931.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/SM_Trunk1_Auto1.uasset'
+[2021.03.25-19.31.25:558][652]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/SM_Trunk4] ([1] browsable assets)...
+[2021.03.25-19.31.25:566][652]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Tree/SM_Trunk4.SM_Trunk4]
+[2021.03.25-19.31.25:566][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/SM_Trunk4]
+[2021.03.25-19.31.25:583][652]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Trunk4_Auto1B49C8F2A4C2F986227DA4981FC98E5EF.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/SM_Trunk4_Auto1.uasset'
+[2021.03.25-19.31.25:584][652]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/SM_Trunk2] ([1] browsable assets)...
+[2021.03.25-19.31.25:593][652]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Tree/SM_Trunk2.SM_Trunk2]
+[2021.03.25-19.31.25:593][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/SM_Trunk2]
+[2021.03.25-19.31.25:604][652]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Trunk2_Auto1938772A14F9C3710FE8379AD7B2AFC2C.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/SM_Trunk2_Auto1.uasset'
+[2021.03.25-19.31.25:606][652]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/SM_Trunk3] ([1] browsable assets)...
+[2021.03.25-19.31.25:615][652]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Tree/SM_Trunk3.SM_Trunk3]
+[2021.03.25-19.31.25:615][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/SM_Trunk3]
+[2021.03.25-19.31.25:625][652]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Trunk3_Auto16D7DE97F400D6FD7E76D9C98C5B3BDF1.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/SM_Trunk3_Auto1.uasset'
+[2021.03.25-19.31.25:626][652]LogFileHelpers: Auto-saving content packages took 0.112
+[2021.03.25-19.39.01:360][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_5)
+[2021.03.25-19.39.21:601][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_9)
+[2021.03.25-19.39.38:485][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_04_3)
+[2021.03.25-19.39.39:177][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_8)
+[2021.03.25-19.39.57:521][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_1)
+[2021.03.25-19.39.58:624][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_3)
+[2021.03.25-19.40.02:112][606]Cmd: DELETE
+[2021.03.25-19.40.02:112][606]Cmd: ACTOR DELETE
+[2021.03.25-19.40.02:119][606]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-19.40.02:126][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.25-19.40.02:136][606]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.03.25-19.40.11:245][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_16)
+[2021.03.25-19.40.12:118][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_12)
+[2021.03.25-19.40.13:225][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_14)
+[2021.03.25-19.40.19:438][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_13)
+[2021.03.25-19.40.49:688][  6]Cmd: SELECT NONE
+[2021.03.25-19.40.56:627][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_15)
+[2021.03.25-19.41.01:510][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_16)
+[2021.03.25-19.41.03:313][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_14)
+[2021.03.25-19.41.34:236][121]Cmd: SELECT NONE
+[2021.03.25-19.41.41:400][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_14)
+[2021.03.25-19.41.45:421][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_18)
+[2021.03.25-19.42.03:360][482]Cmd: SELECT NONE
+[2021.03.25-19.42.32:643][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.03.25-19.42.32:734][952]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_102_Auto2020DF8114BC9750B4C2386A5092D2C4A.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Levels/Level_102_Auto2.umap'
+[2021.03.25-19.42.32:736][952]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Persistent' took 0.100
+[2021.03.25-19.42.32:736][952]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.100
+[2021.03.25-19.49.19:108][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_16)
+[2021.03.25-19.49.25:330][969]Cmd: TRANSACTION UNDO
+[2021.03.25-19.49.25:330][969]LogEditorTransaction: Undo Move Actors
+[2021.03.25-19.49.37:612][550]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2021.03.25-19.49.37:739][550]LogStaticMesh: Building static mesh StaticMesh...
+[2021.03.25-19.49.37:949][550]LogStaticMesh: Built static mesh [0.21s] /Game/Models/Tree/Presets/StaticMesh.StaticMesh
+[2021.03.25-19.49.44:120][550]LogMeshUtilities: Finished distance field build in 6.2s - 64x64x64 distance field, 25338 triangles, Range [-0.1, 1.0], StaticMesh
+[2021.03.25-19.49.44:120][550]LogStaticMesh: Display: Main thread blocked for 6.088s for async distance field build of StaticMesh to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.25-19.50.18:932][309]LogSlate: Window 'FBX Export Options' being destroyed
+[2021.03.25-19.50.18:970][309]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2021.03.25-19.52.33:241][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.03.25-19.52.33:373][775]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_102_Auto3AD249A8342C5B1C7E8CC8E9EAB24A921.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Levels/Level_102_Auto3.umap'
+[2021.03.25-19.52.33:376][775]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Persistent' took 0.149
+[2021.03.25-19.52.33:376][775]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.149
+[2021.03.25-19.52.33:376][775]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/Presets/StaticMesh] ([1] browsable assets)...
+[2021.03.25-19.52.33:396][775]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Tree/Presets/StaticMesh.StaticMesh]
+[2021.03.25-19.52.33:396][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/Presets/StaticMesh]
+[2021.03.25-19.52.33:482][775]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/StaticMesh_Auto33FB6B9964EAFBB1998CB4E8E606234CD.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/Presets/StaticMesh_Auto3.uasset'
+[2021.03.25-19.52.33:483][775]LogFileHelpers: Auto-saving content packages took 0.107
+[2021.03.25-20.00.12:826][751]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\burst\Desktop\Urskog2.0\TreeTop\Top_Large.fbx)
+[2021.03.25-20.00.12:836][751]LogFbx: Loading FBX Scene from C:\Users\burst\Desktop\Urskog2.0\TreeTop\Top_Large.fbx
+[2021.03.25-20.00.12:844][751]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-20.00.14:585][751]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.25-20.00.14:625][751]LogMaterial: Display: Missing cached shader map for material StaticMesh12, compiling. 
+[2021.03.25-20.00.14:663][751]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.03.25-20.00.14:663][751]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.03.25-20.00.14:663][751]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.03.25-20.00.14:663][751]LogFbx: Display: Triangulating static mesh StaticMesh12
+[2021.03.25-20.00.14:858][751]LogStaticMesh: Building static mesh Top_Large...
+[2021.03.25-20.00.14:992][751]LogStaticMesh: Built static mesh [0.13s] /Game/Models/Tree/Top_Large.Top_Large
+[2021.03.25-20.00.22:068][751]LogMeshUtilities: Finished distance field build in 7.1s - 64x64x64 distance field, 3570 triangles, Range [-0.2, 1.0], Top_Large
+[2021.03.25-20.00.22:068][751]LogStaticMesh: Display: Main thread blocked for 7.042s for async distance field build of Top_Large to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.25-20.00.24:197][876]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Tree/Top_Large.Top_Large
+[2021.03.25-20.00.49:793][857]LogSlate: Window 'Top_Large' being destroyed
+[2021.03.25-20.00.49:799][857]LogSlate: Window 'Top_Large' being destroyed
+[2021.03.25-20.00.49:809][857]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-20.00.49:809][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-20.00.50:691][916]LogActorFactory: Actor Factory created Top_Large
+[2021.03.25-20.00.52:622][ 84]LogActorFactory: Actor Factory created Top_Large
+[2021.03.25-20.01.01:397][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large)
+[2021.03.25-20.01.02:349][100]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Models/Tree/Materials/MI_Leafs.MI_Leafs
+[2021.03.25-20.01.02:354][100]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0010 seconds. Added 3 classes and 0 folders.
+[2021.03.25-20.01.11:513][721]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.25-20.01.15:124][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large)
+[2021.03.25-20.01.17:673][221]LogSlate: Window 'MI_Leafs' being destroyed
+[2021.03.25-20.01.17:679][221]LogSlate: Window 'MI_Leafs' being destroyed
+[2021.03.25-20.01.17:690][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.03.25-20.01.17:716][221]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.25-20.01.18:241][221]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.25-20.01.18:241][221]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.25-20.01.18:269][221]TextureStreamingBuild: Display: Compiling optional shaders took 0.561 seconds.
+[2021.03.25-20.01.18:280][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.25-20.01.18:304][221]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-20.01.18:304][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-20.01.23:833][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_8)
+[2021.03.25-20.01.24:256][834]Cmd: DELETE
+[2021.03.25-20.01.24:256][834]Cmd: ACTOR DELETE
+[2021.03.25-20.01.24:261][834]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.24:268][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.03.25-20.01.24:270][834]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.03.25-20.01.24:536][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_15)
+[2021.03.25-20.01.24:630][872]Cmd: DELETE
+[2021.03.25-20.01.24:630][872]Cmd: ACTOR DELETE
+[2021.03.25-20.01.24:635][872]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.24:641][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.25-20.01.24:641][872]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.03.25-20.01.24:891][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_7)
+[2021.03.25-20.01.25:007][911]Cmd: DELETE
+[2021.03.25-20.01.25:007][911]Cmd: ACTOR DELETE
+[2021.03.25-20.01.25:012][911]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.25:017][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.25-20.01.25:018][911]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.03.25-20.01.25:314][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_11)
+[2021.03.25-20.01.25:608][975]Cmd: DELETE
+[2021.03.25-20.01.25:608][975]Cmd: ACTOR DELETE
+[2021.03.25-20.01.25:612][975]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.25:618][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.03.25-20.01.25:619][975]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.03.25-20.01.25:906][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_9)
+[2021.03.25-20.01.25:963][  9]Cmd: DELETE
+[2021.03.25-20.01.25:963][  9]Cmd: ACTOR DELETE
+[2021.03.25-20.01.25:968][  9]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.25:973][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.25-20.01.25:974][  9]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.03.25-20.01.26:312][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_16)
+[2021.03.25-20.01.26:366][ 48]Cmd: DELETE
+[2021.03.25-20.01.26:366][ 48]Cmd: ACTOR DELETE
+[2021.03.25-20.01.26:370][ 48]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.26:376][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.25-20.01.26:376][ 48]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.03.25-20.01.26:742][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_1)
+[2021.03.25-20.01.26:807][ 95]Cmd: DELETE
+[2021.03.25-20.01.26:807][ 95]Cmd: ACTOR DELETE
+[2021.03.25-20.01.26:811][ 95]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.26:817][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.25-20.01.26:817][ 95]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.03.25-20.01.27:364][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_04_3)
+[2021.03.25-20.01.27:446][163]Cmd: DELETE
+[2021.03.25-20.01.27:447][163]Cmd: ACTOR DELETE
+[2021.03.25-20.01.27:451][163]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.27:457][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.25-20.01.27:458][163]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.03.25-20.01.28:136][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_10)
+[2021.03.25-20.01.28:184][244]Cmd: DELETE
+[2021.03.25-20.01.28:184][244]Cmd: ACTOR DELETE
+[2021.03.25-20.01.28:189][244]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.28:194][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.03.25-20.01.28:195][244]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.03.25-20.01.28:668][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_18)
+[2021.03.25-20.01.28:793][309]Cmd: DELETE
+[2021.03.25-20.01.28:793][309]Cmd: ACTOR DELETE
+[2021.03.25-20.01.28:798][309]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.28:804][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.25-20.01.28:804][309]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.03.25-20.01.29:319][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_19)
+[2021.03.25-20.01.29:468][383]Cmd: DELETE
+[2021.03.25-20.01.29:468][383]Cmd: ACTOR DELETE
+[2021.03.25-20.01.29:472][383]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.29:477][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.25-20.01.29:478][383]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.03.25-20.01.29:981][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_12)
+[2021.03.25-20.01.30:052][446]Cmd: DELETE
+[2021.03.25-20.01.30:052][446]Cmd: ACTOR DELETE
+[2021.03.25-20.01.30:057][446]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.30:063][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.03.25-20.01.30:064][446]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.25-20.01.30:445][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_17)
+[2021.03.25-20.01.30:575][502]Cmd: DELETE
+[2021.03.25-20.01.30:575][502]Cmd: ACTOR DELETE
+[2021.03.25-20.01.30:580][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.30:587][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.25-20.01.30:587][502]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.25-20.01.31:164][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_13)
+[2021.03.25-20.01.31:601][614]Cmd: DELETE
+[2021.03.25-20.01.31:601][614]Cmd: ACTOR DELETE
+[2021.03.25-20.01.31:606][614]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.31:611][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.25-20.01.31:612][614]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.03.25-20.01.32:001][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_01_4)
+[2021.03.25-20.01.32:169][674]Cmd: DELETE
+[2021.03.25-20.01.32:169][674]Cmd: ACTOR DELETE
+[2021.03.25-20.01.32:175][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.32:181][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.25-20.01.32:181][674]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.25-20.01.33:539][836]Cmd: TRANSACTION UNDO
+[2021.03.25-20.01.33:539][836]LogEditorTransaction: Undo Delete Actors
+[2021.03.25-20.01.35:741][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_14)
+[2021.03.25-20.01.36:255][ 60]Cmd: DELETE
+[2021.03.25-20.01.36:255][ 60]Cmd: ACTOR DELETE
+[2021.03.25-20.01.36:260][ 60]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.36:265][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.25-20.01.36:267][ 60]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.25-20.01.36:522][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_00)
+[2021.03.25-20.01.36:604][ 95]Cmd: DELETE
+[2021.03.25-20.01.36:604][ 95]Cmd: ACTOR DELETE
+[2021.03.25-20.01.36:609][ 95]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.36:615][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.03.25-20.01.36:615][ 95]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.03.25-20.01.37:015][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_2)
+[2021.03.25-20.01.37:164][156]Cmd: DELETE
+[2021.03.25-20.01.37:164][156]Cmd: ACTOR DELETE
+[2021.03.25-20.01.37:168][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.01.37:174][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.25-20.01.37:175][156]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.03.25-20.01.39:526][427]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Trunk5)
+[2021.03.25-20.01.41:271][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large)
+[2021.03.25-20.02.05:955][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large)
+[2021.03.25-20.02.18:847][753]LogEditorViewport: Clicking Background
+[2021.03.25-20.03.02:655][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.03.25-20.03.02:754][215]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_102_Auto4058D8548402E2972CCE06497F35E82BC.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Levels/Level_102_Auto4.umap'
+[2021.03.25-20.03.02:756][215]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Persistent' took 0.108
+[2021.03.25-20.03.02:756][215]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.108
+[2021.03.25-20.03.02:756][215]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/Materials/MI_Leafs] ([1] browsable assets)...
+[2021.03.25-20.03.02:770][215]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Models/Tree/Materials/MI_Leafs.MI_Leafs]
+[2021.03.25-20.03.02:770][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/Materials/MI_Leafs]
+[2021.03.25-20.03.02:782][215]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Leafs_Auto4BCB503014E236F4869F3E2AD8B4025B3.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/Materials/MI_Leafs_Auto4.uasset'
+[2021.03.25-20.03.02:784][215]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/Top_Large] ([1] browsable assets)...
+[2021.03.25-20.03.02:795][215]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Tree/Top_Large.Top_Large]
+[2021.03.25-20.03.02:795][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/Top_Large]
+[2021.03.25-20.03.02:816][215]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Top_Large_Auto4DD30808C4632B3273497A1941E7063F9.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/Top_Large_Auto4.uasset'
+[2021.03.25-20.03.02:816][215]LogFileHelpers: Auto-saving content packages took 0.061
+[2021.03.25-20.14.26:593][257]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.25-20.14.26:593][257]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.25-20.14.30:893][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\burst\Desktop\Urskog2.0\TreeTop\Top_Large2.fbx)
+[2021.03.25-20.14.30:901][469]LogFbx: Loading FBX Scene from C:\Users\burst\Desktop\Urskog2.0\TreeTop\Top_Large2.fbx
+[2021.03.25-20.14.30:908][469]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-20.14.32:072][469]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.25-20.14.32:092][469]LogFbx: Display: Triangulating static mesh StaticMesh12
+[2021.03.25-20.14.32:226][469]LogStaticMesh: Building static mesh Top_Large2...
+[2021.03.25-20.14.32:335][469]LogStaticMesh: Built static mesh [0.11s] /Game/Models/Tree/Top_Large2.Top_Large2
+[2021.03.25-20.14.38:417][469]LogMeshUtilities: Finished distance field build in 6.1s - 64x64x64 distance field, 3484 triangles, Range [-0.3, 1.0], Top_Large2
+[2021.03.25-20.14.38:417][469]LogStaticMesh: Display: Main thread blocked for 6.059s for async distance field build of Top_Large2 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.25-20.14.41:526][763]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Tree/Top_Large2.Top_Large2
+[2021.03.25-20.14.49:108][393]LogSlate: Window 'Top_Large2' being destroyed
+[2021.03.25-20.14.49:113][393]LogSlate: Window 'Top_Large2' being destroyed
+[2021.03.25-20.14.49:125][393]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-20.14.49:125][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-20.14.50:760][539]LogActorFactory: Actor Factory created Top_Large2
+[2021.03.25-20.14.51:446][601]LogActorFactory: Actor Factory created Top_Large2
+[2021.03.25-20.14.55:208][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large2)
+[2021.03.25-20.15.01:105][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large2)
+[2021.03.25-20.15.06:875][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large2)
+[2021.03.25-20.15.12:197][766]Cmd: TRANSACTION UNDO
+[2021.03.25-20.15.12:197][766]LogEditorTransaction: Undo Scale Actors
+[2021.03.25-20.15.12:429][773]Cmd: TRANSACTION UNDO
+[2021.03.25-20.15.12:429][773]LogEditorTransaction: Undo Move Actors
+[2021.03.25-20.15.12:802][791]Cmd: TRANSACTION UNDO
+[2021.03.25-20.15.12:802][791]LogEditorTransaction: Undo Scale Actors
+[2021.03.25-20.15.41:461][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.03.25-20.15.41:570][374]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_102_Auto51EB9C7C2479F234DB7736CA81073AF5A.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Levels/Level_102_Auto5.umap'
+[2021.03.25-20.15.41:573][374]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Persistent' took 0.124
+[2021.03.25-20.15.41:573][374]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.124
+[2021.03.25-20.15.41:573][374]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/Top_Large2] ([1] browsable assets)...
+[2021.03.25-20.15.41:589][374]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Tree/Top_Large2.Top_Large2]
+[2021.03.25-20.15.41:589][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/Top_Large2]
+[2021.03.25-20.15.41:616][374]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Top_Large2_Auto5AD2D8D104106FD5EC9A773882D55F9D4.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/Top_Large2_Auto5.uasset'
+[2021.03.25-20.15.41:617][374]LogFileHelpers: Auto-saving content packages took 0.044
+[2021.03.25-20.16.15:953][644]LogEditorFactories: Performing atomic reimport of [C:/Users/burst/Desktop/Urskog2.0/TreeTop/Top_Large2.fbx]
+[2021.03.25-20.16.15:974][644]LogFbx: Loading FBX Scene from C:/Users/burst/Desktop/Urskog2.0/TreeTop/Top_Large2.fbx
+[2021.03.25-20.16.15:979][644]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-20.16.16:012][644]LogFbx: Display: Triangulating static mesh StaticMesh12
+[2021.03.25-20.16.16:203][644]LogStaticMesh: Building static mesh Top_Large2...
+[2021.03.25-20.16.16:339][644]LogStaticMesh: Built static mesh [0.14s] /Game/Models/Tree/Top_Large2.Top_Large2
+[2021.03.25-20.16.16:372][644]LogEditorFactories: -- imported successfully
+[2021.03.25-20.16.22:483][644]LogMeshUtilities: Finished distance field build in 6.1s - 64x64x64 distance field, 4254 triangles, Range [-0.3, 1.0], Top_Large2
+[2021.03.25-20.16.22:483][644]LogStaticMesh: Display: Main thread blocked for 6.108s for async distance field build of Top_Large2 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.25-20.16.23:269][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large2)
+[2021.03.25-20.16.30:054][413]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.25-20.16.37:589][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large2)
+[2021.03.25-20.16.40:887][579]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Models/Tree/Materials/MI_Leafs.MI_Leafs
+[2021.03.25-20.16.49:847][233]LogEditorViewport: Clicking Background
+[2021.03.25-20.17.11:734][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_6)
+[2021.03.25-20.18.16:534][108]LogEditorFactories: Performing atomic reimport of [C:/Users/burst/Desktop/Urskog2.0/TreeTop/Top_Large2.fbx]
+[2021.03.25-20.18.16:560][108]LogFbx: Loading FBX Scene from C:/Users/burst/Desktop/Urskog2.0/TreeTop/Top_Large2.fbx
+[2021.03.25-20.18.16:567][108]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-20.18.16:610][108]LogFbx: Display: Triangulating static mesh StaticMesh12
+[2021.03.25-20.18.16:841][108]LogStaticMesh: Building static mesh Top_Large2...
+[2021.03.25-20.18.16:987][108]LogStaticMesh: Built static mesh [0.15s] /Game/Models/Tree/Top_Large2.Top_Large2
+[2021.03.25-20.18.17:025][108]LogEditorFactories: -- imported successfully
+[2021.03.25-20.18.23:272][108]LogMeshUtilities: Finished distance field build in 6.3s - 64x64x64 distance field, 5202 triangles, Range [-0.3, 1.0], Top_Large2
+[2021.03.25-20.18.23:273][108]LogStaticMesh: Display: Main thread blocked for 6.245s for async distance field build of Top_Large2 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.25-20.18.34:088][933]LogSlate: Window 'MI_Leafs' being destroyed
+[2021.03.25-20.18.34:095][933]LogSlate: Window 'MI_Leafs' being destroyed
+[2021.03.25-20.18.34:106][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.03.25-20.18.34:128][933]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.25-20.18.34:691][933]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.25-20.18.34:691][933]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.25-20.18.34:749][933]TextureStreamingBuild: Display: Compiling optional shaders took 0.621 seconds.
+[2021.03.25-20.18.34:756][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.03.25-20.18.34:782][933]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-20.18.34:782][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-20.18.41:350][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large2)
+[2021.03.25-20.18.43:537][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large2)
+[2021.03.25-20.18.43:872][737]LogEditorViewport: Clicking Background
+[2021.03.25-20.18.50:477][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large)
+[2021.03.25-20.18.55:306][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large2)
+[2021.03.25-20.19.05:381][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large2)
+[2021.03.25-20.19.57:809][537]LogEditorFactories: Performing atomic reimport of [C:/Users/burst/Desktop/Urskog2.0/TreeTop/Top_Large2.fbx]
+[2021.03.25-20.19.57:838][537]LogFbx: Loading FBX Scene from C:/Users/burst/Desktop/Urskog2.0/TreeTop/Top_Large2.fbx
+[2021.03.25-20.19.57:844][537]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-20.19.57:892][537]LogFbx: Display: Triangulating static mesh StaticMesh12
+[2021.03.25-20.19.58:122][537]LogStaticMesh: Building static mesh Top_Large2...
+[2021.03.25-20.19.58:258][537]LogStaticMesh: Built static mesh [0.14s] /Game/Models/Tree/Top_Large2.Top_Large2
+[2021.03.25-20.19.58:294][537]LogEditorFactories: -- imported successfully
+[2021.03.25-20.20.05:098][537]LogMeshUtilities: Finished distance field build in 6.8s - 64x64x64 distance field, 5286 triangles, Range [-0.3, 1.0], Top_Large2
+[2021.03.25-20.20.05:098][537]LogStaticMesh: Display: Main thread blocked for 6.800s for async distance field build of Top_Large2 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.25-20.20.07:493][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large)
+[2021.03.25-20.20.08:023][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large2)
+[2021.03.25-20.20.23:646][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large2)
+[2021.03.25-20.20.26:225][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large)
+[2021.03.25-20.26.01:301][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.03.25-20.26.01:412][403]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_102_Auto657EB285349D158F58EC67390F0A49F20.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Levels/Level_102_Auto6.umap'
+[2021.03.25-20.26.01:414][403]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Persistent' took 0.122
+[2021.03.25-20.26.01:414][403]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.122
+[2021.03.25-20.26.01:414][403]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/Materials/MI_Leafs] ([1] browsable assets)...
+[2021.03.25-20.26.01:426][403]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Models/Tree/Materials/MI_Leafs.MI_Leafs]
+[2021.03.25-20.26.01:426][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/Materials/MI_Leafs]
+[2021.03.25-20.26.01:438][403]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Leafs_Auto66E0A0989484C769E45B20F8C95554681.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/Materials/MI_Leafs_Auto6.uasset'
+[2021.03.25-20.26.01:439][403]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tree/Top_Large2] ([1] browsable assets)...
+[2021.03.25-20.26.01:452][403]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Tree/Top_Large2.Top_Large2]
+[2021.03.25-20.26.01:452][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tree/Top_Large2]
+[2021.03.25-20.26.01:485][403]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Top_Large2_Auto60D211C934A3AF997220CA3B4D6142039.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Autosaves/Game/Models/Tree/Top_Large2_Auto6.uasset'
+[2021.03.25-20.26.01:486][403]LogFileHelpers: Auto-saving content packages took 0.072
+[2021.03.25-20.27.09:641][896]LogEditorFactories: Performing atomic reimport of [C:/Users/burst/Desktop/Urskog2.0/TreeTop/Top_Large2.fbx]
+[2021.03.25-20.27.09:672][896]LogFbx: Loading FBX Scene from C:/Users/burst/Desktop/Urskog2.0/TreeTop/Top_Large2.fbx
+[2021.03.25-20.27.09:680][896]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-20.27.09:719][896]LogFbx: Display: Triangulating static mesh StaticMesh12
+[2021.03.25-20.27.09:953][896]LogStaticMesh: Building static mesh Top_Large2...
+[2021.03.25-20.27.09:985][896]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Tree/Top_Large2.Top_Large2
+[2021.03.25-20.27.10:020][896]LogEditorFactories: -- imported successfully
+[2021.03.25-20.27.16:368][896]LogMeshUtilities: Finished distance field build in 6.4s - 64x64x64 distance field, 5388 triangles, Range [-0.3, 1.0], Top_Large2
+[2021.03.25-20.27.16:368][896]LogStaticMesh: Display: Main thread blocked for 6.345s for async distance field build of Top_Large2 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.25-20.27.27:519][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.25-20.27.28:420][895]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.25-20.27.28:504][895]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Tree/Top_Large2.Top_Large2
+[2021.03.25-20.27.28:759][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.03.25-20.27.32:420][  1]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\burst\Desktop\Urskog2.0\TreeTop\Top_Large2.fbx)
+[2021.03.25-20.27.32:426][  1]LogFbx: Loading FBX Scene from C:\Users\burst\Desktop\Urskog2.0\TreeTop\Top_Large2.fbx
+[2021.03.25-20.27.32:434][  1]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-20.27.33:230][  1]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.25-20.27.33:249][  1]LogFbx: Display: Triangulating static mesh StaticMesh12
+[2021.03.25-20.27.33:456][  1]LogStaticMesh: Building static mesh Top_Large2...
+[2021.03.25-20.27.33:493][  1]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Tree/Top_Large2.Top_Large2
+[2021.03.25-20.27.39:692][  1]LogMeshUtilities: Finished distance field build in 6.2s - 64x64x64 distance field, 5388 triangles, Range [-0.3, 1.0], Top_Large2
+[2021.03.25-20.27.39:692][  1]LogStaticMesh: Display: Main thread blocked for 6.161s for async distance field build of Top_Large2 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.25-20.27.47:009][549]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Models/Tree/Materials/MI_Leafs.MI_Leafs
+[2021.03.25-20.27.52:591][828]Cmd: TRANSACTION UNDO
+[2021.03.25-20.27.52:591][828]LogEditorTransaction: Undo Edit Scale
+[2021.03.25-20.27.55:406][951]Cmd: TRANSACTION UNDO
+[2021.03.25-20.27.55:406][951]LogEditorTransaction: Undo Edit BillBoardSize
+[2021.03.25-20.27.56:700][ 37]Cmd: TRANSACTION UNDO
+[2021.03.25-20.27.56:700][ 37]LogEditorTransaction: Undo Replace component used material
+[2021.03.25-20.28.34:539][331]LogSlate: Window 'MI_Leafs' being destroyed
+[2021.03.25-20.28.34:545][331]LogSlate: Window 'MI_Leafs' being destroyed
+[2021.03.25-20.28.34:557][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.25-20.28.34:575][331]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.25-20.28.35:137][331]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.25-20.28.35:137][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.25-20.28.35:248][331]TextureStreamingBuild: Display: Compiling optional shaders took 0.672 seconds.
+[2021.03.25-20.28.35:254][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.25-20.28.35:277][331]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-20.28.35:277][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-20.28.36:849][433]LogEditorFactories: Performing atomic reimport of [C:/Users/burst/Desktop/Urskog2.0/TreeTop/Top_Large2.fbx]
+[2021.03.25-20.28.36:873][433]LogFbx: Loading FBX Scene from C:/Users/burst/Desktop/Urskog2.0/TreeTop/Top_Large2.fbx
+[2021.03.25-20.28.36:879][433]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.25-20.28.36:921][433]LogFbx: Display: Triangulating static mesh StaticMesh12
+[2021.03.25-20.28.37:151][433]LogStaticMesh: Building static mesh Top_Large2...
+[2021.03.25-20.28.37:292][433]LogStaticMesh: Built static mesh [0.14s] /Game/Models/Tree/Top_Large2.Top_Large2
+[2021.03.25-20.28.37:331][433]LogEditorFactories: -- imported successfully
+[2021.03.25-20.28.43:642][433]LogMeshUtilities: Finished distance field build in 6.3s - 64x64x64 distance field, 5388 triangles, Range [-0.3, 1.0], Top_Large2
+[2021.03.25-20.28.43:642][433]LogStaticMesh: Display: Main thread blocked for 6.308s for async distance field build of Top_Large2 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.25-20.28.45:618][572]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Tree/Top_Large2.Top_Large2
+[2021.03.25-20.28.53:540][133]LogSlate: Window 'Top_Large2' being destroyed
+[2021.03.25-20.28.53:547][133]LogSlate: Window 'Top_Large2' being destroyed
+[2021.03.25-20.28.53:558][133]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-20.28.53:559][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-20.29.15:452][296]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.25-20.29.15:473][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.25-20.29.15:475][296]PIE: New page: PIE session: Level_Persistent (25 Mar 2021, 22:29:15)
+[2021.03.25-20.29.15:482][296]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.25-20.29.15:484][296]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.25-20.29.15:485][296]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Persistent
+[2021.03.25-20.29.15:490][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004231s)
+[2021.03.25-20.29.15:492][296]LogAIModule: Creating AISystem for world Level_Persistent
+[2021.03.25-20.29.15:493][296]LogPlayLevel: PIE: World Init took: (0.002850s)
+[2021.03.25-20.29.15:493][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Persistent.Level_Persistent to /Game/Levels/UEDPIE_0_Level_Persistent.Level_Persistent (0.007648s)
+[2021.03.25-20.29.15:504][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.25-20.29.15:508][296]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.25-20.29.15:509][296]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.25-20.29.15:509][296]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.25-20.29.15:509][296]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.25-20.29.15:509][296]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.25-20.29.15:509][296]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.25-20.29.15:509][296]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.25-20.29.15:509][296]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.25-20.29.15:509][296]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.25-20.29.15:509][296]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.25-20.29.15:509][296]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.25-20.29.15:514][296]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.25-20.29.15:514][296]LogAudioMixer: Display: 1: FrontRight
+[2021.03.25-20.29.15:524][296]LogAudioMixer: Display: Using Audio Device Headphones (HyperX Cloud Flight Wireless Headset)
+[2021.03.25-20.29.15:525][296]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.25-20.29.15:525][296]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.25-20.29.15:525][296]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.25-20.29.15:525][296]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.25-20.29.15:525][296]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.25-20.29.15:525][296]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.25-20.29.15:548][296]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.25-20.29.15:548][296]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.25-20.29.15:548][296]LogInit: FAudioDevice initialized.
+[2021.03.25-20.29.15:548][296]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_Persistent'.
+[2021.03.25-20.29.15:645][296]LogLoad: Game class is 'BP_GameMode_C'
+[2021.03.25-20.29.15:653][296]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Persistent.Level_Persistent up for play (max tick rate 0) at 2021.03.25-21.29.15
+[2021.03.25-20.29.15:654][296]LogWorld: Bringing up level for play took: 0.001499
+[2021.03.25-20.29.15:655][296]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.03.25-20.29.15:668][296]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.03.25-20.29.15:833][296]LogStreaming: Display: FlushAsyncLoading: 4 QueuedPackages, 0 AsyncPackages
+[2021.03.25-20.29.16:232][296]PIE: Server logged in
+[2021.03.25-20.29.16:235][296]PIE: Play in editor total start time 0,766 seconds.
+[2021.03.25-20.29.51:196][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-20.29.51:196][ 95]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_Persistent
+[2021.03.25-20.29.51:200][ 95]LogWorld: UWorld::CleanupWorld for Level_Persistent, bSessionEnded=true, bCleanupResources=true
+[2021.03.25-20.29.51:200][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-20.29.51:213][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.25-20.29.51:231][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.25-20.29.51:237][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.25-20.29.51:241][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.25-20.29.51:242][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.25-20.29.51:258][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.25-20.29.51:289][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.03.25-20.29.51:342][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.03.25-20.29.51:350][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.25-20.30.20:686][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.25-20.30.20:720][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.25-20.30.20:910][912]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_101ABD24D9D418B120ED5933B920F482BEA.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_101.umap'
+[2021.03.25-20.30.20:920][912]LogFileHelpers: Saving map 'Level_101' took 0.205
+[2021.03.25-20.30.20:932][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.03.25-20.30.21:020][912]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_102C65D610F41DCC95E3E69F6AD1D39AC9E.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_102.umap'
+[2021.03.25-20.30.21:023][912]LogFileHelpers: Saving map 'Level_102' took 0.103
+[2021.03.25-20.30.21:046][912]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/MI_Leafs3D0BBEC54FF192D7642C958E658218B7.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/Materials/MI_Leafs.uasset'
+[2021.03.25-20.30.21:047][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/SM_Trunk5" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Trunk5.uasset" SILENT=true
+[2021.03.25-20.30.21:056][912]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Trunk590AC8B84468980201274599B77428C80.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Trunk5.uasset'
+[2021.03.25-20.30.21:057][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/SM_Trunk1" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Trunk1.uasset" SILENT=true
+[2021.03.25-20.30.21:067][912]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Trunk111CC94BF4D5DB438F44567A38AC2C28D.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Trunk1.uasset'
+[2021.03.25-20.30.21:068][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/SM_Trunk4" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Trunk4.uasset" SILENT=true
+[2021.03.25-20.30.21:085][912]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Trunk4B3603AB640DA0B954D68F1BFC4A54B7B.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Trunk4.uasset'
+[2021.03.25-20.30.21:088][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/SM_Trunk2" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Trunk2.uasset" SILENT=true
+[2021.03.25-20.30.21:101][912]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Trunk266E81AB9409149583DA5668E4C492C6A.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Trunk2.uasset'
+[2021.03.25-20.30.21:103][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/SM_Trunk3" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Trunk3.uasset" SILENT=true
+[2021.03.25-20.30.21:112][912]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Trunk34A6F851E4A696ADB5901CF9A72D6A8F5.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/SM_Trunk3.uasset'
+[2021.03.25-20.30.21:188][912]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/StaticMesh71659B7E4B92132E178B3F92F9D23867.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/Presets/StaticMesh.uasset'
+[2021.03.25-20.30.21:189][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/Top_Large" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/Top_Large.uasset" SILENT=true
+[2021.03.25-20.30.21:207][912]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Top_LargeCEA9FA744DAE58EB7FAED4A1A357BE46.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/Top_Large.uasset'
+[2021.03.25-20.30.21:217][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/StaticMesh12" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/StaticMesh12.uasset" SILENT=true
+[2021.03.25-20.30.21:227][912]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/StaticMesh1254BF9D1C48214311EB71CE893045B7BD.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/StaticMesh12.uasset'
+[2021.03.25-20.30.21:238][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tree/Top_Large2" FILE="../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/Top_Large2.uasset" SILENT=true
+[2021.03.25-20.30.21:264][912]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Top_Large24DC01E6F43F49D6ADF339E8926FCDA1B.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/Top_Large2.uasset'
+[2021.03.25-20.30.21:279][912]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.25-20.30.21:279][912]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/SM_Trunk1.SM_Trunk1
+[2021.03.25-20.30.21:279][912]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/SM_Trunk4.SM_Trunk4
+[2021.03.25-20.30.21:279][912]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/SM_Trunk3.SM_Trunk3
+[2021.03.25-20.30.21:279][912]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/SM_Trunk2.SM_Trunk2
+[2021.03.25-20.30.21:279][912]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Models/Tree/Materials/MI_Leafs.MI_Leafs
+[2021.03.25-20.30.21:279][912]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/SM_Trunk5.SM_Trunk5
+[2021.03.25-20.30.21:279][912]LogContentValidation: Display: Validating World /Game/Levels/Level_101.Level_101
+[2021.03.25-20.30.21:279][912]LogContentValidation: Display: Validating World /Game/Levels/Level_102.Level_102
+[2021.03.25-20.30.21:279][912]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/Top_Large2.Top_Large2
+[2021.03.25-20.30.21:279][912]LogContentValidation: Display: Validating Material /Game/Models/Tree/StaticMesh12.StaticMesh12
+[2021.03.25-20.30.21:279][912]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/Top_Large.Top_Large
+[2021.03.25-20.30.21:279][912]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/Presets/StaticMesh.StaticMesh
+[2021.03.25-20.30.34:705][979]Cmd: TRANSACTION UNDO
+[2021.03.25-20.30.34:705][979]LogEditorTransaction: Undo Move Actors
+[2021.03.25-20.30.36:825][132]LogEditorViewport: Clicking Background
+[2021.03.25-20.31.28:437][967]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2021.03.25-20.31.28:495][967]LogStaticMesh: Building static mesh SM_Tree_Large_Preset_00_00...
+[2021.03.25-20.31.28:631][967]LogStaticMesh: Built static mesh [0.14s] /Game/Models/Tree/Presets/SM_Tree_Large_Preset_00_00.SM_Tree_Large_Preset_00_00
+[2021.03.25-20.31.34:294][967]LogMeshUtilities: Finished distance field build in 5.7s - 64x64x64 distance field, 8317 triangles, Range [-0.1, 1.0], SM_Tree_Large_Preset_00_00
+[2021.03.25-20.31.34:294][967]LogStaticMesh: Display: Main thread blocked for 5.637s for async distance field build of SM_Tree_Large_Preset_00_00 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.25-20.31.34:337][967]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.25-20.31.38:169][335]LogEditorViewport: Clicking Background
+[2021.03.25-20.31.39:618][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large2)
+[2021.03.25-20.31.46:643][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_5)
+[2021.03.25-20.31.46:782][184]Cmd: DELETE
+[2021.03.25-20.31.46:782][184]Cmd: ACTOR DELETE
+[2021.03.25-20.31.46:791][184]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.31.46:798][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.03.25-20.31.46:805][184]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.03.25-20.31.47:149][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_4)
+[2021.03.25-20.31.47:165][215]Cmd: DELETE
+[2021.03.25-20.31.47:165][215]Cmd: ACTOR DELETE
+[2021.03.25-20.31.47:171][215]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.31.47:176][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.25-20.31.47:176][215]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.03.25-20.31.47:652][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TreeTop_01_6)
+[2021.03.25-20.31.47:702][265]Cmd: DELETE
+[2021.03.25-20.31.47:702][265]Cmd: ACTOR DELETE
+[2021.03.25-20.31.47:708][265]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.31.47:713][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.25-20.31.47:714][265]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.25-20.31.48:172][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_03_4)
+[2021.03.25-20.31.48:555][349]Cmd: DELETE
+[2021.03.25-20.31.48:555][349]Cmd: ACTOR DELETE
+[2021.03.25-20.31.48:561][349]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.31.48:567][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.25-20.31.48:568][349]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.03.25-20.31.49:316][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BranchLeaf_04_4)
+[2021.03.25-20.31.49:434][446]Cmd: DELETE
+[2021.03.25-20.31.49:434][446]Cmd: ACTOR DELETE
+[2021.03.25-20.31.49:439][446]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.31.49:444][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.25-20.31.49:445][446]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.25-20.31.50:410][558]Cmd: TRANSACTION UNDO
+[2021.03.25-20.31.50:410][558]LogEditorTransaction: Undo Delete Actors
+[2021.03.25-20.31.51:120][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Top_Large2)
+[2021.03.25-20.32.07:629][138]LogActorFactory: Actor Factory created SM_Branch_01_00
+[2021.03.25-20.32.08:851][255]LogActorFactory: Actor Factory created SM_Branch_01_00
+[2021.03.25-20.32.20:452][363]LogActorFactory: Actor Factory created SM_Branch_04_00
+[2021.03.25-20.32.21:228][440]LogActorFactory: Actor Factory created SM_Branch_04_00
+[2021.03.25-20.32.28:820][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_04_2)
+[2021.03.25-20.32.35:804][875]LogActorFactory: Actor Factory created SM_Branch_03_00
+[2021.03.25-20.32.37:444][ 30]LogActorFactory: Actor Factory created SM_Branch_03_00
+[2021.03.25-20.32.40:413][345]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-20.32.40:577][356]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.25-20.32.45:884][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush_62)
+[2021.03.25-20.32.46:517][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Branch_03_3)
+[2021.03.25-20.33.01:088][412]LogActorFactory: Actor Factory created SM_Branch_02_00
+[2021.03.25-20.33.01:977][487]LogActorFactory: Actor Factory created SM_Branch_02_00
+[2021.03.25-20.33.14:111][669]LogActorFactory: Actor Factory created SM_BranchLeaf_04_00
+[2021.03.25-20.33.14:833][740]LogActorFactory: Actor Factory created SM_BranchLeaf_04_00
+[2021.03.25-20.33.15:709][808]Cmd: DELETE
+[2021.03.25-20.33.15:710][808]Cmd: ACTOR DELETE
+[2021.03.25-20.33.15:717][808]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.33.15:729][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.25-20.33.15:735][808]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.03.25-20.33.15:987][822]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.25-20.33.16:770][904]LogActorFactory: Actor Factory created SM_BranchLeaf_03_00
+[2021.03.25-20.33.28:098][  5]Cmd: TRANSACTION UNDO
+[2021.03.25-20.33.28:098][  5]LogEditorTransaction: Undo Move Actors
+[2021.03.25-20.33.45:481][824]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2021.03.25-20.33.45:545][824]LogStaticMesh: Building static mesh SM_Tree_Large_Preset_01_00...
+[2021.03.25-20.33.45:708][824]LogStaticMesh: Built static mesh [0.16s] /Game/Models/Tree/Presets/SM_Tree_Large_Preset_01_00.SM_Tree_Large_Preset_01_00
+[2021.03.25-20.33.51:161][824]LogMeshUtilities: Finished distance field build in 5.4s - 64x64x64 distance field, 9771 triangles, Range [-0.1, 1.0], SM_Tree_Large_Preset_01_00
+[2021.03.25-20.33.51:161][824]LogStaticMesh: Display: Main thread blocked for 5.422s for async distance field build of SM_Tree_Large_Preset_01_00 to complete!  This can happen if the mesh is rebuilt excessively.
+[2021.03.25-20.33.54:650][133]LogActorFactory: Actor Factory created SM_Tree_Large_Preset_01_00
+[2021.03.25-20.33.55:509][201]LogActorFactory: Actor Factory created SM_Tree_Large_Preset_01_00
+[2021.03.25-20.34.09:245][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Trunk5)
+[2021.03.25-20.34.15:638][174]Cmd: TRANSACTION UNDO
+[2021.03.25-20.34.15:638][174]LogEditorTransaction: Undo Move Actors
+[2021.03.25-20.34.16:088][188]Cmd: TRANSACTION UNDO
+[2021.03.25-20.34.16:088][188]LogEditorTransaction: Undo Move Actors
+[2021.03.25-20.34.16:464][210]Cmd: TRANSACTION UNDO
+[2021.03.25-20.34.16:464][210]LogEditorTransaction: Undo Move Actors
+[2021.03.25-20.34.17:576][315]Cmd: TRANSACTION UNDO
+[2021.03.25-20.34.17:576][315]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.25-20.34.22:470][764]Cmd: DELETE
+[2021.03.25-20.34.22:470][764]Cmd: ACTOR DELETE
+[2021.03.25-20.34.22:487][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:488][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:488][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:488][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:488][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:488][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:488][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:489][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:489][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:489][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:489][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:489][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:489][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:490][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:490][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:490][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.22:496][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.25-20.34.22:502][764]LogEditorActor: Deleted 16 Actors (0.032 secs)
+[2021.03.25-20.34.25:403][ 96]Cmd: DELETE
+[2021.03.25-20.34.25:403][ 96]Cmd: ACTOR DELETE
+[2021.03.25-20.34.25:416][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.25:416][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.25:416][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.25:416][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.25:416][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.25:417][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.25-20.34.25:422][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.25-20.34.25:423][ 96]LogEditorActor: Deleted 6 Actors (0.020 secs)
+[2021.03.25-20.34.36:467][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.25-20.34.36:496][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.25-20.34.36:657][379]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_101331DDADA4388E9CD1AF33E9846E7B764.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_101.umap'
+[2021.03.25-20.34.36:660][379]LogFileHelpers: Saving map 'Level_101' took 0.169
+[2021.03.25-20.34.36:668][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.03.25-20.34.36:749][379]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/Level_1020D9438684AE90B692D926D92F34EF6B7.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Levels/Level_102.umap'
+[2021.03.25-20.34.36:752][379]LogFileHelpers: Saving map 'Level_102' took 0.092
+[2021.03.25-20.34.36:805][379]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Tree_Large_Preset_00_004882C2D740F13A509A2B988DFC57066B.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/Presets/SM_Tree_Large_Preset_00_00.uasset'
+[2021.03.25-20.34.36:863][379]LogSavePackage: Moving '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Saved/SM_Tree_Large_Preset_01_00965245CA454CEB9C049F17930434C853.tmp' to '../../../../../../Users/burst/Documents/Urskog_Prototype/Urskog_Prototype/Content/Models/Tree/Presets/SM_Tree_Large_Preset_01_00.uasset'
+[2021.03.25-20.34.36:874][379]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.25-20.34.36:874][379]LogContentValidation: Display: Validating World /Game/Levels/Level_101.Level_101
+[2021.03.25-20.34.36:874][379]LogContentValidation: Display: Validating World /Game/Levels/Level_102.Level_102
+[2021.03.25-20.34.36:874][379]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/Presets/SM_Tree_Large_Preset_00_00.SM_Tree_Large_Preset_00_00
+[2021.03.25-20.34.36:874][379]LogContentValidation: Display: Validating StaticMesh /Game/Models/Tree/Presets/SM_Tree_Large_Preset_01_00.SM_Tree_Large_Preset_01_00
+>>>>>>> main

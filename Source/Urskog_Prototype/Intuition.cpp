@@ -47,7 +47,6 @@ void UIntuition::FindCamera()
 
 void UIntuition::ToggleIntuition()
 {
-	UE_LOG(LogTemp, Log, TEXT("Toggle"));
 	IntuitionBlend = IntuitionBlend == 0 ? 1 : 0;
 }
 

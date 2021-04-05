@@ -4,12 +4,12 @@
 #include "Intuition.h"
 
 #include "Camera/CameraComponent.h"
+#include "Components/DirectionalLightComponent.h"
 #include "Kismet/GameplayStatics.h"
-#include "Materials/MaterialParameterCollectionInstance.h"
 
 UIntuition::UIntuition()
 {
-	PrimaryComponentTick.bCanEverTick = false;
+	PrimaryComponentTick.bCanEverTick = true;
 }
 
 void UIntuition::BeginPlay()
@@ -17,13 +17,16 @@ void UIntuition::BeginPlay()
 	Super::BeginPlay();
 
 	BindAction();
-	//FindMaterial();
 	FindCamera();
+	FindDirectionalLight();
 }
 
 void UIntuition::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
+
+	ChangeFOV();
+	ChangeLightIntensity();
 }
 
 void UIntuition::BindAction()
@@ -37,15 +40,6 @@ void UIntuition::BindAction()
 	inputController->BindAction("Intuition", EInputEvent::IE_Pressed, this, &UIntuition::ToggleIntuition);
 }
 
-void UIntuition::FindMaterial()
-{
-	if (Asset == nullptr) {
-		UE_LOG(LogTemp, Error, TEXT("Missing material asset"));
-		return;
-	}
-	Material = GetWorld()->GetParameterCollectionInstance(Asset);
-}
-
 void UIntuition::FindCamera()
 {
 	Camera = GetOwner()->FindComponentByClass<UCameraComponent>();
@@ -54,35 +48,65 @@ void UIntuition::FindCamera()
 void UIntuition::ToggleIntuition()
 {
 	IntuitionBlend = IntuitionBlend == 0 ? 1 : 0;
-	//ChangeMaterial();
-	ChangeFOV();
-}
-
-void UIntuition::ChangeMaterial()
-{
-	if (Material == nullptr)
-	{
-		UE_LOG(LogTemp, Error, TEXT("Missing material asset instance"));
-		return;
-	}
-
-	Material->SetScalarParameterValue("Intuitionmode_blend", IntuitionBlend);
 }
 
 void UIntuition::ChangeFOV()
 {
 	if (Camera == nullptr)
 	{
-		UE_LOG(LogTemp, Error, TEXT("Missing camera componentt"));
+		UE_LOG(LogTemp, Error, TEXT("Missing camera component"));
 		return;
 	}
 
 	if (IntuitionBlend == 0)
 	{
-		Camera->SetFieldOfView(NormalFieldOfView);
+		Camera->SetFieldOfView(FMath::Lerp(Camera->FieldOfView, NormalFieldOfView, Alpha01));
 	}
 	else
 	{
-		Camera->SetFieldOfView(WideFieldOfView);
+		Camera->SetFieldOfView(FMath::Lerp(Camera->FieldOfView, WideFieldOfView, Alpha01));
+	}
+}
+
+void UIntuition::FindDirectionalLight()
+{
+	const auto directionalLightActor = UGameplayStatics::GetActorOfClass(GetWorld(), ADirectionalLight::StaticClass());
+	if (directionalLightActor != nullptr)
+	{
+		DirectionalLight = directionalLightActor->FindComponentByClass<UDirectionalLightComponent>();
+	}
+	else
+	{
+		UE_LOG(LogTemp, Error, TEXT("Couldn't find light actor"));
+		return;
+	}
+
+	if (DirectionalLight != nullptr)
+	{
+		LightIntensity = DirectionalLight->Intensity;
+	}
+	else
+	{
+		UE_LOG(LogTemp, Error, TEXT("Couldn't find light component"));
+		return;
+	}
+}
+
+
+inline void UIntuition::ChangeLightIntensity()
+{
+	if (DirectionalLight == nullptr)
+	{
+		UE_LOG(LogTemp, Error, TEXT("Missing light component"));
+		return;
+	}
+
+	if (IntuitionBlend == 0)
+	{
+		DirectionalLight->SetIntensity(FMath::Lerp(DirectionalLight->Intensity, LightIntensity, Alpha01));
+	}
+	else
+	{
+		DirectionalLight->SetIntensity(FMath::Lerp(DirectionalLight->Intensity, 0.0f, Alpha01));
 	}
 }

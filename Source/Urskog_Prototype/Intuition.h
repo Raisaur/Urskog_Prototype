@@ -27,13 +27,12 @@ public:
 		float NormalFieldOfView = 90;
 	UPROPERTY(EditAnywhere)
 		float Alpha01 = 0.1f;
-	UPROPERTY(EditAnyWhere)
-		UDirectionalLightComponent* DirectionalLight = nullptr;
 
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 	void ToggleIntuition();
 
 private:
+	UDirectionalLightComponent* DirectionalLight = nullptr;
 	UCameraComponent* Camera = nullptr;
 	float LightIntensity = 1.0f;
 	int IntuitionBlend = 0;

@@ -26,7 +26,7 @@ void UIntuition::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompo
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
 	ChangeFOV();
-	ChangeLightIntensity();
+	//ChangeLightIntensity();
 }
 
 void UIntuition::BindAction()
